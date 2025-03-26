@@ -94,7 +94,7 @@ try:
     with open("agenda.json", "w", encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
-    print("Datos guardados exitosamente en ambas ubicaciones")
+    print("Datos guardados exitosamente")
 
 except requests.exceptions.RequestException as e:
     print(f"Error al realizar la solicitud: {e}")
