@@ -190,36 +190,6 @@
                     "cantidad_eventos": 5
                 },
                 {
-                    "id": "127",
-                    "nombre": "Ligue 1 de Francia",
-                    "eventos": [
-                        {
-                            "id": "76739",
-                            "fecha": "2025-03-28 16:30:00",
-                            "nombre": "Racing Strasburgo vs. Olympique de Lyon",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-03-28 16:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "129",
                     "nombre": "Bundesliga",
                     "eventos": [
@@ -252,6 +222,36 @@
                                         "ISDBT": 25.5,
                                         "IPTV": 20
                                     }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-03-28 16:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "127",
+                    "nombre": "Ligue 1 de Francia",
+                    "eventos": [
+                        {
+                            "id": "76739",
+                            "fecha": "2025-03-28 16:30:00",
+                            "nombre": "Racing Strasburgo vs. Olympique de Lyon",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
                                 }
                             ],
                             "deporte": {
