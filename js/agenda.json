@@ -121,40 +121,6 @@
                     "nombre": "Liga de España",
                     "eventos": [
                         {
-                            "id": "76882",
-                            "fecha": "2025-03-29 12:15:00",
-                            "nombre": "Espanyol\tvs.\tAtlético de Madrid",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76883",
-                            "fecha": "2025-03-29 14:30:00",
-                            "nombre": "Alavés\tvs.\tRayo Vallecano",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "76884",
                             "fecha": "2025-03-29 17:00:00",
                             "nombre": "Real Madrid\tvs.\tLeganés",
@@ -198,103 +164,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 10:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "128",
                     "nombre": "Serie A",
                     "eventos": [
-                        {
-                            "id": "76917",
-                            "fecha": "2025-03-29 10:50:00",
-                            "nombre": "Venezia vs. Bologna",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76885",
-                            "fecha": "2025-03-29 11:00:00",
-                            "nombre": "Como\tvs.\tEmpoli",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76886",
-                            "fecha": "2025-03-29 14:00:00",
-                            "nombre": "Juventus\tvs.\tGenoa",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "76918",
                             "fecha": "2025-03-29 16:30:00",
@@ -319,164 +194,24 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 10:50:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "129",
                     "nombre": "Bundesliga",
-                    "eventos": [
-                        {
-                            "id": "76919",
-                            "fecha": "2025-03-29 11:20:00",
-                            "nombre": "Bayern Munich vs. St. Pauli",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76920",
-                            "fecha": "2025-03-29 11:20:00",
-                            "nombre": "Borussia Monchengladbach vs. RB Leipzig",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76921",
-                            "fecha": "2025-03-29 11:20:00",
-                            "nombre": "Hoffenheim vs. Augsburg",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76922",
-                            "fecha": "2025-03-29 11:20:00",
-                            "nombre": "Holstein Kiel vs. Werder Bremen",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76923",
-                            "fecha": "2025-03-29 11:20:00",
-                            "nombre": "Wolfsburg vs. Heidenheim 1846",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76924",
-                            "fecha": "2025-03-29 14:20:00",
-                            "nombre": "Eintracht Frankfurt vs. Stuttgart",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 11:20:00",
-                    "cantidad_eventos": 6
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "127",
                     "nombre": "Ligue 1 de Francia",
                     "eventos": [
-                        {
-                            "id": "76887",
-                            "fecha": "2025-03-29 13:00:00",
-                            "nombre": "Reims vs. Olympique Marsella",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "76888",
                             "fecha": "2025-03-29 15:00:00",
@@ -558,7 +293,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 13:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "6",
@@ -650,32 +385,14 @@
                 {
                     "id": "281",
                     "nombre": "FA Cup",
-                    "eventos": [
-                        {
-                            "id": "76926",
-                            "fecha": "2025-03-29 14:00:00",
-                            "nombre": "Cuartos de Final: Brighton vs. Nottingham Forest",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 09:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "254",
@@ -918,91 +635,19 @@
                 {
                     "id": "1047",
                     "nombre": "EFL Championship",
-                    "eventos": [
-                        {
-                            "id": "76895",
-                            "fecha": "2025-03-29 12:00:00",
-                            "nombre": "Burnley\tvs.\tBristol City",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 09:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1659",
                     "nombre": "Segunda división de España",
                     "eventos": [
-                        {
-                            "id": "76892",
-                            "fecha": "2025-03-29 12:15:00",
-                            "nombre": "Racing de Ferrol\tvs.\tDeportivo La Coruña",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "76893",
-                            "fecha": "2025-03-29 14:30:00",
-                            "nombre": "Cartagena\tvs.\tCastellón",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "76894",
                             "fecha": "2025-03-29 17:00:00",
@@ -1027,53 +672,19 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 12:15:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "275",
                     "nombre": "Scottish Premiership (Liga de Escocia)",
-                    "eventos": [
-                        {
-                            "id": "76901",
-                            "fecha": "2025-03-29 14:00:00",
-                            "nombre": "Dundee\tvs.\tRangers",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 14:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "233",
@@ -1126,23 +737,6 @@
                     "nombre": "Top 14 de Francia",
                     "eventos": [
                         {
-                            "id": "76928",
-                            "fecha": "2025-03-29 12:20:00",
-                            "nombre": "Bayonne vs. Lyon",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
                             "id": "76929",
                             "fecha": "2025-03-29 17:00:00",
                             "nombre": "Castres vs. Toulon",
@@ -1166,7 +760,7 @@
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-03-29 10:20:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "374",
@@ -1183,168 +777,31 @@
                 {
                     "id": "249",
                     "nombre": "Premiership Inglesa",
-                    "eventos": [
-                        {
-                            "id": "76930",
-                            "fecha": "2025-03-29 12:00:00",
-                            "nombre": "Bath Rugby vs. Harlequins",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "76931",
-                            "fecha": "2025-03-29 14:20:00",
-                            "nombre": "Gloucester Rugby vs. Bristol Bears",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-03-29 12:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "154",
                     "nombre": "Moto GP",
-                    "eventos": [
-                        {
-                            "id": "76910",
-                            "fecha": "2025-03-29 12:45:00",
-                            "nombre": "GP Americas: Clasificación",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
-                            "id": "76925",
-                            "fecha": "2025-03-29 14:45:00",
-                            "nombre": "GP Americas: Sprint",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-03-29 12:45:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1640",
                     "nombre": "Copa América Femenina de Futsal",
                     "eventos": [
-                        {
-                            "id": "76898",
-                            "fecha": "2025-03-29 13:30:00",
-                            "nombre": "Semifinal: Argentina vs. Paraguay",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS +",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "76899",
                             "fecha": "2025-03-29 16:15:00",
@@ -1379,88 +836,24 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-03-29 13:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1642",
                     "nombre": "Copa América Femenina de Futsal",
-                    "eventos": [
-                        {
-                            "id": "76897",
-                            "fecha": "2025-03-29 13:30:00",
-                            "nombre": "Semifinal: Argentina vs. Paraguay",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS +",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-03-29 13:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1581",
                     "nombre": "Super Rugby Americas ",
                     "eventos": [
-                        {
-                            "id": "76907",
-                            "fecha": "2025-03-29 14:00:00",
-                            "nombre": "Selkman\tvs.\tPampas XV",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
                         {
                             "id": "76908",
                             "fecha": "2025-03-29 16:00:00",
@@ -1504,7 +897,7 @@
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-03-29 14:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "194",
@@ -4071,48 +3464,6 @@
                     "cantidad_eventos": 6
                 },
                 {
-                    "id": "559",
-                    "nombre": "Copa de Italia ",
-                    "eventos": [
-                        {
-                            "id": "76994",
-                            "fecha": "2025-04-01 15:30:00",
-                            "nombre": "Semifinal: Empoli vs. Bologna",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-01 15:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "193",
                     "nombre": "DFB Pokal (Copa de Alemania)",
                     "eventos": [
@@ -4139,6 +3490,48 @@
                                         "HD": 28,
                                         "ISDBT": 26.2,
                                         "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-01 15:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "559",
+                    "nombre": "Copa de Italia ",
+                    "eventos": [
+                        {
+                            "id": "76994",
+                            "fecha": "2025-04-01 15:30:00",
+                            "nombre": "Semifinal: Empoli vs. Bologna",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
                                     }
                                 }
                             ],
