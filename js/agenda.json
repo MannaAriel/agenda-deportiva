@@ -158,73 +158,6 @@
                     "nombre": "Serie A",
                     "eventos": [
                         {
-                            "id": "77089",
-                            "fecha": "2025-04-06 07:30:00",
-                            "nombre": "Lecce vs. Venezia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77090",
-                            "fecha": "2025-04-06 10:00:00",
-                            "nombre": "Empoli vs. Cagliari",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77091",
-                            "fecha": "2025-04-06 10:00:00",
-                            "nombre": "Torino vs. Hellas Verona",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "77092",
                             "fecha": "2025-04-06 13:00:00",
                             "nombre": "Atalanta vs. Lazio",
@@ -281,62 +214,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-06 07:30:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
                     "eventos": [
-                        {
-                            "id": "77085",
-                            "fecha": "2025-04-06 09:00:00",
-                            "nombre": "Las Palmas vs. Real Sociedad",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77086",
-                            "fecha": "2025-04-06 11:15:00",
-                            "nombre": "Sevilla vs. Atlético de Madrid",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77087",
                             "fecha": "2025-04-06 13:30:00",
@@ -410,157 +293,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-06 09:00:00",
-                    "cantidad_eventos": 4
-                },
-                {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77081",
-                            "fecha": "2025-04-06 10:00:00",
-                            "nombre": "Brentford vs. Chelsea",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77082",
-                            "fecha": "2025-04-06 10:00:00",
-                            "nombre": "Fulham vs. Liverpool",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77083",
-                            "fecha": "2025-04-06 10:00:00",
-                            "nombre": "Tottenham vs. Southampton",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77084",
-                            "fecha": "2025-04-06 12:30:00",
-                            "nombre": "Manchester United vs. Manchester City",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-06 10:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "127",
                     "nombre": "Ligue 1 de Francia",
                     "eventos": [
-                        {
-                            "id": "77096",
-                            "fecha": "2025-04-06 10:00:00",
-                            "nombre": "Lens vs. Saint-Etienne",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77097",
                             "fecha": "2025-04-06 12:15:00",
@@ -636,25 +374,25 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-06 10:00:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 4
                 },
                 {
-                    "id": "129",
-                    "nombre": "Bundesliga",
+                    "id": "125",
+                    "nombre": "Premier League",
                     "eventos": [
                         {
-                            "id": "77094",
-                            "fecha": "2025-04-06 10:30:00",
-                            "nombre": "St. Pauli vs. Borussia Monchengladbach",
-                            "horaDia": 1,
+                            "id": "77084",
+                            "fecha": "2025-04-06 12:30:00",
+                            "nombre": "Manchester United vs. Manchester City",
+                            "horaDia": 2,
                             "canales": [
                                 {
                                     "id": "179",
                                     "nombre": "DISNEY +"
                                 },
                                 {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
+                                    "id": "8",
+                                    "nombre": "ESPN",
                                     "plataformas": [
                                         "HD",
                                         "ANALOGICO",
@@ -662,10 +400,10 @@
                                         "IPTV"
                                     ],
                                     "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
                                     }
                                 }
                             ],
@@ -674,7 +412,20 @@
                                 "nombre": "Fútbol",
                                 "icono": "futbol.png"
                             }
-                        },
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-06 10:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "129",
+                    "nombre": "Bundesliga",
+                    "eventos": [
                         {
                             "id": "77095",
                             "fecha": "2025-04-06 12:30:00",
@@ -699,7 +450,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-06 10:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "6",
@@ -992,32 +743,14 @@
                 {
                     "id": "139",
                     "nombre": "Eredivisie ",
-                    "eventos": [
-                        {
-                            "id": "77215",
-                            "fecha": "2025-04-06 11:30:00",
-                            "nombre": "Ajax vs. NAC Breda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-06 11:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "161",
@@ -1064,44 +797,14 @@
                 {
                     "id": "83",
                     "nombre": "Top Race",
-                    "eventos": [
-                        {
-                            "id": "77232",
-                            "fecha": "2025-04-06 10:30:00",
-                            "nombre": "Fecha 2 - Rosario",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-04-06 10:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "233",
@@ -1148,79 +851,26 @@
                 {
                     "id": "975",
                     "nombre": "Seven Singapur",
-                    "eventos": [
-                        {
-                            "id": "77216",
-                            "fecha": "2025-04-06 07:00:00",
-                            "nombre": "Sevens Series Singapur – Super Session",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-04-06 07:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "225",
                     "nombre": "Copa de Campeones de Europa",
-                    "eventos": [
-                        {
-                            "id": "77219",
-                            "fecha": "2025-04-06 08:20:00",
-                            "nombre": "Bordeaux Begles vs. Ulster Rugby",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "77221",
-                            "fecha": "2025-04-06 10:50:00",
-                            "nombre": "Toulouse vs. Sale Sharks",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-04-06 08:20:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "220",
@@ -1530,46 +1180,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "126",
-                    "nombre": "Liga de España",
-                    "eventos": [
-                        {
-                            "id": "77116",
-                            "fecha": "2025-04-07 16:00:00",
-                            "nombre": "Leganés vs. Osasuna",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS +",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-07 16:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "125",
                     "nombre": "Premier League",
                     "eventos": [
@@ -1598,6 +1208,46 @@
                                         "ISDBT": 25.5,
                                         "IPTV": 20
                                     }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-07 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "126",
+                    "nombre": "Liga de España",
+                    "eventos": [
+                        {
+                            "id": "77116",
+                            "fecha": "2025-04-07 16:00:00",
+                            "nombre": "Leganés vs. Osasuna",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "185",
+                                    "nombre": "DSPORTS +",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
                                 }
                             ],
                             "deporte": {
@@ -3449,21 +3099,6 @@
                 "ANALOGICO": 21,
                 "ISDBT": 25.6,
                 "IPTV": 21
-            }
-        },
-        {
-            "id": "161",
-            "nombre": "ESPN 4",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 28,
-                "ISDBT": 26.2,
-                "IPTV": 22
             }
         },
         {
