@@ -205,81 +205,14 @@
                 {
                     "id": "12",
                     "nombre": "UEFA Champions League",
-                    "eventos": [
-                        {
-                            "id": "77246",
-                            "fecha": "2025-04-08 16:00:00",
-                            "nombre": "4tos de Final (Ida) – Arsenal vs. Real Madrid",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77247",
-                            "fecha": "2025-04-08 16:00:00",
-                            "nombre": "4tos de Final (Ida) – Bayern Munich vs. Inter de Milán",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-08 16:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "72",
@@ -570,32 +503,14 @@
                 {
                     "id": "1047",
                     "nombre": "EFL Championship",
-                    "eventos": [
-                        {
-                            "id": "77262",
-                            "fecha": "2025-04-08 15:55:00",
-                            "nombre": "Middlesbrough vs. Leeds United",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-08 15:55:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "233",
@@ -670,6 +585,60 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "570",
+                    "nombre": "Sudamericano Sub-17",
+                    "eventos": [
+                        {
+                            "id": "77309",
+                            "fecha": "2025-04-08 21:00:00",
+                            "nombre": "Argentina vs. Bolivia ",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-08 21:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "326",
                     "nombre": "Liga de Campeones Concacaf",
                     "eventos": [
@@ -736,6 +705,77 @@
         {
             "fecha": "2025-04-09",
             "torneos": [
+                {
+                    "id": "14",
+                    "nombre": "Copa Argentina",
+                    "eventos": [
+                        {
+                            "id": "77313",
+                            "fecha": "2025-04-09 16:00:00",
+                            "nombre": "Rosario Central vs. Los Andes",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77314",
+                            "fecha": "2025-04-09 21:10:00",
+                            "nombre": "Sarmiento de Junín vs. Central Córdoba de Rosario",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-09 16:00:00",
+                    "cantidad_eventos": 2
+                },
                 {
                     "id": "3",
                     "nombre": "Copa Conmebol Libertadores",
@@ -952,6 +992,23 @@
                             }
                         },
                         {
+                            "id": "77310",
+                            "fecha": "2025-04-09 19:00:00",
+                            "nombre": "Palestino vs. Unión",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "11",
+                                    "nombre": "DSPORTS"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
                             "id": "77281",
                             "fecha": "2025-04-09 21:00:00",
                             "nombre": "Lanús (Arg) vs. Melgar (Per)",
@@ -983,6 +1040,46 @@
                                 "nombre": "Fútbol",
                                 "icono": "futbol.png"
                             }
+                        },
+                        {
+                            "id": "77311",
+                            "fecha": "2025-04-09 21:30:00",
+                            "nombre": "Cruzeiro vs. Mushuc Runa",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "11",
+                                    "nombre": "DSPORTS"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77312",
+                            "fecha": "2025-04-09 21:30:00",
+                            "nombre": "Union Española vs. Once Caldas",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "185",
+                                    "nombre": "DSPORTS +",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
                         }
                     ],
                     "deporte": {
@@ -991,7 +1088,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-09 18:45:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 5
                 },
                 {
                     "id": "1486",
@@ -2822,6 +2919,10 @@
             "nombre": "DISNEY + PREMIUM "
         },
         {
+            "id": "11",
+            "nombre": "DSPORTS"
+        },
+        {
             "id": "185",
             "nombre": "DSPORTS +",
             "plataformas": [
@@ -3003,6 +3104,10 @@
                 "ISDBT": 24.5,
                 "IPTV": 17
             }
+        },
+        {
+            "id": "50",
+            "nombre": "TYC SPORTS PLAY"
         }
     ],
     "hoy": "2025-04-08",
