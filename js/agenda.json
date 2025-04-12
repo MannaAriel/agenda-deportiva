@@ -1268,6 +1268,52 @@
                     "cantidad_eventos": 2
                 },
                 {
+                    "id": "161",
+                    "nombre": "Liga Endesa (España)",
+                    "eventos": [
+                        {
+                            "id": "77418",
+                            "fecha": "2025-04-12 15:30:00",
+                            "nombre": "UCAM Murcia\tvs.\tBaskonia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-04-12 15:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "435",
                     "nombre": "Top 12 de la URBA",
                     "eventos": [
@@ -1401,52 +1447,6 @@
                     },
                     "primerFecha": "2025-04-12 15:10:00",
                     "cantidad_eventos": 6
-                },
-                {
-                    "id": "161",
-                    "nombre": "Liga Endesa (España)",
-                    "eventos": [
-                        {
-                            "id": "77418",
-                            "fecha": "2025-04-12 15:30:00",
-                            "nombre": "UCAM Murcia\tvs.\tBaskonia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-04-12 15:30:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "420",
