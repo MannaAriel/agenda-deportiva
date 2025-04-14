@@ -1452,40 +1452,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "77484",
-                            "fecha": "2025-04-17 20:00:00",
-                            "nombre": "St. Louis Cardinals vs. NY Mets",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-04-17 20:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "1577",
                     "nombre": "NHL (Hockey sobre hielo)",
                     "eventos": [
@@ -1517,6 +1483,40 @@
                                         "ISDBT": 26.2,
                                         "IPTV": 22
                                     }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-04-17 20:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "77484",
+                            "fecha": "2025-04-17 20:00:00",
+                            "nombre": "St. Louis Cardinals vs. NY Mets",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
                                 }
                             ],
                             "deporte": {
