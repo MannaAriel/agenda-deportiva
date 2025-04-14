@@ -8,56 +8,6 @@
                     "nombre": "Liga Profesional Argentina",
                     "eventos": [
                         {
-                            "id": "77318",
-                            "fecha": "2025-04-13 15:30:00",
-                            "nombre": "Instituto vs. Riestra",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77319",
-                            "fecha": "2025-04-13 15:30:00",
-                            "nombre": "Gimnasia (LP) vs. Estudiantes (LP)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN Premium",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "77320",
                             "fecha": "2025-04-13 18:00:00",
                             "nombre": "Independiente vs. San Martín (SJ)",
@@ -114,513 +64,91 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 15:30:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "128",
                     "nombre": "Serie A",
-                    "eventos": [
-                        {
-                            "id": "77333",
-                            "fecha": "2025-04-13 13:00:00",
-                            "nombre": "Como vs. Torino",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77334",
-                            "fecha": "2025-04-13 15:45:00",
-                            "nombre": "Lazio vs. Roma",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 07:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
-                    "eventos": [
-                        {
-                            "id": "77328",
-                            "fecha": "2025-04-13 13:30:00",
-                            "nombre": "Real Betis vs. Villarreal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77329",
-                            "fecha": "2025-04-13 16:00:00",
-                            "nombre": "Athletic Bilbao vs. Rayo Vallecano",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 09:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "125",
                     "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77325",
-                            "fecha": "2025-04-13 12:30:00",
-                            "nombre": "Newcastle vs. Manchester United",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "127",
                     "nombre": "Ligue 1 de Francia",
-                    "eventos": [
-                        {
-                            "id": "77338",
-                            "fecha": "2025-04-13 12:15:00",
-                            "nombre": "Angers vs. Montpellier",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77339",
-                            "fecha": "2025-04-13 12:15:00",
-                            "nombre": "Le Havre vs. Rennes",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77340",
-                            "fecha": "2025-04-13 15:45:00",
-                            "nombre": "Auxerre vs. Olympique Lyon",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 10:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "129",
                     "nombre": "Bundesliga",
-                    "eventos": [
-                        {
-                            "id": "77336",
-                            "fecha": "2025-04-13 12:30:00",
-                            "nombre": "Eintracht Frankfurt vs. Heidenheim",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 10:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "168",
                     "nombre": "Fórmula 1",
-                    "eventos": [
-                        {
-                            "id": "77317",
-                            "fecha": "2025-04-13 12:00:00",
-                            "nombre": "GP Bahrein - Carrera",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-04-13 12:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "6",
                     "nombre": "Primera Nacional",
-                    "eventos": [
-                        {
-                            "id": "77347",
-                            "fecha": "2025-04-13 15:00:00",
-                            "nombre": "Almirante Brown vs. Gimnasia (Mdz)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77348",
-                            "fecha": "2025-04-13 15:35:00",
-                            "nombre": "Quilmes vs. Los Andes",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77349",
-                            "fecha": "2025-04-13 16:00:00",
-                            "nombre": "Racing (C) vs. San Miguel",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77350",
-                            "fecha": "2025-04-13 16:00:00",
-                            "nombre": "Dep. Morón vs. Talleres (RE)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77351",
-                            "fecha": "2025-04-13 16:30:00",
-                            "nombre": "Dep. Maipú vs. Gimnasia y Tiro",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77352",
-                            "fecha": "2025-04-13 16:30:00",
-                            "nombre": "Chaco For Ever vs. Gimnasia (J)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77353",
-                            "fecha": "2025-04-13 17:00:00",
-                            "nombre": "Temperley vs. Chacarita",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77354",
-                            "fecha": "2025-04-13 17:00:00",
-                            "nombre": "Mitre (SdE) vs. Agropecuario",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77355",
-                            "fecha": "2025-04-13 17:30:00",
-                            "nombre": "Dep. Madryn vs. Trsitán Suárez",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 15:00:00",
-                    "cantidad_eventos": 9
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1486",
@@ -637,239 +165,62 @@
                 {
                     "id": "61",
                     "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "77456",
-                            "fecha": "2025-04-13 13:00:00",
-                            "nombre": "Fenix vs. Laferrere",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "10",
                     "nombre": "NBA",
-                    "eventos": [
-                        {
-                            "id": "77452",
-                            "fecha": "2025-04-13 14:00:00",
-                            "nombre": "Milwaukee Bucks vs. Detroit Pistons",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "77453",
-                            "fecha": "2025-04-13 16:30:00",
-                            "nombre": "Golden State Warriors vs. Los Angeles Clippers",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-04-13 14:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "139",
                     "nombre": "Eredivisie ",
-                    "eventos": [
-                        {
-                            "id": "77341",
-                            "fecha": "2025-04-13 11:45:00",
-                            "nombre": "Willem vs. Ajax",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-13 11:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "13",
                     "nombre": "Liga Nacional",
-                    "eventos": [
-                        {
-                            "id": "77457",
-                            "fecha": "2025-04-13 13:00:00",
-                            "nombre": "Instituto vs. Zárate Basket",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-04-13 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "161",
                     "nombre": "Liga Endesa (España)",
-                    "eventos": [
-                        {
-                            "id": "77458",
-                            "fecha": "2025-04-13 13:20:00",
-                            "nombre": "Valencia vs. Unicaja",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-04-13 13:20:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "233",
@@ -920,48 +271,14 @@
                 {
                     "id": "369",
                     "nombre": "Golf: Masters de Augusta",
-                    "eventos": [
-                        {
-                            "id": "77450",
-                            "fecha": "2025-04-13 14:45:00",
-                            "nombre": "Última Vuelta",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-04-13 14:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1657",
@@ -1026,92 +343,38 @@
                 {
                     "id": "220",
                     "nombre": "Hockey Femenino: Torneo Metropolitano",
-                    "eventos": [
-                        {
-                            "id": "77448",
-                            "fecha": "2025-04-13 13:00:00",
-                            "nombre": "Quilmes vs. St. Catherines",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-04-13 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "221",
                     "nombre": "Hockey Masculino: Torneo Metropolitano",
-                    "eventos": [
-                        {
-                            "id": "77451",
-                            "fecha": "2025-04-13 15:00:00",
-                            "nombre": "Ciudad vs. San Fernando",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-04-13 15:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "351",
                     "nombre": "IndyCar Series",
-                    "eventos": [
-                        {
-                            "id": "77449",
-                            "fecha": "2025-04-13 17:30:00",
-                            "nombre": "Long Beach – Carrera",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-04-13 17:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "368",
@@ -2297,10 +1560,6 @@
         {
             "id": "164",
             "nombre": "DSPORTS / DGO"
-        },
-        {
-            "id": "16",
-            "nombre": "DSPORTS 2"
         },
         {
             "id": "8",
