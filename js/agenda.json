@@ -8,31 +8,6 @@
                     "nombre": "Liga Profesional Argentina",
                     "eventos": [
                         {
-                            "id": "77342",
-                            "fecha": "2025-04-14 15:30:00",
-                            "nombre": "Aldosivi vs. Racing",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN Premium",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "77343",
                             "fecha": "2025-04-14 18:00:00",
                             "nombre": "Central Córdoba vs. Huracán",
@@ -155,29 +130,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-14 15:30:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 4
                 },
                 {
                     "id": "6",
                     "nombre": "Primera Nacional",
                     "eventos": [
-                        {
-                            "id": "77356",
-                            "fecha": "2025-04-14 14:00:00",
-                            "nombre": "Arsenal vs. Patronato",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77357",
                             "fecha": "2025-04-14 18:00:00",
@@ -243,159 +201,55 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-14 14:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "128",
                     "nombre": "Serie A",
-                    "eventos": [
-                        {
-                            "id": "77361",
-                            "fecha": "2025-04-14 15:45:00",
-                            "nombre": "Napoli vs. Empoli",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-14 15:45:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77359",
-                            "fecha": "2025-04-14 16:00:00",
-                            "nombre": "Bournemouth vs. Fulham",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-14 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
-                    "eventos": [
-                        {
-                            "id": "77360",
-                            "fecha": "2025-04-14 16:00:00",
-                            "nombre": "Atlético Madrid vs. Real Valladolid",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-14 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
+                },
+                {
+                    "id": "125",
+                    "nombre": "Premier League",
+                    "eventos": [],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-14 16:00:00",
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1047",
                     "nombre": "EFL Championship",
-                    "eventos": [
-                        {
-                            "id": "77462",
-                            "fecha": "2025-04-14 16:00:00",
-                            "nombre": "Hull City vs. Coventry City",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-14 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "368",
@@ -1082,6 +936,85 @@
                     },
                     "primerFecha": "2025-04-16 19:45:00",
                     "cantidad_eventos": 1
+                },
+                {
+                    "id": "1687",
+                    "nombre": "NBA - Play In",
+                    "eventos": [
+                        {
+                            "id": "77491",
+                            "fecha": "2025-04-16 20:30:00",
+                            "nombre": "Chicago Bulls vs. Miami Heat",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        },
+                        {
+                            "id": "77492",
+                            "fecha": "2025-04-16 23:00:00",
+                            "nombre": "Sacramento Kings vs. Dallas Mavericks",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-04-16 20:30:00",
+                    "cantidad_eventos": 2
                 }
             ],
             "eventos": [],
@@ -1276,23 +1209,6 @@
                                 "nombre": "Fútbol",
                                 "icono": "futbol.png"
                             }
-                        },
-                        {
-                            "id": "77481",
-                            "fecha": "2025-04-17 16:00:00",
-                            "nombre": "Chelsea vs. Legia Varsovia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
                         }
                     ],
                     "deporte": {
@@ -1301,7 +1217,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-17 16:00:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 4
                 },
                 {
                     "id": "1401",
@@ -1342,6 +1258,23 @@
                             }
                         },
                         {
+                            "id": "77481",
+                            "fecha": "2025-04-17 16:00:00",
+                            "nombre": "Chelsea vs. Legia Varsovia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
                             "id": "77482",
                             "fecha": "2025-04-17 16:00:00",
                             "nombre": "Rapid Vienna vs. Djurgarden",
@@ -1365,7 +1298,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-17 13:45:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 4
                 },
                 {
                     "id": "408",
@@ -1452,6 +1385,40 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "77484",
+                            "fecha": "2025-04-17 20:00:00",
+                            "nombre": "St. Louis Cardinals vs. NY Mets",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-04-17 20:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "1577",
                     "nombre": "NHL (Hockey sobre hielo)",
                     "eventos": [
@@ -1499,40 +1466,6 @@
                     },
                     "primerFecha": "2025-04-17 20:00:00",
                     "cantidad_eventos": 1
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "77484",
-                            "fecha": "2025-04-17 20:00:00",
-                            "nombre": "St. Louis Cardinals vs. NY Mets",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-04-17 20:00:00",
-                    "cantidad_eventos": 1
                 }
             ],
             "eventos": [],
@@ -1551,10 +1484,6 @@
         {
             "id": "181",
             "nombre": "DISNEY + PREMIUM "
-        },
-        {
-            "id": "164",
-            "nombre": "DSPORTS / DGO"
         },
         {
             "id": "16",
