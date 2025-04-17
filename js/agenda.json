@@ -8,39 +8,6 @@
                     "nombre": "Copa Argentina",
                     "eventos": [
                         {
-                            "id": "77486",
-                            "fecha": "2025-04-16 16:10:00",
-                            "nombre": "Independiente Rivadavia vs. Estudiantes BA",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "77487",
                             "fecha": "2025-04-16 18:35:00",
                             "nombre": "Argentinos Juniors vs. Central Norte",
@@ -113,140 +80,31 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-16 16:10:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "125",
                     "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77485",
-                            "fecha": "2025-04-16 15:30:00",
-                            "nombre": "Newcastle vs. Crystal Palace",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-16 15:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "12",
                     "nombre": "UEFA Champions League",
-                    "eventos": [
-                        {
-                            "id": "77470",
-                            "fecha": "2025-04-16 16:00:00",
-                            "nombre": "Real Madrid vs. Arsenal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77471",
-                            "fecha": "2025-04-16 16:00:00",
-                            "nombre": "Inter vs. Bayern Munich",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-16 16:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "347",
@@ -1256,6 +1114,23 @@
                     "nombre": "EFL Championship",
                     "eventos": [
                         {
+                            "id": "77539",
+                            "fecha": "2025-04-18 08:30:00",
+                            "nombre": "Derby County vs. Luton Town",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
                             "id": "77500",
                             "fecha": "2025-04-18 11:00:00",
                             "nombre": "Watford vs. Burnley",
@@ -1348,8 +1223,8 @@
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
-                    "primerFecha": "2025-04-18 11:00:00",
-                    "cantidad_eventos": 3
+                    "primerFecha": "2025-04-18 08:30:00",
+                    "cantidad_eventos": 4
                 },
                 {
                     "id": "1655",
@@ -1422,7 +1297,7 @@
                         {
                             "id": "77504",
                             "fecha": "2025-04-18 16:00:00",
-                            "nombre": "Play In: Equipos a confirmar",
+                            "nombre": "Play In: Real Madrid\tvs.\tBayern",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -1685,6 +1560,191 @@
                     "cantidad_eventos": 3
                 },
                 {
+                    "id": "126",
+                    "nombre": "Liga de España",
+                    "eventos": [
+                        {
+                            "id": "77542",
+                            "fecha": "2025-04-19 09:00:00",
+                            "nombre": "Rayo Vallecano\tvs.\tValencia",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77543",
+                            "fecha": "2025-04-19 11:15:00",
+                            "nombre": "Barcelona\tvs.\tCelta de Vigo",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77545",
+                            "fecha": "2025-04-19 13:30:00",
+                            "nombre": "Mallorca\tvs.\tLeganés",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77546",
+                            "fecha": "2025-04-19 16:00:00",
+                            "nombre": "Las Palmas\tvs.\tAtlético de Madrid",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 09:00:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "128",
+                    "nombre": "Serie A",
+                    "eventos": [
+                        {
+                            "id": "77578",
+                            "fecha": "2025-04-19 09:50:00",
+                            "nombre": "Lecce vs. Como",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77580",
+                            "fecha": "2025-04-19 12:50:00",
+                            "nombre": "Monza vs. Napoli",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77581",
+                            "fecha": "2025-04-19 15:30:00",
+                            "nombre": "Roma vs. Hellas Verona",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 09:50:00",
+                    "cantidad_eventos": 3
+                },
+                {
                     "id": "168",
                     "nombre": "Fórmula 1",
                     "eventos": [
@@ -1772,6 +1832,957 @@
                     "cantidad_eventos": 2
                 },
                 {
+                    "id": "125",
+                    "nombre": "Premier League",
+                    "eventos": [
+                        {
+                            "id": "77588",
+                            "fecha": "2025-04-19 10:50:00",
+                            "nombre": "Brentford vs. Brighton",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77589",
+                            "fecha": "2025-04-19 10:50:00",
+                            "nombre": "West Ham vs. Southampton",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77591",
+                            "fecha": "2025-04-19 10:50:00",
+                            "nombre": "Crystal Palace vs. Bournemouth",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77548",
+                            "fecha": "2025-04-19 11:00:00",
+                            "nombre": "Everton\tvs.\tManchester City",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77550",
+                            "fecha": "2025-04-19 13:30:00",
+                            "nombre": "Aston Villa\tvs.\tNewcastle",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 10:50:00",
+                    "cantidad_eventos": 5
+                },
+                {
+                    "id": "127",
+                    "nombre": "Ligue 1 de Francia",
+                    "eventos": [
+                        {
+                            "id": "77593",
+                            "fecha": "2025-04-19 10:50:00",
+                            "nombre": "Monaco vs. Strasbourg",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77551",
+                            "fecha": "2025-04-19 12:00:00",
+                            "nombre": "PSG\tvs.\tLe Havre",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77594",
+                            "fecha": "2025-04-19 15:50:00",
+                            "nombre": "Olympique Marsella vs. Montpellier",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 10:50:00",
+                    "cantidad_eventos": 3
+                },
+                {
+                    "id": "129",
+                    "nombre": "Bundesliga",
+                    "eventos": [
+                        {
+                            "id": "77584",
+                            "fecha": "2025-04-19 10:20:00",
+                            "nombre": "Heidenheim 1846 vs. Bayern Munich",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77585",
+                            "fecha": "2025-04-19 10:20:00",
+                            "nombre": "RB Leipzig vs. Holstein Kiel",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77586",
+                            "fecha": "2025-04-19 10:20:00",
+                            "nombre": "Werder Bremen vs. Bochum",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77587",
+                            "fecha": "2025-04-19 10:20:00",
+                            "nombre": "Freiburg vs. Hoffenheim",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77552",
+                            "fecha": "2025-04-19 13:30:00",
+                            "nombre": "Union Berlin\tvs.\tStuttgart",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 10:20:00",
+                    "cantidad_eventos": 5
+                },
+                {
+                    "id": "383",
+                    "nombre": "NBA - Playoffs",
+                    "eventos": [
+                        {
+                            "id": "77603",
+                            "fecha": "2025-04-19 14:00:00",
+                            "nombre": "Juego #1: Indiana Pacers vs. Milwaukee Bucks",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        },
+                        {
+                            "id": "77604",
+                            "fecha": "2025-04-19 16:30:00",
+                            "nombre": "Juego #1: Denver Nuggets vs. LA Clippers",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        },
+                        {
+                            "id": "77605",
+                            "fecha": "2025-04-19 19:00:00",
+                            "nombre": "Juego #1: New York Knicks vs. Detroit Pistons",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        },
+                        {
+                            "id": "77606",
+                            "fecha": "2025-04-19 21:30:00",
+                            "nombre": "Juego #1: LA Lakers vs. Minnesota Timberwolves",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-04-19 14:00:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "6",
+                    "nombre": "Primera Nacional",
+                    "eventos": [
+                        {
+                            "id": "77563",
+                            "fecha": "2025-04-19 15:30:00",
+                            "nombre": "San Miguel\tvs.\tQuilmes",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77564",
+                            "fecha": "2025-04-19 16:00:00",
+                            "nombre": "San Martín de Tucumán\tvs.\tAll Boys",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 15:30:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "77566",
+                            "fecha": "2025-04-19 17:30:00",
+                            "nombre": "San Martin de Burzaco\tvs.\tBrown de Adrogué",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 17:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "30",
+                    "nombre": "Boxeo de Primera",
+                    "eventos": [
+                        {
+                            "id": "77573",
+                            "fecha": "2025-04-19 23:30:00",
+                            "nombre": "Jonathan Hernández\tvs.\tJesús Rubio",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "6",
+                                "nombre": "Boxeo",
+                                "icono": "boxeo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "6",
+                        "nombre": "Boxeo",
+                        "icono": "boxeo.png"
+                    },
+                    "primerFecha": "2025-04-19 23:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "13",
+                    "nombre": "Liga Nacional",
+                    "eventos": [
+                        {
+                            "id": "77567",
+                            "fecha": "2025-04-19 11:30:00",
+                            "nombre": "Platense\tvs.\tGimnasia CR",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-04-19 11:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1183",
+                    "nombre": "ESPN Knockout",
+                    "eventos": [
+                        {
+                            "id": "77602",
+                            "fecha": "2025-04-19 21:00:00",
+                            "nombre": "Gabriela Fundora vs. Marilyn Badillo",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "6",
+                                "nombre": "Boxeo",
+                                "icono": "boxeo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "6",
+                        "nombre": "Boxeo",
+                        "icono": "boxeo.png"
+                    },
+                    "primerFecha": "2025-04-19 21:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1659",
+                    "nombre": "Segunda división de España",
+                    "eventos": [
+                        {
+                            "id": "77555",
+                            "fecha": "2025-04-19 09:00:00",
+                            "nombre": "Racing de Ferrol\tvs.\tEldense",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77557",
+                            "fecha": "2025-04-19 12:15:00",
+                            "nombre": "Huesca\tvs.\tRacing de Santander",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77559",
+                            "fecha": "2025-04-19 16:00:00",
+                            "nombre": "Burgos\tvs.\tCádiz",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 09:00:00",
+                    "cantidad_eventos": 3
+                },
+                {
+                    "id": "1678",
+                    "nombre": "Bundesliga 2",
+                    "eventos": [
+                        {
+                            "id": "77562",
+                            "fecha": "2025-04-19 15:30:00",
+                            "nombre": "Schalke 04\tvs.\tHamburgo",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-19 15:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "96",
+                    "nombre": "Top 14 de Francia",
+                    "eventos": [
+                        {
+                            "id": "77600",
+                            "fecha": "2025-04-19 11:20:00",
+                            "nombre": "La Rochelle vs. Bayonne",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        },
+                        {
+                            "id": "77601",
+                            "fecha": "2025-04-19 16:00:00",
+                            "nombre": "Toulon vs. Clermont",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-04-19 11:20:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "249",
+                    "nombre": "Premiership Inglesa",
+                    "eventos": [
+                        {
+                            "id": "77596",
+                            "fecha": "2025-04-19 11:00:00",
+                            "nombre": "Harlequins vs. Sale Sharks",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        },
+                        {
+                            "id": "77598",
+                            "fecha": "2025-04-19 13:20:00",
+                            "nombre": "Saracens vs. Gloucester Rugby",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-04-19 11:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
                     "id": "1655",
                     "nombre": "Formula 2",
                     "eventos": [
@@ -1800,6 +2811,53 @@
                     },
                     "primerFecha": "2025-04-19 12:10:00",
                     "cantidad_eventos": 1
+                },
+                {
+                    "id": "1190",
+                    "nombre": "Basketball Champions League Americas",
+                    "eventos": [
+                        {
+                            "id": "77569",
+                            "fecha": "2025-04-19 17:00:00",
+                            "nombre": "3° Puesto",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        },
+                        {
+                            "id": "77571",
+                            "fecha": "2025-04-19 21:00:00",
+                            "nombre": "Final",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-04-19 17:00:00",
+                    "cantidad_eventos": 2
                 }
             ],
             "eventos": [],
@@ -1981,6 +3039,10 @@
                 "ISDBT": 24.5,
                 "IPTV": 17
             }
+        },
+        {
+            "id": "50",
+            "nombre": "TYC SPORTS PLAY"
         }
     ],
     "hoy": "2025-04-16",
