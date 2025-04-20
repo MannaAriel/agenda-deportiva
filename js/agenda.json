@@ -137,72 +137,6 @@
                     "nombre": "Liga de España",
                     "eventos": [
                         {
-                            "id": "77537",
-                            "fecha": "2025-04-20 09:00:00",
-                            "nombre": "Valladolid vs. Osasuna",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77538",
-                            "fecha": "2025-04-20 11:15:00",
-                            "nombre": "Villarreal vs. Real Sociedad",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "77540",
                             "fecha": "2025-04-20 13:30:00",
                             "nombre": "Sevilla vs. Alavés",
@@ -243,142 +177,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-20 09:00:00",
-                    "cantidad_eventos": 4
-                },
-                {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77533",
-                            "fecha": "2025-04-20 10:00:00",
-                            "nombre": "Manchester United vs. Wolverhampton",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77534",
-                            "fecha": "2025-04-20 10:00:00",
-                            "nombre": "Fulham vs. Chelsea",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77535",
-                            "fecha": "2025-04-20 10:00:00",
-                            "nombre": "Ipswich Town vs. Arsenal",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77536",
-                            "fecha": "2025-04-20 12:30:00",
-                            "nombre": "Leicester vs. Liverpool",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-20 10:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "127",
                     "nombre": "Ligue 1 de Francia",
                     "eventos": [
-                        {
-                            "id": "77558",
-                            "fecha": "2025-04-20 10:00:00",
-                            "nombre": "Lille vs. Auxerre",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77560",
                             "fecha": "2025-04-20 12:15:00",
@@ -437,29 +241,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-20 10:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 3
                 },
                 {
                     "id": "128",
                     "nombre": "Serie A",
                     "eventos": [
-                        {
-                            "id": "77544",
-                            "fecha": "2025-04-20 10:00:00",
-                            "nombre": "Empoli vs. Venezia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77547",
                             "fecha": "2025-04-20 13:00:00",
@@ -532,21 +319,37 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-20 10:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
-                    "id": "129",
-                    "nombre": "Bundesliga",
+                    "id": "125",
+                    "nombre": "Premier League",
                     "eventos": [
                         {
-                            "id": "77553",
-                            "fecha": "2025-04-20 10:30:00",
-                            "nombre": "Augsburg vs. Eintracht Frankfurt",
-                            "horaDia": 1,
+                            "id": "77536",
+                            "fecha": "2025-04-20 12:30:00",
+                            "nombre": "Leicester vs. Liverpool",
+                            "horaDia": 2,
                             "canales": [
                                 {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
                                 }
                             ],
                             "deporte": {
@@ -554,7 +357,20 @@
                                 "nombre": "Fútbol",
                                 "icono": "futbol.png"
                             }
-                        },
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-20 10:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "129",
+                    "nombre": "Bundesliga",
+                    "eventos": [
                         {
                             "id": "77554",
                             "fecha": "2025-04-20 12:30:00",
@@ -612,7 +428,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-20 10:30:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "383",
@@ -621,7 +437,7 @@
                         {
                             "id": "77577",
                             "fecha": "2025-04-20 14:00:00",
-                            "nombre": "Oklahoma City Thunder vs. A Confirmar",
+                            "nombre": "Oklahoma City Thunder vs. Memphis Grizzlies ",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -671,7 +487,7 @@
                         {
                             "id": "77582",
                             "fecha": "2025-04-20 20:30:00",
-                            "nombre": "Cleveland Cavaliers vs. A Confirmar",
+                            "nombre": "Cleveland Cavaliers vs. Miami Heat",
                             "horaDia": 3,
                             "canales": [
                                 {
@@ -1105,86 +921,19 @@
                 {
                     "id": "139",
                     "nombre": "Eredivisie ",
-                    "eventos": [
-                        {
-                            "id": "77531",
-                            "fecha": "2025-04-20 07:00:00",
-                            "nombre": "FC Utrecht vs. Ajax",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-20 07:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "161",
                     "nombre": "Liga Endesa (España)",
                     "eventos": [
-                        {
-                            "id": "77599",
-                            "fecha": "2025-04-20 07:30:00",
-                            "nombre": "Real Madrid vs. Morabanc Andorra",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
                         {
                             "id": "77597",
                             "fecha": "2025-04-20 12:00:00",
@@ -1225,7 +974,7 @@
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-04-20 07:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1183",
@@ -1260,48 +1009,14 @@
                 {
                     "id": "200",
                     "nombre": "Premiership Rugby (Inglaterra)",
-                    "eventos": [
-                        {
-                            "id": "77568",
-                            "fecha": "2025-04-20 11:00:00",
-                            "nombre": "Bristol Bears vs. Leicester Tigers",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-04-20 11:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "96",
@@ -1336,81 +1051,19 @@
                 {
                     "id": "1688",
                     "nombre": "ATP 500 - Múnich",
-                    "eventos": [
-                        {
-                            "id": "77532",
-                            "fecha": "2025-04-20 08:30:00",
-                            "nombre": "Final",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-04-20 08:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1402",
                     "nombre": "TCR Sudamericano",
                     "eventos": [
-                        {
-                            "id": "77590",
-                            "fecha": "2025-04-20 09:00:00",
-                            "nombre": "Carrera 1",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
                         {
                             "id": "77592",
                             "fecha": "2025-04-20 12:00:00",
@@ -1447,82 +1100,31 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-04-20 09:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1655",
                     "nombre": "Formula 2",
-                    "eventos": [
-                        {
-                            "id": "77520",
-                            "fecha": "2025-04-20 10:20:00",
-                            "nombre": "GP Arabia Saudita: Carrera",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-04-20 10:20:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "43",
                     "nombre": "ATP 500 - Barcelona",
-                    "eventos": [
-                        {
-                            "id": "77570",
-                            "fecha": "2025-04-20 11:00:00",
-                            "nombre": "Final",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-04-20 11:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "961",
@@ -2687,7 +2289,7 @@
                         {
                             "id": "77655",
                             "fecha": "2025-04-22 20:30:00",
-                            "nombre": "Oklahoma City Thunder vs. A confirmar",
+                            "nombre": "Oklahoma City Thunder vs. Memphis Grizzlies",
                             "horaDia": 3,
                             "canales": [
                                 {
