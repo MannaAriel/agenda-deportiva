@@ -237,52 +237,6 @@
                     "cantidad_eventos": 4
                 },
                 {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77625",
-                            "fecha": "2025-04-21 16:00:00",
-                            "nombre": "Tottenham vs. Nottingham ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-21 16:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "126",
                     "nombre": "Liga de España",
                     "eventos": [
@@ -310,6 +264,52 @@
                                         "ANALOGICO": 21,
                                         "ISDBT": 25.6,
                                         "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-21 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "125",
+                    "nombre": "Premier League",
+                    "eventos": [
+                        {
+                            "id": "77625",
+                            "fecha": "2025-04-21 16:00:00",
+                            "nombre": "Tottenham vs. Nottingham ",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
                                     }
                                 }
                             ],
@@ -430,36 +430,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "77635",
-                            "fecha": "2025-04-21 15:30:00",
-                            "nombre": "Sacachispas vs. Acassuso",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-21 15:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "254",
                     "nombre": "Primera C",
                     "eventos": [
@@ -495,6 +465,36 @@
                     },
                     "primerFecha": "2025-04-21 15:30:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "77635",
+                            "fecha": "2025-04-21 15:30:00",
+                            "nombre": "Sacachispas vs. Acassuso",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-21 15:30:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1047",
