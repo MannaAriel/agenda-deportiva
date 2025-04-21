@@ -4,65 +4,19 @@
             "fecha": "2025-04-21",
             "torneos": [
                 {
-                    "id": "1346",
-                    "nombre": "Liga Profesional Argentina",
+                    "id": "125",
+                    "nombre": "Premier League",
                     "eventos": [
                         {
-                            "id": "77528",
-                            "fecha": "2025-04-21 19:00:00",
-                            "nombre": "Tigre vs. Belgrano",
+                            "id": "77625",
+                            "fecha": "2025-04-21 16:00:00",
+                            "nombre": "Tottenham vs. Nottingham ",
                             "horaDia": 2,
                             "canales": [
                                 {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77529",
-                            "fecha": "2025-04-21 21:15:00",
-                            "nombre": "Argentinos vs. Barracas Central",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77530",
-                            "fecha": "2025-04-21 21:15:00",
-                            "nombre": "Independiente Rivadavia vs. Aldosivi",
-                            "horaDia": 3,
-                            "canales": [
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
                                 {
                                     "id": "8",
                                     "nombre": "ESPN",
@@ -78,18 +32,6 @@
                                         "ISDBT": 25.4,
                                         "IPTV": 19
                                     }
-                                },
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
                                 }
                             ],
                             "deporte": {
@@ -104,137 +46,8 @@
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
-                    "primerFecha": "2025-04-21 19:00:00",
-                    "cantidad_eventos": 3
-                },
-                {
-                    "id": "128",
-                    "nombre": "Serie A",
-                    "eventos": [
-                        {
-                            "id": "77626",
-                            "fecha": "2025-04-21 07:30:00",
-                            "nombre": "Torino vs. Udinese",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77627",
-                            "fecha": "2025-04-21 10:00:00",
-                            "nombre": "Cagliari vs. Fiorentina",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77628",
-                            "fecha": "2025-04-21 13:00:00",
-                            "nombre": "Genoa vs. Lazio",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77630",
-                            "fecha": "2025-04-21 15:45:00",
-                            "nombre": "Parma vs. Juventus",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-21 07:30:00",
-                    "cantidad_eventos": 4
+                    "primerFecha": "2025-04-21 16:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "126",
@@ -283,123 +96,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77625",
-                            "fecha": "2025-04-21 16:00:00",
-                            "nombre": "Tottenham vs. Nottingham ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-21 16:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "6",
-                    "nombre": "Primera Nacional",
-                    "eventos": [
-                        {
-                            "id": "77623",
-                            "fecha": "2025-04-21 17:10:00",
-                            "nombre": "Defensores de Belgrano vs. Temperley",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77624",
-                            "fecha": "2025-04-21 21:10:00",
-                            "nombre": "Ferro vs. Atlanta",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-21 17:10:00",
-                    "cantidad_eventos": 2
-                },
-                {
                     "id": "383",
                     "nombre": "NBA - Playoffs",
                     "eventos": [
@@ -427,73 +123,6 @@
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-04-21 23:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "254",
-                    "nombre": "Primera C",
-                    "eventos": [
-                        {
-                            "id": "77636",
-                            "fecha": "2025-04-21 15:30:00",
-                            "nombre": "Centro Español vs. Luján",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77637",
-                            "fecha": "2025-04-21 15:30:00",
-                            "nombre": "Sp. Barracas vs. Victoriano Arenas",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-21 15:30:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "77635",
-                            "fecha": "2025-04-21 15:30:00",
-                            "nombre": "Sacachispas vs. Acassuso",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-21 15:30:00",
                     "cantidad_eventos": 1
                 },
                 {
@@ -808,6 +437,110 @@
                     "cantidad_eventos": 6
                 },
                 {
+                    "id": "1346",
+                    "nombre": "Liga Profesional Argentina",
+                    "eventos": [
+                        {
+                            "id": "77528",
+                            "fecha": "2025-04-22 19:00:00",
+                            "nombre": "Tigre vs. Belgrano",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77529",
+                            "fecha": "2025-04-22 21:15:00",
+                            "nombre": "Argentinos vs. Barracas Central",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77530",
+                            "fecha": "2025-04-22 21:15:00",
+                            "nombre": "Independiente Rivadavia vs. Aldosivi",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                },
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-22 19:00:00",
+                    "cantidad_eventos": 3
+                },
+                {
                     "id": "126",
                     "nombre": "Liga de España",
                     "eventos": [
@@ -977,6 +710,77 @@
                     },
                     "primerFecha": "2025-04-22 16:00:00",
                     "cantidad_eventos": 1
+                },
+                {
+                    "id": "6",
+                    "nombre": "Primera Nacional",
+                    "eventos": [
+                        {
+                            "id": "77623",
+                            "fecha": "2025-04-22 17:10:00",
+                            "nombre": "Defensores de Belgrano vs. Temperley",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77624",
+                            "fecha": "2025-04-22 21:10:00",
+                            "nombre": "Ferro vs. Atlanta",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-22 17:10:00",
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "383",
@@ -1166,6 +970,73 @@
                     },
                     "primerFecha": "2025-04-22 19:00:00",
                     "cantidad_eventos": 5
+                },
+                {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "77635",
+                            "fecha": "2025-04-22 15:30:00",
+                            "nombre": "Sacachispas vs. Acassuso",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-22 15:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "254",
+                    "nombre": "Primera C",
+                    "eventos": [
+                        {
+                            "id": "77636",
+                            "fecha": "2025-04-22 15:30:00",
+                            "nombre": "Centro Español vs. Luján",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77637",
+                            "fecha": "2025-04-22 15:30:00",
+                            "nombre": "Sp. Barracas vs. Victoriano Arenas",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-22 15:30:00",
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "300",
