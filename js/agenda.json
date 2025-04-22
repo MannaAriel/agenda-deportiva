@@ -6,94 +6,26 @@
                 {
                     "id": "125",
                     "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77625",
-                            "fecha": "2025-04-21 16:00:00",
-                            "nombre": "Tottenham vs. Nottingham ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-21 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
-                    "eventos": [
-                        {
-                            "id": "77631",
-                            "fecha": "2025-04-21 16:00:00",
-                            "nombre": "Girona vs. Betis",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-21 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "383",
@@ -128,32 +60,14 @@
                 {
                     "id": "1047",
                     "nombre": "EFL Championship",
-                    "eventos": [
-                        {
-                            "id": "77629",
-                            "fecha": "2025-04-21 13:30:00",
-                            "nombre": "Burnley vs. Sheffield United",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-21 13:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "368",
@@ -467,9 +381,9 @@
                         },
                         {
                             "id": "77529",
-                            "fecha": "2025-04-22 21:15:00",
+                            "fecha": "2025-04-22 19:00:00",
                             "nombre": "Argentinos vs. Barracas Central",
-                            "horaDia": 3,
+                            "horaDia": 2,
                             "canales": [
                                 {
                                     "id": "95",
@@ -972,36 +886,6 @@
                     "cantidad_eventos": 5
                 },
                 {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "77635",
-                            "fecha": "2025-04-22 15:30:00",
-                            "nombre": "Sacachispas vs. Acassuso",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-22 15:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "254",
                     "nombre": "Primera C",
                     "eventos": [
@@ -1037,6 +921,36 @@
                     },
                     "primerFecha": "2025-04-22 15:30:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "77635",
+                            "fecha": "2025-04-22 15:30:00",
+                            "nombre": "Sacachispas vs. Acassuso",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-22 15:30:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "300",
