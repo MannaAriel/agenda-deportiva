@@ -1361,6 +1361,52 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "275",
+                    "nombre": "Scottish Premiership (Liga de Escocia)",
+                    "eventos": [
+                        {
+                            "id": "77808",
+                            "fecha": "2025-04-26 08:30:00",
+                            "nombre": "Dundee United vs. Celtic",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-26 08:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "1047",
                     "nombre": "EFL Championship",
                     "eventos": [
@@ -1436,52 +1482,6 @@
                     },
                     "primerFecha": "2025-04-26 08:30:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "275",
-                    "nombre": "Scottish Premiership (Liga de Escocia)",
-                    "eventos": [
-                        {
-                            "id": "77808",
-                            "fecha": "2025-04-26 08:30:00",
-                            "nombre": "Dundee United vs. Celtic",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-26 08:30:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1659",
@@ -1599,43 +1599,6 @@
                     "nombre": "Moto GP",
                     "eventos": [
                         {
-                            "id": "77822",
-                            "fecha": "2025-04-26 05:45:00",
-                            "nombre": "GP de España - Clasificación",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
                             "id": "77823",
                             "fecha": "2025-04-26 09:30:00",
                             "nombre": "GP de España - Carrera Sprint",
@@ -1678,7 +1641,7 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-04-26 05:45:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "409",
@@ -3853,36 +3816,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "77787",
-                            "fecha": "2025-04-28 15:30:00",
-                            "nombre": "Acassuso vs. San Martín (B)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-28 15:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "254",
                     "nombre": "Primera C",
                     "eventos": [
@@ -3918,6 +3851,36 @@
                     },
                     "primerFecha": "2025-04-28 15:30:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "77787",
+                            "fecha": "2025-04-28 15:30:00",
+                            "nombre": "Acassuso vs. San Martín (B)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-28 15:30:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1047",
