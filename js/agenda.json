@@ -133,106 +133,6 @@
                     "nombre": "Serie A",
                     "eventos": [
                         {
-                            "id": "77744",
-                            "fecha": "2025-04-27 07:30:00",
-                            "nombre": "Venezia vs. Milan",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77861",
-                            "fecha": "2025-04-27 07:30:00",
-                            "nombre": "Como vs. Genoa ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77745",
-                            "fecha": "2025-04-27 10:00:00",
-                            "nombre": "Fiorentina vs. Empoli",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77862",
-                            "fecha": "2025-04-27 10:00:00",
-                            "nombre": "Inter vs. Roma ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "77746",
                             "fecha": "2025-04-27 13:00:00",
                             "nombre": "Juventus vs. Monza",
@@ -273,29 +173,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 07:30:00",
-                    "cantidad_eventos": 6
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "125",
                     "nombre": "Premier League",
                     "eventos": [
-                        {
-                            "id": "77741",
-                            "fecha": "2025-04-27 10:00:00",
-                            "nombre": "Bournemouth vs. Manchester United",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77742",
                             "fecha": "2025-04-27 12:30:00",
@@ -336,29 +219,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "127",
                     "nombre": "Ligue 1 de Francia",
                     "eventos": [
-                        {
-                            "id": "77750",
-                            "fecha": "2025-04-27 10:00:00",
-                            "nombre": "Angers vs. Niza ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77751",
                             "fecha": "2025-04-27 12:15:00",
@@ -434,29 +300,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 4
                 },
                 {
                     "id": "129",
                     "nombre": "Bundesliga",
                     "eventos": [
-                        {
-                            "id": "77748",
-                            "fecha": "2025-04-27 10:30:00",
-                            "nombre": "Bochum vs. Union Berlin",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77749",
                             "fecha": "2025-04-27 12:30:00",
@@ -491,52 +340,19 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 10:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
-                    "eventos": [
-                        {
-                            "id": "77743",
-                            "fecha": "2025-04-27 11:15:00",
-                            "nombre": "Villarreal vs. Espanyol",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 11:15:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "6",
@@ -892,23 +708,6 @@
                     "nombre": "ATP Masters 1000 - Madrid",
                     "eventos": [
                         {
-                            "id": "77871",
-                            "fecha": "2025-04-27 10:00:00",
-                            "nombre": "WTA/ATP: Tercera Ronda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "77875",
                             "fecha": "2025-04-27 14:30:00",
                             "nombre": "WTA/ATP: Tercera Ronda",
@@ -948,29 +747,12 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "61",
                     "nombre": "Primera B Metropolitana",
                     "eventos": [
-                        {
-                            "id": "77763",
-                            "fecha": "2025-04-27 11:00:00",
-                            "nombre": "Villa Dalmine vs. Deportivo Laferrere ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77764",
                             "fecha": "2025-04-27 11:45:00",
@@ -1007,7 +789,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 11:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "281",
@@ -1119,32 +901,14 @@
                 {
                     "id": "139",
                     "nombre": "Eredivisie ",
-                    "eventos": [
-                        {
-                            "id": "77863",
-                            "fecha": "2025-04-27 09:30:00",
-                            "nombre": "Ajax vs. Sparta Rotterdam",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 09:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "161",
@@ -1191,40 +955,14 @@
                 {
                     "id": "83",
                     "nombre": "Top Race",
-                    "eventos": [
-                        {
-                            "id": "77889",
-                            "fecha": "2025-04-27 08:40:00",
-                            "nombre": "Carrera ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "28",
-                                    "nombre": "TYC SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 31,
-                                        "IPTV": 25
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-04-27 08:40:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1411",
@@ -1241,123 +979,38 @@
                 {
                     "id": "154",
                     "nombre": "Moto GP",
-                    "eventos": [
-                        {
-                            "id": "77867",
-                            "fecha": "2025-04-27 06:00:00",
-                            "nombre": "GP de España: Carrera Moto3 - Moto2",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-04-27 06:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1321",
                     "nombre": "Ciclismo ",
-                    "eventos": [
-                        {
-                            "id": "77870",
-                            "fecha": "2025-04-27 07:00:00",
-                            "nombre": "Liege Bastogne Masculino",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-04-27 07:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "249",
                     "nombre": "Premiership Inglesa",
-                    "eventos": [
-                        {
-                            "id": "77872",
-                            "fecha": "2025-04-27 11:00:00",
-                            "nombre": "Gloucester Rugby vs. Exeter Chiefs",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-04-27 11:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "220",
@@ -2937,53 +2590,6 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "1598",
-                    "nombre": "Superliga Inglesa Femenina",
-                    "eventos": [
-                        {
-                            "id": "77868",
-                            "fecha": "2025-04-30 14:00:00",
-                            "nombre": "Aston Villa vs. Arsenal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77878",
-                            "fecha": "2025-04-30 16:00:00",
-                            "nombre": "Manchester United vs. Chelsea",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-30 14:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
                     "id": "170",
                     "nombre": "Euroliga",
                     "eventos": [
@@ -3032,6 +2638,53 @@
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-04-30 14:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "1598",
+                    "nombre": "Superliga Inglesa Femenina",
+                    "eventos": [
+                        {
+                            "id": "77868",
+                            "fecha": "2025-04-30 14:00:00",
+                            "nombre": "Aston Villa vs. Arsenal",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77878",
+                            "fecha": "2025-04-30 16:00:00",
+                            "nombre": "Manchester United vs. Chelsea",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-30 14:00:00",
                     "cantidad_eventos": 2
@@ -3398,22 +3051,6 @@
             }
         },
         {
-            "id": "15",
-            "nombre": "FOX SPORTS 2",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 21,
-                "ANALOGICO": 15,
-                "ISDBT": 24.3,
-                "IPTV": 15
-            }
-        },
-        {
             "id": "27",
             "nombre": "FOX SPORTS 3",
             "plataformas": [
@@ -3455,18 +3092,6 @@
                 "ANALOGICO": 17,
                 "ISDBT": 24.5,
                 "IPTV": 17
-            }
-        },
-        {
-            "id": "28",
-            "nombre": "TYC SPORTS 2",
-            "plataformas": [
-                "HD",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 31,
-                "IPTV": 25
             }
         },
         {
