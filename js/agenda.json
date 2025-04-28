@@ -337,48 +337,14 @@
                 {
                     "id": "403",
                     "nombre": "ATP Masters 1000 - Madrid",
-                    "eventos": [
-                        {
-                            "id": "77892",
-                            "fecha": "2025-04-28 10:00:00",
-                            "nombre": "ATP/WTA: Tercera Ronda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-04-28 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "254",
@@ -1423,53 +1389,6 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "1598",
-                    "nombre": "Superliga Inglesa Femenina",
-                    "eventos": [
-                        {
-                            "id": "77868",
-                            "fecha": "2025-04-30 14:00:00",
-                            "nombre": "Aston Villa vs. Arsenal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77878",
-                            "fecha": "2025-04-30 16:00:00",
-                            "nombre": "Manchester United vs. Chelsea",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-30 14:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
                     "id": "170",
                     "nombre": "Euroliga",
                     "eventos": [
@@ -1518,6 +1437,53 @@
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-04-30 14:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "1598",
+                    "nombre": "Superliga Inglesa Femenina",
+                    "eventos": [
+                        {
+                            "id": "77868",
+                            "fecha": "2025-04-30 14:00:00",
+                            "nombre": "Aston Villa vs. Arsenal",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77878",
+                            "fecha": "2025-04-30 16:00:00",
+                            "nombre": "Manchester United vs. Chelsea",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-30 14:00:00",
                     "cantidad_eventos": 2
