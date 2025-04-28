@@ -8,43 +8,6 @@
                     "nombre": "Liga Profesional Argentina",
                     "eventos": [
                         {
-                            "id": "77737",
-                            "fecha": "2025-04-27 15:30:00",
-                            "nombre": "River vs. Boca",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                },
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "77738",
                             "fecha": "2025-04-27 19:00:00",
                             "nombre": "Instituto vs. Sarmiento",
@@ -126,221 +89,55 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 15:30:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 3
                 },
                 {
                     "id": "128",
                     "nombre": "Serie A",
-                    "eventos": [
-                        {
-                            "id": "77746",
-                            "fecha": "2025-04-27 13:00:00",
-                            "nombre": "Juventus vs. Monza",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77747",
-                            "fecha": "2025-04-27 15:45:00",
-                            "nombre": "Napoli vs. Torino",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 07:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "125",
                     "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77742",
-                            "fecha": "2025-04-27 12:30:00",
-                            "nombre": "Liverpool vs. Tottenham",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "127",
                     "nombre": "Ligue 1 de Francia",
-                    "eventos": [
-                        {
-                            "id": "77751",
-                            "fecha": "2025-04-27 12:15:00",
-                            "nombre": "Nantes vs. Toulouse ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77752",
-                            "fecha": "2025-04-27 12:15:00",
-                            "nombre": "Montpellier vs. Reims",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77753",
-                            "fecha": "2025-04-27 12:15:00",
-                            "nombre": "Lens vs. Auxerre",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77754",
-                            "fecha": "2025-04-27 15:45:00",
-                            "nombre": "Olympique Marsella vs. Brest",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "129",
                     "nombre": "Bundesliga",
-                    "eventos": [
-                        {
-                            "id": "77749",
-                            "fecha": "2025-04-27 12:30:00",
-                            "nombre": "Werder Bremen vs. St. Pauli",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "183",
-                                    "nombre": "ESPN 5",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 10:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "126",
@@ -358,103 +155,6 @@
                     "id": "6",
                     "nombre": "Primera Nacional",
                     "eventos": [
-                        {
-                            "id": "77755",
-                            "fecha": "2025-04-27 12:00:00",
-                            "nombre": "Alvarado vs. Gimnasia y Tiro",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77756",
-                            "fecha": "2025-04-27 15:00:00",
-                            "nombre": "Almirante Brown vs. Agropecuario ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77757",
-                            "fecha": "2025-04-27 15:30:00",
-                            "nombre": "Temperley vs. Estudiantes (RC)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77758",
-                            "fecha": "2025-04-27 16:00:00",
-                            "nombre": "Racing (C) vs. Ferro",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77759",
-                            "fecha": "2025-04-27 16:00:00",
-                            "nombre": "Gimnasia (Mdz) vs. Nueva Chicago",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77760",
-                            "fecha": "2025-04-27 17:00:00",
-                            "nombre": "Mitre (SdE) vs. Chacarita",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77761",
                             "fecha": "2025-04-27 18:30:00",
@@ -508,78 +208,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 12:00:00",
-                    "cantidad_eventos": 8
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "383",
                     "nombre": "NBA - Playoffs",
                     "eventos": [
-                        {
-                            "id": "77879",
-                            "fecha": "2025-04-27 14:00:00",
-                            "nombre": "Detroit Pistons vs. New York Knicks",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "77881",
-                            "fecha": "2025-04-27 16:30:00",
-                            "nombre": "Minnesota Timberwolves vs. Los Angeles Lakers",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
                         {
                             "id": "77883",
                             "fecha": "2025-04-27 20:00:00",
@@ -620,29 +254,12 @@
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-04-27 14:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "143",
                     "nombre": "MLS (Major League Soccer)",
                     "eventos": [
-                        {
-                            "id": "77772",
-                            "fecha": "2025-04-27 16:00:00",
-                            "nombre": "Minnesota vs. Vancouver Whitecaps",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "167",
-                                    "nombre": "APPLE TV"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77773",
                             "fecha": "2025-04-27 18:00:00",
@@ -701,202 +318,55 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 16:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 3
                 },
                 {
                     "id": "403",
                     "nombre": "ATP Masters 1000 - Madrid",
-                    "eventos": [
-                        {
-                            "id": "77875",
-                            "fecha": "2025-04-27 14:30:00",
-                            "nombre": "WTA/ATP: Tercera Ronda",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "61",
                     "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "77764",
-                            "fecha": "2025-04-27 11:45:00",
-                            "nombre": "Brown (A) vs. Dep. Armenio",
-                            "horaDia": 1,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77765",
-                            "fecha": "2025-04-27 15:30:00",
-                            "nombre": "UAI Urquiza vs. Villa San Carlos",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 11:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "281",
                     "nombre": "FA Cup",
-                    "eventos": [
-                        {
-                            "id": "77771",
-                            "fecha": "2025-04-27 12:30:00",
-                            "nombre": "Semifinal: Nottingham Forest vs. Manchester City",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 12:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "254",
                     "nombre": "Primera C",
-                    "eventos": [
-                        {
-                            "id": "77766",
-                            "fecha": "2025-04-27 13:00:00",
-                            "nombre": "Luján vs. Juventud Unida",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77768",
-                            "fecha": "2025-04-27 15:30:00",
-                            "nombre": "Central Ballester vs. Sp. Barracas ",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77769",
-                            "fecha": "2025-04-27 15:30:00",
-                            "nombre": "Cañuelas vs. Gral. Lamadrid",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77770",
-                            "fecha": "2025-04-27 15:30:00",
-                            "nombre": "Berazategui vs. Mercedes",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-27 13:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "139",
@@ -913,44 +383,14 @@
                 {
                     "id": "161",
                     "nombre": "Liga Endesa (España)",
-                    "eventos": [
-                        {
-                            "id": "77890",
-                            "fecha": "2025-04-27 13:30:00",
-                            "nombre": "Barcelona vs. Unicaja",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-04-27 13:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "83",
@@ -1015,62 +455,26 @@
                 {
                     "id": "220",
                     "nombre": "Hockey Femenino: Torneo Metropolitano",
-                    "eventos": [
-                        {
-                            "id": "77874",
-                            "fecha": "2025-04-27 13:00:00",
-                            "nombre": "Italiano vs. Ciudad",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-04-27 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "221",
                     "nombre": "Hockey Masculino: Torneo Metropolitano",
-                    "eventos": [
-                        {
-                            "id": "77877",
-                            "fecha": "2025-04-27 15:00:00",
-                            "nombre": "Banade vs. Ducilo",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-04-27 15:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "368",
