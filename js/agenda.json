@@ -1,577 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-04-27",
-            "torneos": [
-                {
-                    "id": "1346",
-                    "nombre": "Liga Profesional Argentina",
-                    "eventos": [
-                        {
-                            "id": "77738",
-                            "fecha": "2025-04-27 19:00:00",
-                            "nombre": "Instituto vs. Sarmiento",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77739",
-                            "fecha": "2025-04-27 19:00:00",
-                            "nombre": "Lanús vs. San Martín (SJ)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77740",
-                            "fecha": "2025-04-27 21:15:00",
-                            "nombre": "Independiente vs. Dep. Riestra",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 15:30:00",
-                    "cantidad_eventos": 3
-                },
-                {
-                    "id": "128",
-                    "nombre": "Serie A",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 07:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "127",
-                    "nombre": "Ligue 1 de Francia",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "129",
-                    "nombre": "Bundesliga",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 10:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "126",
-                    "nombre": "Liga de España",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 11:15:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "6",
-                    "nombre": "Primera Nacional",
-                    "eventos": [
-                        {
-                            "id": "77761",
-                            "fecha": "2025-04-27 18:30:00",
-                            "nombre": "Central Norte vs. Gimnasia (J)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77762",
-                            "fecha": "2025-04-27 20:15:00",
-                            "nombre": "Colón vs. Defensores de Belgrano",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 12:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "383",
-                    "nombre": "NBA - Playoffs",
-                    "eventos": [
-                        {
-                            "id": "77883",
-                            "fecha": "2025-04-27 20:00:00",
-                            "nombre": "Orlando Magic vs. Boston Celtics",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-04-27 14:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "143",
-                    "nombre": "MLS (Major League Soccer)",
-                    "eventos": [
-                        {
-                            "id": "77773",
-                            "fecha": "2025-04-27 18:00:00",
-                            "nombre": "Inter Miami vs. FC Dallas",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "167",
-                                    "nombre": "APPLE TV"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77774",
-                            "fecha": "2025-04-27 20:00:00",
-                            "nombre": "Los Angeles FC vs. St. Louis City",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "167",
-                                    "nombre": "APPLE TV"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77775",
-                            "fecha": "2025-04-27 22:00:00",
-                            "nombre": "Los Angeles Galaxy vs. Portland Timbers",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "167",
-                                    "nombre": "APPLE TV"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 16:00:00",
-                    "cantidad_eventos": 3
-                },
-                {
-                    "id": "403",
-                    "nombre": "ATP Masters 1000 - Madrid",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-04-27 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 11:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "281",
-                    "nombre": "FA Cup",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 12:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "254",
-                    "nombre": "Primera C",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 13:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "139",
-                    "nombre": "Eredivisie ",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-27 09:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "161",
-                    "nombre": "Liga Endesa (España)",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-04-27 13:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "83",
-                    "nombre": "Top Race",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "5",
-                        "nombre": "Automovilismo",
-                        "icono": "automovilismo.png"
-                    },
-                    "primerFecha": "2025-04-27 08:40:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1411",
-                    "nombre": "Maratón",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-04-27 04:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "154",
-                    "nombre": "Moto GP",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "5",
-                        "nombre": "Automovilismo",
-                        "icono": "automovilismo.png"
-                    },
-                    "primerFecha": "2025-04-27 06:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1321",
-                    "nombre": "Ciclismo ",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-04-27 07:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "249",
-                    "nombre": "Premiership Inglesa",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-04-27 11:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "220",
-                    "nombre": "Hockey Femenino: Torneo Metropolitano",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-04-27 13:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "221",
-                    "nombre": "Hockey Masculino: Torneo Metropolitano",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-04-27 15:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "77885",
-                            "fecha": "2025-04-27 20:00:00",
-                            "nombre": "Chicago Cubs vs. Philadelphia Phillies",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-04-27 20:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "1577",
-                    "nombre": "NHL (Hockey sobre hielo)",
-                    "eventos": [
-                        {
-                            "id": "77886",
-                            "fecha": "2025-04-27 22:30:00",
-                            "nombre": "Stanley Cup - Playoffs: Los Angeles vs. Edmonton",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-04-27 22:30:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-04-28",
             "torneos": [
                 {
@@ -952,6 +381,36 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "77787",
+                            "fecha": "2025-04-28 15:30:00",
+                            "nombre": "Acassuso vs. San Martín (B)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-28 15:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "254",
                     "nombre": "Primera C",
                     "eventos": [
@@ -987,36 +446,6 @@
                     },
                     "primerFecha": "2025-04-28 15:30:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "77787",
-                            "fecha": "2025-04-28 15:30:00",
-                            "nombre": "Acassuso vs. San Martín (B)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-04-28 15:30:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1047",
@@ -1994,6 +1423,53 @@
                     "cantidad_eventos": 2
                 },
                 {
+                    "id": "1598",
+                    "nombre": "Superliga Inglesa Femenina",
+                    "eventos": [
+                        {
+                            "id": "77868",
+                            "fecha": "2025-04-30 14:00:00",
+                            "nombre": "Aston Villa vs. Arsenal",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77878",
+                            "fecha": "2025-04-30 16:00:00",
+                            "nombre": "Manchester United vs. Chelsea",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-30 14:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
                     "id": "170",
                     "nombre": "Euroliga",
                     "eventos": [
@@ -2042,53 +1518,6 @@
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-04-30 14:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "1598",
-                    "nombre": "Superliga Inglesa Femenina",
-                    "eventos": [
-                        {
-                            "id": "77868",
-                            "fecha": "2025-04-30 14:00:00",
-                            "nombre": "Aston Villa vs. Arsenal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77878",
-                            "fecha": "2025-04-30 16:00:00",
-                            "nombre": "Manchester United vs. Chelsea",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
                     },
                     "primerFecha": "2025-04-30 14:00:00",
                     "cantidad_eventos": 2
@@ -2316,13 +1745,667 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-05-01",
+            "torneos": [
+                {
+                    "id": "125",
+                    "nombre": "Premier League",
+                    "eventos": [
+                        {
+                            "id": "77915",
+                            "fecha": "2025-05-01 15:30:00",
+                            "nombre": "Nottingham Foret vs. Brentford",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-01 15:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "64",
+                    "nombre": "UEFA Europa League",
+                    "eventos": [
+                        {
+                            "id": "77916",
+                            "fecha": "2025-05-01 16:00:00",
+                            "nombre": "Athletic Bilbao vs. Manchester United",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77917",
+                            "fecha": "2025-05-01 16:00:00",
+                            "nombre": "Tottemham vs. Bodo/Glimt",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-01 16:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "403",
+                    "nombre": "ATP Masters 1000 - Madrid",
+                    "eventos": [
+                        {
+                            "id": "77907",
+                            "fecha": "2025-05-01 08:00:00",
+                            "nombre": "Cuartos de Final",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        },
+                        {
+                            "id": "77914",
+                            "fecha": "2025-05-01 15:00:00",
+                            "nombre": "Cuartos de Final",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "3",
+                        "nombre": "Tenis",
+                        "icono": "tenis.png"
+                    },
+                    "primerFecha": "2025-05-01 08:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "1401",
+                    "nombre": "UEFA Conference League",
+                    "eventos": [
+                        {
+                            "id": "77918",
+                            "fecha": "2025-05-01 16:00:00",
+                            "nombre": "Betis vs. Fiorentina",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77919",
+                            "fecha": "2025-05-01 16:00:00",
+                            "nombre": "Djugarden vs. Chelsea",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-01 16:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "10",
+                    "nombre": "NBA",
+                    "eventos": [
+                        {
+                            "id": "77923",
+                            "fecha": "2025-05-01 23:00:00",
+                            "nombre": "Playoffs Juego #5",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-05-01 23:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "409",
+                    "nombre": "WTA Premier - Madrid",
+                    "eventos": [
+                        {
+                            "id": "77910",
+                            "fecha": "2025-05-01 11:00:00",
+                            "nombre": "Semifinal",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        },
+                        {
+                            "id": "77920",
+                            "fecha": "2025-05-01 16:30:00",
+                            "nombre": "Semifinal",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "3",
+                        "nombre": "Tenis",
+                        "icono": "tenis.png"
+                    },
+                    "primerFecha": "2025-05-01 11:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "1663",
+                    "nombre": "World Rugby U20 Championship",
+                    "eventos": [
+                        {
+                            "id": "77913",
+                            "fecha": "2025-05-01 11:00:00",
+                            "nombre": "Sudáfrica vs. Los Pumas",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-05-01 11:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "170",
+                    "nombre": "Euroliga",
+                    "eventos": [
+                        {
+                            "id": "77926",
+                            "fecha": "2025-05-01 15:30:00",
+                            "nombre": "Paris Basketball vs. Fenerbahce",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "185",
+                                    "nombre": "DSPORTS + / DGO",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        },
+                        {
+                            "id": "77927",
+                            "fecha": "2025-05-01 16:00:00",
+                            "nombre": "Real Madrid vs. Olympiakos",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-05-01 15:30:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "1466",
+                    "nombre": "Sudamericano Femenino Sub 17",
+                    "eventos": [
+                        {
+                            "id": "77924",
+                            "fecha": "2025-05-01 18:30:00",
+                            "nombre": "Bolivia vs. Uruguay",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "77925",
+                            "fecha": "2025-05-01 21:00:00",
+                            "nombre": "Brasil vs. Perú",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-01 18:30:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "77921",
+                            "fecha": "2025-05-01 20:00:00",
+                            "nombre": "Boston Red Sox vs. Toronto Blue Jays",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "183",
+                                    "nombre": "ESPN 5",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "77929",
+                            "fecha": "2025-05-01 20:00:00",
+                            "nombre": "Boston Red Sox vs. Toronto Blue Jays",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "27",
+                                    "nombre": "FOX SPORTS 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 22,
+                                        "ANALOGICO": 16,
+                                        "ISDBT": 24.4,
+                                        "IPTV": 16
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-01 20:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "1545",
+                    "nombre": "Golf: LIV Golf Invitational",
+                    "eventos": [
+                        {
+                            "id": "77928",
+                            "fecha": "2025-05-01 23:00:00",
+                            "nombre": "Corea del Sur",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-01 23:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "326",
+                    "nombre": "Liga de Campeones Concacaf",
+                    "eventos": [
+                        {
+                            "id": "77922",
+                            "fecha": "2025-05-01 23:00:00",
+                            "nombre": "Cruz Azul vs. Tigres UANL",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-01 23:00:00",
+                    "cantidad_eventos": 1
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
-        {
-            "id": "167",
-            "nombre": "APPLE TV"
-        },
         {
             "id": "171",
             "nombre": "DGO"
@@ -2503,7 +2586,7 @@
             "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-04-27",
+    "hoy": "2025-04-28",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
