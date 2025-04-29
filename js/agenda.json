@@ -193,48 +193,14 @@
                 {
                     "id": "403",
                     "nombre": "ATP Masters 1000 - Madrid",
-                    "eventos": [
-                        {
-                            "id": "77902",
-                            "fecha": "2025-04-29 10:00:00",
-                            "nombre": "ATP/WTA  – Octavos de Final",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-04-29 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "61",
@@ -1761,36 +1727,6 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "326",
-                    "nombre": "Liga de Campeones Concacaf",
-                    "eventos": [
-                        {
-                            "id": "77922",
-                            "fecha": "2025-05-01 23:00:00",
-                            "nombre": "Cruz Azul vs. Tigres UANL",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-01 23:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "1545",
                     "nombre": "Golf: LIV Golf Invitational",
                     "eventos": [
@@ -1816,6 +1752,36 @@
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-01 23:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "326",
+                    "nombre": "Liga de Campeones Concacaf",
+                    "eventos": [
+                        {
+                            "id": "77922",
+                            "fecha": "2025-05-01 23:00:00",
+                            "nombre": "Cruz Azul vs. Tigres UANL",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-01 23:00:00",
                     "cantidad_eventos": 1
