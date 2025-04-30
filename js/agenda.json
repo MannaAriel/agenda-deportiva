@@ -4,6 +4,56 @@
             "fecha": "2025-04-30",
             "torneos": [
                 {
+                    "id": "1346",
+                    "nombre": "Liga Profesional Argentina",
+                    "eventos": [
+                        {
+                            "id": "77945",
+                            "fecha": "2025-04-30 21:00:00",
+                            "nombre": "Atlético Tucumán vs. Independiente",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-04-30 21:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "12",
                     "nombre": "UEFA Champions League",
                     "eventos": [
@@ -161,43 +211,6 @@
                     "nombre": "ATP Masters 1000 - Madrid",
                     "eventos": [
                         {
-                            "id": "77866",
-                            "fecha": "2025-04-30 11:00:00",
-                            "nombre": "Cuartos de Final",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "77880",
                             "fecha": "2025-04-30 16:30:00",
                             "nombre": "Cuartos de Final",
@@ -241,7 +254,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-04-30 11:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "347",
@@ -294,43 +307,6 @@
                     "nombre": "WTA Premier - Madrid",
                     "eventos": [
                         {
-                            "id": "77864",
-                            "fecha": "2025-04-30 08:00:00",
-                            "nombre": "Cuartos de Final",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "77876",
                             "fecha": "2025-04-30 15:00:00",
                             "nombre": " Cuartos de Final",
@@ -370,7 +346,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-04-30 08:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1598",
@@ -981,6 +957,56 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "1663",
+                    "nombre": "World Rugby U20 Championship",
+                    "eventos": [
+                        {
+                            "id": "77913",
+                            "fecha": "2025-05-01 11:00:00",
+                            "nombre": "Sudáfrica vs. Los Pumas",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-05-01 11:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "409",
                     "nombre": "WTA Premier - Madrid",
                     "eventos": [
@@ -1066,56 +1092,6 @@
                     },
                     "primerFecha": "2025-05-01 11:00:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "1663",
-                    "nombre": "World Rugby U20 Championship",
-                    "eventos": [
-                        {
-                            "id": "77913",
-                            "fecha": "2025-05-01 11:00:00",
-                            "nombre": "Sudáfrica vs. Los Pumas",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-01 11:00:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "170",
@@ -1632,6 +1608,18 @@
             ]
         },
         {
+            "id": "150",
+            "nombre": "ESPN PREMIUM",
+            "plataformas": [
+                "HD",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 30,
+                "IPTV": 23
+            }
+        },
+        {
             "id": "7",
             "nombre": "FOX SPORTS",
             "plataformas": [
@@ -1661,6 +1649,18 @@
                 "ANALOGICO": 16,
                 "ISDBT": 24.4,
                 "IPTV": 16
+            }
+        },
+        {
+            "id": "95",
+            "nombre": "TNT SPORTS",
+            "plataformas": [
+                "HD",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 29,
+                "IPTV": 24
             }
         }
     ],
