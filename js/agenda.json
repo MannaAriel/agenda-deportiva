@@ -125,43 +125,6 @@
                     "nombre": "ATP Masters 1000 - Madrid",
                     "eventos": [
                         {
-                            "id": "77907",
-                            "fecha": "2025-05-01 10:00:00",
-                            "nombre": "F. Cerúndolo vs. J. Mensik",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "77914",
                             "fecha": "2025-05-01 15:00:00",
                             "nombre": "Cuartos de Final",
@@ -205,7 +168,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-01 10:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1401",
@@ -285,96 +248,9 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "1663",
-                    "nombre": "World Rugby U20 Championship",
-                    "eventos": [
-                        {
-                            "id": "77913",
-                            "fecha": "2025-05-01 11:00:00",
-                            "nombre": "Sudáfrica vs. Los Pumas",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-01 11:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "409",
                     "nombre": "WTA Premier - Madrid",
                     "eventos": [
-                        {
-                            "id": "77910",
-                            "fecha": "2025-05-01 11:00:00",
-                            "nombre": "Semifinal",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
                         {
                             "id": "77920",
                             "fecha": "2025-05-01 16:30:00",
@@ -419,7 +295,19 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-01 11:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1663",
+                    "nombre": "World Rugby U20 Championship",
+                    "eventos": [],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-05-01 11:00:00",
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "170",
@@ -595,36 +483,6 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "326",
-                    "nombre": "Liga de Campeones Concacaf",
-                    "eventos": [
-                        {
-                            "id": "77922",
-                            "fecha": "2025-05-01 23:00:00",
-                            "nombre": "Cruz Azul vs. Tigres UANL",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-01 23:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "1545",
                     "nombre": "Golf: LIV Golf Invitational",
                     "eventos": [
@@ -650,6 +508,36 @@
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-01 23:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "326",
+                    "nombre": "Liga de Campeones Concacaf",
+                    "eventos": [
+                        {
+                            "id": "77922",
+                            "fecha": "2025-05-01 23:00:00",
+                            "nombre": "Cruz Azul vs. Tigres UANL",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-01 23:00:00",
                     "cantidad_eventos": 1
@@ -4135,51 +4023,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "873",
-                    "nombre": "Copa Europa de Clubes",
-                    "eventos": [
-                        {
-                            "id": "78054",
-                            "fecha": "2025-05-04 11:00:00",
-                            "nombre": "Bordeaux-Begles vs. Stade Toulousain ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-04 11:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "351",
                     "nombre": "IndyCar Series",
                     "eventos": [
@@ -4225,6 +4068,51 @@
                     },
                     "primerFecha": "2025-05-04 11:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "873",
+                    "nombre": "Copa Europa de Clubes",
+                    "eventos": [
+                        {
+                            "id": "78054",
+                            "fecha": "2025-05-04 11:00:00",
+                            "nombre": "Bordeaux-Begles vs. Stade Toulousain ",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-05-04 11:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "368",
