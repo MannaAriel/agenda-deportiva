@@ -169,60 +169,6 @@
                     "nombre": "Liga de España",
                     "eventos": [
                         {
-                            "id": "77970",
-                            "fecha": "2025-05-03 09:30:00",
-                            "nombre": "Alavés\tvs.\tAtlético de Madrid",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77975",
-                            "fecha": "2025-05-03 11:15:00",
-                            "nombre": "Villarreal\tvs.\tOsasuna",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "77976",
                             "fecha": "2025-05-03 13:30:00",
                             "nombre": "Las Palmas\tvs.\tValencia",
@@ -263,66 +209,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-03 09:30:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "128",
                     "nombre": "Serie A",
                     "eventos": [
-                        {
-                            "id": "78006",
-                            "fecha": "2025-05-03 09:50:00",
-                            "nombre": "Cagliari vs. Udinese",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77979",
-                            "fecha": "2025-05-03 10:00:00",
-                            "nombre": "Parma\tvs.\tComo",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77980",
                             "fecha": "2025-05-03 13:00:00",
@@ -404,100 +296,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-03 09:50:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "129",
                     "nombre": "Bundesliga",
                     "eventos": [
-                        {
-                            "id": "78007",
-                            "fecha": "2025-05-03 10:20:00",
-                            "nombre": "Borussia Monchengladbach vs. Hoffenheim",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78009",
-                            "fecha": "2025-05-03 10:20:00",
-                            "nombre": "St. Pauli vs. Stuttgart",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78010",
-                            "fecha": "2025-05-03 10:20:00",
-                            "nombre": "Union Berlin vs. Werder Bremen",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77984",
-                            "fecha": "2025-05-03 10:30:00",
-                            "nombre": "RB Leipzig\tvs.\tBayern Múnich",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78012",
                             "fecha": "2025-05-03 13:20:00",
@@ -522,83 +326,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-03 10:20:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "125",
                     "nombre": "Premier League",
                     "eventos": [
-                        {
-                            "id": "77999",
-                            "fecha": "2025-05-03 08:20:00",
-                            "nombre": "Aston Villa vs. Fulham",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78001",
-                            "fecha": "2025-05-03 10:50:00",
-                            "nombre": "Leicester vs. Southampton",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77978",
-                            "fecha": "2025-05-03 11:00:00",
-                            "nombre": "Everton\tvs.\tIpswich Town",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78002",
                             "fecha": "2025-05-03 13:20:00",
@@ -623,7 +356,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-03 08:20:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "127",
@@ -1188,111 +921,26 @@
                 {
                     "id": "1047",
                     "nombre": "EFL Championship",
-                    "eventos": [
-                        {
-                            "id": "77986",
-                            "fecha": "2025-05-03 08:30:00",
-                            "nombre": "Coventry City\tvs.\tMiddlesbrough",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77987",
-                            "fecha": "2025-05-03 08:30:00",
-                            "nombre": "West Bromwich\tvs.\tLuton Town",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-03 08:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1659",
                     "nombre": "Segunda división de España",
-                    "eventos": [
-                        {
-                            "id": "77985",
-                            "fecha": "2025-05-03 11:15:00",
-                            "nombre": "Huesca\tvs.\tOviedo",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-03 11:15:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1678",
@@ -1923,6 +1571,104 @@
                     "cantidad_eventos": 4
                 },
                 {
+                    "id": "127",
+                    "nombre": "Ligue 1 de Francia",
+                    "eventos": [
+                        {
+                            "id": "78017",
+                            "fecha": "2025-05-04 10:00:00",
+                            "nombre": "Nantes vs. Angers",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78019",
+                            "fecha": "2025-05-04 12:15:00",
+                            "nombre": "Auxerre vs. Le Havre",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78020",
+                            "fecha": "2025-05-04 12:15:00",
+                            "nombre": "Brest vs. Montpellier",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78021",
+                            "fecha": "2025-05-04 12:15:00",
+                            "nombre": "Lyon vs. Lens",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78026",
+                            "fecha": "2025-05-04 15:45:00",
+                            "nombre": "Lille vs. Olympique Marsella",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-04 10:00:00",
+                    "cantidad_eventos": 5
+                },
+                {
                     "id": "125",
                     "nombre": "Premier League",
                     "eventos": [
@@ -2034,104 +1780,6 @@
                     },
                     "primerFecha": "2025-05-04 10:00:00",
                     "cantidad_eventos": 4
-                },
-                {
-                    "id": "127",
-                    "nombre": "Ligue 1 de Francia",
-                    "eventos": [
-                        {
-                            "id": "78017",
-                            "fecha": "2025-05-04 10:00:00",
-                            "nombre": "Nantes vs. Angers",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78019",
-                            "fecha": "2025-05-04 12:15:00",
-                            "nombre": "Auxerre vs. Le Havre",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78020",
-                            "fecha": "2025-05-04 12:15:00",
-                            "nombre": "Brest vs. Montpellier",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78021",
-                            "fecha": "2025-05-04 12:15:00",
-                            "nombre": "Lyon vs. Lens",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78026",
-                            "fecha": "2025-05-04 15:45:00",
-                            "nombre": "Lille vs. Olympique Marsella",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-04 10:00:00",
-                    "cantidad_eventos": 5
                 },
                 {
                     "id": "129",
