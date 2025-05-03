@@ -1341,36 +1341,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "409",
-                    "nombre": "WTA Premier - Madrid",
-                    "eventos": [
-                        {
-                            "id": "78027",
-                            "fecha": "2025-05-03 13:30:00",
-                            "nombre": "Final",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-05-03 13:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "225",
                     "nombre": "Copa de Campeones de Europa",
                     "eventos": [
@@ -1415,6 +1385,36 @@
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-05-03 13:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "409",
+                    "nombre": "WTA Premier - Madrid",
+                    "eventos": [
+                        {
+                            "id": "78027",
+                            "fecha": "2025-05-03 13:30:00",
+                            "nombre": "Final",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "3",
+                        "nombre": "Tenis",
+                        "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-03 13:30:00",
                     "cantidad_eventos": 1
@@ -2627,51 +2627,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "873",
-                    "nombre": "Copa Europa de Clubes",
-                    "eventos": [
-                        {
-                            "id": "78054",
-                            "fecha": "2025-05-04 11:00:00",
-                            "nombre": "Bordeaux-Begles vs. Stade Toulousain ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-04 11:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "194",
                     "nombre": "Torneo Federal A",
                     "eventos": [
@@ -2874,6 +2829,51 @@
                     },
                     "primerFecha": "2025-05-04 11:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "873",
+                    "nombre": "Copa Europa de Clubes",
+                    "eventos": [
+                        {
+                            "id": "78054",
+                            "fecha": "2025-05-04 11:00:00",
+                            "nombre": "Bordeaux-Begles vs. Stade Toulousain ",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-05-04 11:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "368",
