@@ -121,56 +121,6 @@
                     "nombre": "Serie A",
                     "eventos": [
                         {
-                            "id": "78000",
-                            "fecha": "2025-05-04 07:30:00",
-                            "nombre": "Empoli vs. Lazio ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78003",
-                            "fecha": "2025-05-04 10:00:00",
-                            "nombre": "Monza vs. Atalanta",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "78004",
                             "fecha": "2025-05-04 13:00:00",
                             "nombre": "Roma vs. Fiorentina",
@@ -227,62 +177,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-04 07:30:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
                     "eventos": [
-                        {
-                            "id": "77971",
-                            "fecha": "2025-05-04 09:00:00",
-                            "nombre": "Real Madrid vs. Celta de Vigo",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77972",
-                            "fecha": "2025-05-04 11:15:00",
-                            "nombre": "Sevilla vs. Leganés",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "77973",
                             "fecha": "2025-05-04 13:30:00",
@@ -340,21 +240,37 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-04 09:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
-                    "id": "127",
-                    "nombre": "Ligue 1 de Francia",
+                    "id": "125",
+                    "nombre": "Premier League",
                     "eventos": [
                         {
-                            "id": "78017",
-                            "fecha": "2025-05-04 10:00:00",
-                            "nombre": "Nantes vs. Angers",
-                            "horaDia": 1,
+                            "id": "77969",
+                            "fecha": "2025-05-04 12:30:00",
+                            "nombre": "Chelsea vs. Liverpool",
+                            "horaDia": 2,
                             "canales": [
                                 {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
                                 }
                             ],
                             "deporte": {
@@ -362,7 +278,20 @@
                                 "nombre": "Fútbol",
                                 "icono": "futbol.png"
                             }
-                        },
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-04 10:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "127",
+                    "nombre": "Ligue 1 de Francia",
+                    "eventos": [
                         {
                             "id": "78019",
                             "fecha": "2025-05-04 12:15:00",
@@ -438,158 +367,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-04 10:00:00",
-                    "cantidad_eventos": 5
-                },
-                {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "77966",
-                            "fecha": "2025-05-04 10:00:00",
-                            "nombre": "Brentford vs. Manchester United",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77967",
-                            "fecha": "2025-05-04 10:00:00",
-                            "nombre": "West Ham vs. Tottenham ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77968",
-                            "fecha": "2025-05-04 10:00:00",
-                            "nombre": "Brighton vs. Newcastle",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "77969",
-                            "fecha": "2025-05-04 12:30:00",
-                            "nombre": "Chelsea vs. Liverpool",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-04 10:00:00",
                     "cantidad_eventos": 4
                 },
                 {
                     "id": "129",
                     "nombre": "Bundesliga",
                     "eventos": [
-                        {
-                            "id": "78008",
-                            "fecha": "2025-05-04 10:30:00",
-                            "nombre": "Ausburgo vs. Holstein Kiel",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78011",
                             "fecha": "2025-05-04 12:30:00",
@@ -631,7 +414,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-04 10:30:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "6",
@@ -957,48 +740,14 @@
                 {
                     "id": "161",
                     "nombre": "Liga Endesa (España)",
-                    "eventos": [
-                        {
-                            "id": "78053",
-                            "fecha": "2025-05-04 07:30:00",
-                            "nombre": "Unicaja vs. Andorra",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-05-04 07:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1183",
@@ -1050,30 +799,6 @@
                     "id": "194",
                     "nombre": "Torneo Federal A",
                     "eventos": [
-                        {
-                            "id": "78085",
-                            "fecha": "2025-05-04 11:00:00",
-                            "nombre": "Kimberley (MdP) vs. Guillermo Brown",
-                            "horaDia": 1,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78086",
-                            "fecha": "2025-05-04 11:00:00",
-                            "nombre": "Santamarina vs. Sol de Mayo (V)",
-                            "horaDia": 1,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78087",
                             "fecha": "2025-05-04 15:00:00",
@@ -1135,9 +860,9 @@
                             }
                         },
                         {
-                            "id": "78092",
+                            "id": "78094",
                             "fecha": "2025-05-04 16:00:00",
-                            "nombre": "El Linqueño vs. 9 de Julio (R)",
+                            "nombre": "Crucero del Norte vs. San Martín (F)",
                             "horaDia": 2,
                             "canales": [],
                             "deporte": {
@@ -1159,9 +884,9 @@
                             }
                         },
                         {
-                            "id": "78094",
+                            "id": "78092",
                             "fecha": "2025-05-04 16:00:00",
-                            "nombre": "Crucero del Norte vs. San Martín (F)",
+                            "nombre": "El Linqueño vs. 9 de Julio (R)",
                             "horaDia": 2,
                             "canales": [],
                             "deporte": {
@@ -1201,29 +926,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-04 11:00:00",
-                    "cantidad_eventos": 12
+                    "cantidad_eventos": 10
                 },
                 {
                     "id": "351",
                     "nombre": "IndyCar Series",
                     "eventos": [
-                        {
-                            "id": "78058",
-                            "fecha": "2025-05-04 11:00:00",
-                            "nombre": "Motorsports Park",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
                         {
                             "id": "78059",
                             "fecha": "2025-05-04 14:30:00",
@@ -1248,52 +956,19 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-04 11:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "873",
                     "nombre": "Copa Europa de Clubes",
-                    "eventos": [
-                        {
-                            "id": "78054",
-                            "fecha": "2025-05-04 11:00:00",
-                            "nombre": "Bordeaux-Begles vs. Stade Toulousain ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-05-04 11:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "368",
@@ -1394,52 +1069,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "126",
-                    "nombre": "Liga de España",
-                    "eventos": [
-                        {
-                            "id": "78064",
-                            "fecha": "2025-05-05 16:00:00",
-                            "nombre": "Girona vs. Mallorca",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-05 16:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "125",
                     "nombre": "Premier League",
                     "eventos": [
@@ -1467,6 +1096,52 @@
                                         "ANALOGICO": 20,
                                         "ISDBT": 25.5,
                                         "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-05 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "126",
+                    "nombre": "Liga de España",
+                    "eventos": [
+                        {
+                            "id": "78064",
+                            "fecha": "2025-05-05 16:00:00",
+                            "nombre": "Girona vs. Mallorca",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
                                     }
                                 }
                             ],
