@@ -1,568 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-05-07",
-            "torneos": [
-                {
-                    "id": "3",
-                    "nombre": "Copa Conmebol Libertadores",
-                    "eventos": [
-                        {
-                            "id": "78112",
-                            "fecha": "2025-05-07 19:00:00",
-                            "nombre": "Bahia (Bra) vs. Nacional (Uru)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78113",
-                            "fecha": "2025-05-07 19:00:00",
-                            "nombre": "Deportivo Táchira (Ven) vs. Liga de Quito (Ecu)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78114",
-                            "fecha": "2025-05-07 21:00:00",
-                            "nombre": "Cerro Porteño (Par) vs. Palmeiras (Bra)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78115",
-                            "fecha": "2025-05-07 21:00:00",
-                            "nombre": "Central Córdoba (Arg) vs. Flamengo (Bra)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78120",
-                            "fecha": "2025-05-07 21:00:00",
-                            "nombre": "Universidad de Chile (Chi) vs. Estudiantes LP",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78118",
-                            "fecha": "2025-05-07 23:00:00",
-                            "nombre": "Sporting Cristal (Per) vs. Bolivar (Bol)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-07 19:00:00",
-                    "cantidad_eventos": 6
-                },
-                {
-                    "id": "12",
-                    "nombre": "UEFA Champions League",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-07 16:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "72",
-                    "nombre": "Copa Conmebol Sudamericana",
-                    "eventos": [
-                        {
-                            "id": "78110",
-                            "fecha": "2025-05-07 19:00:00",
-                            "nombre": "Cerro Largo (Uru) vs. Universidad Católica (Ecu)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78111",
-                            "fecha": "2025-05-07 19:00:00",
-                            "nombre": "Academia Puerto Cabello (Ven) vs. Vasco da Gama (Bra)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78121",
-                            "fecha": "2025-05-07 19:00:00",
-                            "nombre": "Unión (Arg) vs. Palestino (Chi)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78116",
-                            "fecha": "2025-05-07 21:30:00",
-                            "nombre": "Atlético Grau (Per) vs. Gremio (Bra)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78117",
-                            "fecha": "2025-05-07 21:30:00",
-                            "nombre": "Mushuc Runa (Ecu) vs. Cruzeiro (Bra)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78122",
-                            "fecha": "2025-05-07 23:00:00",
-                            "nombre": "Once Caldas (Col) vs. Unión Española (Chi)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-07 19:00:00",
-                    "cantidad_eventos": 6
-                },
-                {
-                    "id": "10",
-                    "nombre": "NBA",
-                    "eventos": [
-                        {
-                            "id": "78119",
-                            "fecha": "2025-05-07 23:00:00",
-                            "nombre": "Oklahoma City Thunder vs. Denver Nuggets",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-05-07 23:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "347",
-                    "nombre": "Reserva",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-07 14:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "13",
-                    "nombre": "Liga Nacional",
-                    "eventos": [
-                        {
-                            "id": "78123",
-                            "fecha": "2025-05-07 20:00:00",
-                            "nombre": "Obras vs. Regatas",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-05-07 20:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "412",
-                    "nombre": "ATP/WTA Masters 1000 - Roma",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-05-07 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "418",
-                    "nombre": "WTA Premier - Roma",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-05-07 10:00:00",
-                    "cantidad_eventos": 0
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-05-08",
             "torneos": [
                 {
@@ -1251,7 +689,7 @@
                         {
                             "id": "78045",
                             "fecha": "2025-05-09 20:30:00",
-                            "nombre": "Semifinal de Conferencia: Equipos a confirmar",
+                            "nombre": "Indiana Pacers vs. Cleveland Cavaliers",
                             "horaDia": 3,
                             "canales": [
                                 {
@@ -1288,7 +726,7 @@
                         {
                             "id": "78046",
                             "fecha": "2025-05-09 23:00:00",
-                            "nombre": "Semifinal de Conferencia: Equipos a confirmar",
+                            "nombre": "Denver Nuggets vs. Oklahoma City Thunder",
                             "horaDia": 3,
                             "canales": [
                                 {
@@ -1713,6 +1151,906 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-05-11",
+            "torneos": [
+                {
+                    "id": "1346",
+                    "nombre": "Liga Profesional Argentina",
+                    "eventos": [
+                        {
+                            "id": "78103",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Octavos de Final: Independiente vs. Independiente Rivadavia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78105",
+                            "fecha": "2025-05-11 18:00:00",
+                            "nombre": "Octavos de Final: Argentinos vs. Instituto",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78104",
+                            "fecha": "2025-05-11 20:30:00",
+                            "nombre": "Octavos de Final: Huracán vs. Deportivo Riestra",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78106",
+                            "fecha": "2025-05-11 20:30:00",
+                            "nombre": "Octavos de Final: River vs. Barracas",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 15:30:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "14",
+                    "nombre": "Copa Argentina",
+                    "eventos": [
+                        {
+                            "id": "78165",
+                            "fecha": "2025-05-11 19:30:00",
+                            "nombre": "Central Córdoba (R) vs. Gimnasia (LP)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 19:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "128",
+                    "nombre": "Serie A",
+                    "eventos": [
+                        {
+                            "id": "78149",
+                            "fecha": "2025-05-11 07:30:00",
+                            "nombre": "Udinese vs. Monza",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78150",
+                            "fecha": "2025-05-11 10:00:00",
+                            "nombre": "Verona vs. Lecce",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78151",
+                            "fecha": "2025-05-11 13:00:00",
+                            "nombre": "Torino vs. Inter",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78152",
+                            "fecha": "2025-05-11 15:45:00",
+                            "nombre": "Napoli vs. Genoa",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 07:30:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "125",
+                    "nombre": "Premier League",
+                    "eventos": [
+                        {
+                            "id": "78140",
+                            "fecha": "2025-05-11 08:00:00",
+                            "nombre": "Newcastle vs. Chelsea ",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78141",
+                            "fecha": "2025-05-11 10:15:00",
+                            "nombre": "Manchester United vs. West Ham",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78142",
+                            "fecha": "2025-05-11 10:15:00",
+                            "nombre": "Tottenham vs. Crystal Palace",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78143",
+                            "fecha": "2025-05-11 10:15:00",
+                            "nombre": "Nottingham vs. Leicester City",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78144",
+                            "fecha": "2025-05-11 12:30:00",
+                            "nombre": "Liverpool vs. Arsenal",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 08:00:00",
+                    "cantidad_eventos": 5
+                },
+                {
+                    "id": "126",
+                    "nombre": "Liga de España",
+                    "eventos": [
+                        {
+                            "id": "78145",
+                            "fecha": "2025-05-11 09:00:00",
+                            "nombre": "Leganés vs. Espanyol",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78146",
+                            "fecha": "2025-05-11 11:15:00",
+                            "nombre": "Barcelona vs. Real Madrid ",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78147",
+                            "fecha": "2025-05-11 13:30:00",
+                            "nombre": "Athletic Bilbao vs. Alavés",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78148",
+                            "fecha": "2025-05-11 16:00:00",
+                            "nombre": "Real Betis vs. Osasuna",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 09:00:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "129",
+                    "nombre": "Bundesliga",
+                    "eventos": [
+                        {
+                            "id": "78153",
+                            "fecha": "2025-05-11 10:30:00",
+                            "nombre": "Bayer Leverkusen vs. Borussia Dortmund",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78154",
+                            "fecha": "2025-05-11 12:30:00",
+                            "nombre": "Eintracht Frankfurt vs. St. Pauli",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78155",
+                            "fecha": "2025-05-11 14:30:00",
+                            "nombre": "Stuttgart vs. Ausburgo",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 10:30:00",
+                    "cantidad_eventos": 3
+                },
+                {
+                    "id": "6",
+                    "nombre": "Primera Nacional",
+                    "eventos": [
+                        {
+                            "id": "78156",
+                            "fecha": "2025-05-11 13:30:00",
+                            "nombre": "Atlanta vs. San Martín (T)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78157",
+                            "fecha": "2025-05-11 15:00:00",
+                            "nombre": "Alvarado vs. Dep. Madryn",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78158",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Def. Unidos vs. Estudiantes (BA)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78159",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Alt. Brown vs. Chacarita",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78160",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Gimnasia (Mdz) vs. Agropecuario",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78161",
+                            "fecha": "2025-05-11 16:00:00",
+                            "nombre": "Racing (C) vs. Güemes (SdE)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78162",
+                            "fecha": "2025-05-11 16:00:00",
+                            "nombre": "Mitre (SdE) vs. Estudiantes (RC)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78163",
+                            "fecha": "2025-05-11 17:00:00",
+                            "nombre": "Colón vs. Talleres (RE)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78164",
+                            "fecha": "2025-05-11 17:30:00",
+                            "nombre": "Temperley vs. Dep. Morón",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 13:30:00",
+                    "cantidad_eventos": 9
+                },
+                {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "78166",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Argentino (Q) vs. Fenix ",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78167",
+                            "fecha": "2025-05-11 18:10:00",
+                            "nombre": "Midland vs. San Martín (B)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 15:30:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "254",
+                    "nombre": "Primera C",
+                    "eventos": [
+                        {
+                            "id": "78168",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Central Ballester vs. Gral. Lamadrid",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78169",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Victoriano Arenas vs.Centro Español",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78170",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Luján vs. Camioneros",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78171",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Atlas vs. Yupanqui",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78172",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Berazategui vs. Def. Cambaceres",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78173",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Lugano vs. Leandro Alem",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78174",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Puerto Nuevo vs. Mercedes",
+                            "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 15:30:00",
+                    "cantidad_eventos": 7
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -1884,9 +2222,29 @@
                 "HD": 29,
                 "IPTV": 24
             }
+        },
+        {
+            "id": "20",
+            "nombre": "TYC SPORTS",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 23,
+                "ANALOGICO": 17,
+                "ISDBT": 24.5,
+                "IPTV": 17
+            }
+        },
+        {
+            "id": "50",
+            "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-05-07",
+    "hoy": "2025-05-08",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
