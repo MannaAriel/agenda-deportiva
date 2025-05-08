@@ -465,43 +465,6 @@
                     "nombre": "ATP/WTA Masters 1000 - Roma",
                     "eventos": [
                         {
-                            "id": "78125",
-                            "fecha": "2025-05-08 10:00:00",
-                            "nombre": "Primera Ronda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "78126",
                             "fecha": "2025-05-08 14:00:00",
                             "nombre": "Primera Ronda",
@@ -544,7 +507,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-08 10:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 }
             ],
             "eventos": [],
@@ -1905,6 +1868,53 @@
                     "cantidad_eventos": 9
                 },
                 {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "78166",
+                            "fecha": "2025-05-11 15:30:00",
+                            "nombre": "Argentino (Q) vs. Fenix ",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78167",
+                            "fecha": "2025-05-11 18:10:00",
+                            "nombre": "Midland vs. San Martín (B)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-11 15:30:00",
+                    "cantidad_eventos": 2
+                },
+                {
                     "id": "254",
                     "nombre": "Primera C",
                     "eventos": [
@@ -2000,53 +2010,6 @@
                     },
                     "primerFecha": "2025-05-11 15:30:00",
                     "cantidad_eventos": 7
-                },
-                {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "78166",
-                            "fecha": "2025-05-11 15:30:00",
-                            "nombre": "Argentino (Q) vs. Fenix ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78167",
-                            "fecha": "2025-05-11 18:10:00",
-                            "nombre": "Midland vs. San Martín (B)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-11 15:30:00",
-                    "cantidad_eventos": 2
                 }
             ],
             "eventos": [],
