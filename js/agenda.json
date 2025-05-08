@@ -221,64 +221,14 @@
                 {
                     "id": "12",
                     "nombre": "UEFA Champions League",
-                    "eventos": [
-                        {
-                            "id": "78109",
-                            "fecha": "2025-05-07 16:00:00",
-                            "nombre": "PSG vs. Arsenal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-07 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "72",
@@ -513,28 +463,12 @@
                         {
                             "id": "78119",
                             "fecha": "2025-05-07 23:00:00",
-                            "nombre": "Semifinal de Conferencia",
+                            "nombre": "Oklahoma City Thunder vs. Denver Nuggets",
                             "horaDia": 3,
                             "canales": [
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
                                 }
                             ],
                             "deporte": {
@@ -555,48 +489,14 @@
                 {
                     "id": "347",
                     "nombre": "Reserva",
-                    "eventos": [
-                        {
-                            "id": "78108",
-                            "fecha": "2025-05-07 14:45:00",
-                            "nombre": "Aldosivi vs. Racing Club",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-07 14:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "13",
@@ -809,6 +709,10 @@
                                         "ISDBT": 24.2,
                                         "IPTV": 14
                                     }
+                                },
+                                {
+                                    "id": "158",
+                                    "nombre": "TELEFE"
                                 }
                             ],
                             "deporte": {
@@ -870,7 +774,7 @@
                         {
                             "id": "78127",
                             "fecha": "2025-05-08 16:00:00",
-                            "nombre": "Manchester United vs. Athletic Bilbao",
+                            "nombre": "Semifinal, vuelta: Manchester United (3) vs. Athletic Bilbao (0)",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -907,7 +811,7 @@
                         {
                             "id": "78128",
                             "fecha": "2025-05-08 16:00:00",
-                            "nombre": "Bodo/Glimt vs. Tottenham",
+                            "nombre": "Semifinal, vuelta: Bodo/Glimt (1) vs. Tottenham (3)",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -1964,6 +1868,10 @@
                 "ISDBT": 24.4,
                 "IPTV": 16
             }
+        },
+        {
+            "id": "158",
+            "nombre": "TELEFE"
         },
         {
             "id": "95",
