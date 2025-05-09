@@ -208,89 +208,14 @@
                 {
                     "id": "64",
                     "nombre": "UEFA Europa League",
-                    "eventos": [
-                        {
-                            "id": "78127",
-                            "fecha": "2025-05-08 16:00:00",
-                            "nombre": "Semifinal, vuelta: Manchester United (3) vs. Athletic Bilbao (0)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78128",
-                            "fecha": "2025-05-08 16:00:00",
-                            "nombre": "Semifinal, vuelta: Bodo/Glimt (1) vs. Tottenham (3)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-08 16:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "72",
@@ -416,98 +341,26 @@
                 {
                     "id": "1401",
                     "nombre": "UEFA Conference League",
-                    "eventos": [
-                        {
-                            "id": "78129",
-                            "fecha": "2025-05-08 16:00:00",
-                            "nombre": "Fiorentina vs. Betis",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78130",
-                            "fecha": "2025-05-08 16:00:00",
-                            "nombre": "Chelsea vs. Djurgarden",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-08 16:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "412",
                     "nombre": "ATP/WTA Masters 1000 - Roma",
-                    "eventos": [
-                        {
-                            "id": "78126",
-                            "fecha": "2025-05-08 14:00:00",
-                            "nombre": "Primera Ronda",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-08 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 }
             ],
             "eventos": [],
@@ -989,6 +842,46 @@
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-05-09 20:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "172",
+                    "nombre": "Liga de Honor de Handball (Hombres)",
+                    "eventos": [
+                        {
+                            "id": "78196",
+                            "fecha": "2025-05-09 21:00:00",
+                            "nombre": "River vs. Boca",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "82",
+                                    "nombre": "DEPORTV"
+                                },
+                                {
+                                    "id": "154",
+                                    "nombre": "YOUTUBE",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-09 21:00:00",
                     "cantidad_eventos": 1
                 }
             ],
@@ -2018,6 +1911,10 @@
     ],
     "canales": [
         {
+            "id": "82",
+            "nombre": "DEPORTV"
+        },
+        {
             "id": "171",
             "nombre": "DGO"
         },
@@ -2205,6 +2102,16 @@
         {
             "id": "50",
             "nombre": "TYC SPORTS PLAY"
+        },
+        {
+            "id": "154",
+            "nombre": "YOUTUBE",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ]
         }
     ],
     "hoy": "2025-05-08",
