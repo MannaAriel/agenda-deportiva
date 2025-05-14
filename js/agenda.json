@@ -1,427 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-05-13",
-            "torneos": [
-                {
-                    "id": "3",
-                    "nombre": "Copa Conmebol Libertadores",
-                    "eventos": [
-                        {
-                            "id": "78181",
-                            "fecha": "2025-05-13 19:00:00",
-                            "nombre": "Deportivo Tachira vs. Central Córdoba (SdE)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78182",
-                            "fecha": "2025-05-13 21:30:00",
-                            "nombre": "Fortaleza vs. Atl. Bucaramanga",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78183",
-                            "fecha": "2025-05-13 21:30:00",
-                            "nombre": "Universidad de Chile vs. Carabobo",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78184",
-                            "fecha": "2025-05-13 21:30:00",
-                            "nombre": "Sporting Cristal vs. Cerro Porteño",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-13 19:00:00",
-                    "cantidad_eventos": 4
-                },
-                {
-                    "id": "126",
-                    "nombre": "Liga de España",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-13 14:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "72",
-                    "nombre": "Copa Conmebol Sudamericana",
-                    "eventos": [
-                        {
-                            "id": "78185",
-                            "fecha": "2025-05-13 19:00:00",
-                            "nombre": "Nacional Potosí vs. Boston River",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78186",
-                            "fecha": "2025-05-13 19:00:00",
-                            "nombre": "Gremio vs. Godoy Cruz",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78188",
-                            "fecha": "2025-05-13 21:30:00",
-                            "nombre": "Unión vs. Mushuc Runa",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78189",
-                            "fecha": "2025-05-13 21:30:00",
-                            "nombre": "Lanús vs. Vasco Da Gama",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78190",
-                            "fecha": "2025-05-13 21:30:00",
-                            "nombre": "Puerto Cabello vs. Melgar",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-13 19:00:00",
-                    "cantidad_eventos": 5
-                },
-                {
-                    "id": "383",
-                    "nombre": "NBA - Playoffs",
-                    "eventos": [
-                        {
-                            "id": "78298",
-                            "fecha": "2025-05-13 23:00:00",
-                            "nombre": "Oklahoma City Thunder vs. Denver Nuggets",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-05-13 23:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "254",
-                    "nombre": "Primera C",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-13 15:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "408",
-                    "nombre": "Ciclismo: Giro D'Italia",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-13 08:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "412",
-                    "nombre": "ATP/WTA Masters 1000 - Roma",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-05-13 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "78297",
-                            "fecha": "2025-05-13 19:30:00",
-                            "nombre": "Philadelphia Phillies vs. St. Louis Cardinals",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-13 19:30:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-05-14",
             "torneos": [
                 {
@@ -1199,7 +778,7 @@
                         {
                             "id": "78322",
                             "fecha": "2025-05-14 08:00:00",
-                            "nombre": "Cuartos de final femenino",
+                            "nombre": "Cuartos de final: C. Gauff vs. M. Andreeva",
                             "horaDia": 1,
                             "canales": [
                                 {
@@ -1232,7 +811,7 @@
                         {
                             "id": "78323",
                             "fecha": "2025-05-14 10:00:00",
-                            "nombre": "Cuartos de final masculino",
+                            "nombre": "Cuartos de final: J. Draper vs. C. Alcaraz",
                             "horaDia": 1,
                             "canales": [
                                 {
@@ -1265,7 +844,7 @@
                         {
                             "id": "78324",
                             "fecha": "2025-05-14 14:00:00",
-                            "nombre": "Cuartos de final femenino",
+                            "nombre": "Cuartos de final: A. Sabalenka vs. Q. Zheng",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -1298,7 +877,7 @@
                         {
                             "id": "78325",
                             "fecha": "2025-05-14 15:30:00",
-                            "nombre": "Cuartos de final masculino",
+                            "nombre": "Cuartos de final: L. Musetti vs. A. Zverev",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -2717,52 +2296,6 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "78365",
-                            "fecha": "2025-05-16 20:00:00",
-                            "nombre": "Boston Red Sox\tvs.\tAtlanta Braves",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-16 20:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "1581",
                     "nombre": "Super Rugby Americas ",
                     "eventos": [
@@ -2811,6 +2344,106 @@
                     },
                     "primerFecha": "2025-05-16 20:00:00",
                     "cantidad_eventos": 1
+                },
+                {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "78365",
+                            "fecha": "2025-05-16 20:00:00",
+                            "nombre": "Boston Red Sox\tvs.\tAtlanta Braves",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "27",
+                                    "nombre": "FOX SPORTS 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 22,
+                                        "ANALOGICO": 16,
+                                        "ISDBT": 24.4,
+                                        "IPTV": 16
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-16 20:00:00",
+                    "cantidad_eventos": 1
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
+        },
+        {
+            "fecha": "2025-05-17",
+            "torneos": [
+                {
+                    "id": "168",
+                    "nombre": "Fórmula 1",
+                    "eventos": [
+                        {
+                            "id": "78332",
+                            "fecha": "2025-05-17 07:30:00",
+                            "nombre": "GP de Ímola: Práctica 3",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        },
+                        {
+                            "id": "78333",
+                            "fecha": "2025-05-17 11:00:00",
+                            "nombre": "GP de Ímola: Clasificación",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-17 07:30:00",
+                    "cantidad_eventos": 2
                 }
             ],
             "eventos": [],
@@ -2984,7 +2617,7 @@
             }
         }
     ],
-    "hoy": "2025-05-13",
+    "hoy": "2025-05-14",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
