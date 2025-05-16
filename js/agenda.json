@@ -184,121 +184,14 @@
                 {
                     "id": "126",
                     "nombre": "Liga de España",
-                    "eventos": [
-                        {
-                            "id": "78345",
-                            "fecha": "2025-05-15 14:00:00",
-                            "nombre": "Osasuna vs. Atlético Madrid",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78346",
-                            "fecha": "2025-05-15 14:00:00",
-                            "nombre": "Rayo Vallecano vs. Real Betis",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78347",
-                            "fecha": "2025-05-15 16:30:00",
-                            "nombre": "Getafe vs. Athletic Bilbao",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78348",
-                            "fecha": "2025-05-15 16:30:00",
-                            "nombre": "Espanyol vs. Barcelona",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-15 14:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "72",
@@ -545,158 +438,26 @@
                 {
                     "id": "412",
                     "nombre": "ATP/WTA Masters 1000 - Roma",
-                    "eventos": [
-                        {
-                            "id": "78352",
-                            "fecha": "2025-05-15 14:00:00",
-                            "nombre": "Cuartos de final: J. Sinner vs. C. Ruud",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
-                            "id": "78354",
-                            "fecha": "2025-05-15 15:30:00",
-                            "nombre": "Semifinales: Q. Zheng vs. C. Gauff",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-15 08:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1690",
                     "nombre": "Golf",
-                    "eventos": [
-                        {
-                            "id": "78349",
-                            "fecha": "2025-05-15 14:00:00",
-                            "nombre": "PGA Championship – Primera Vuelta",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "78350",
-                            "fecha": "2025-05-15 14:00:00",
-                            "nombre": "PGA Championship – Primera Vuelta",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-15 14:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 }
             ],
             "eventos": [],
@@ -858,7 +619,7 @@
                     "eventos": [
                         {
                             "id": "78361",
-                            "fecha": "2025-05-16 20:00:00",
+                            "fecha": "2025-05-16 21:55:00",
                             "nombre": "Boca Jrs.\tvs.\tInstituto",
                             "horaDia": 3,
                             "canales": [
@@ -879,7 +640,7 @@
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
-                    "primerFecha": "2025-05-16 20:00:00",
+                    "primerFecha": "2025-05-16 21:55:00",
                     "cantidad_eventos": 1
                 },
                 {
@@ -1259,6 +1020,52 @@
                     "cantidad_eventos": 2
                 },
                 {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "78365",
+                            "fecha": "2025-05-16 20:00:00",
+                            "nombre": "Boston Red Sox\tvs.\tAtlanta Braves",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "27",
+                                    "nombre": "FOX SPORTS 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 22,
+                                        "ANALOGICO": 16,
+                                        "ISDBT": 24.4,
+                                        "IPTV": 16
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-16 20:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "1581",
                     "nombre": "Super Rugby Americas ",
                     "eventos": [
@@ -1304,52 +1111,6 @@
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-16 20:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "78365",
-                            "fecha": "2025-05-16 20:00:00",
-                            "nombre": "Boston Red Sox\tvs.\tAtlanta Braves",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-16 20:00:00",
                     "cantidad_eventos": 1
