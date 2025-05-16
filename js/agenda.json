@@ -8,23 +8,6 @@
                     "nombre": "Fórmula 1",
                     "eventos": [
                         {
-                            "id": "78330",
-                            "fecha": "2025-05-16 08:30:00",
-                            "nombre": "GP de Ímola: Práctica 1",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
                             "id": "78331",
                             "fecha": "2025-05-16 12:00:00",
                             "nombre": "GP de Ímola: Práctica 2",
@@ -48,7 +31,7 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-16 08:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "125",
@@ -233,32 +216,14 @@
                 {
                     "id": "408",
                     "nombre": "Ciclismo: Giro D'Italia",
-                    "eventos": [
-                        {
-                            "id": "78368",
-                            "fecha": "2025-05-16 07:45:00",
-                            "nombre": "Etapa 7",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-16 07:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1657",
@@ -275,94 +240,19 @@
                 {
                     "id": "1655",
                     "nombre": "Formula 2",
-                    "eventos": [
-                        {
-                            "id": "78370",
-                            "fecha": "2025-05-16 05:50:00",
-                            "nombre": "GP de Ímola: Prácticas",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-16 05:50:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "412",
                     "nombre": "ATP/WTA Masters 1000 - Roma",
                     "eventos": [
-                        {
-                            "id": "78363",
-                            "fecha": "2025-05-16 10:30:00",
-                            "nombre": "Semifinal 1",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
                         {
                             "id": "78364",
                             "fecha": "2025-05-16 15:30:00",
@@ -407,7 +297,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-16 10:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "249",
@@ -519,6 +409,52 @@
                     "cantidad_eventos": 2
                 },
                 {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "78365",
+                            "fecha": "2025-05-16 20:00:00",
+                            "nombre": "Boston Red Sox\tvs.\tAtlanta Braves",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "27",
+                                    "nombre": "FOX SPORTS 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 22,
+                                        "ANALOGICO": 16,
+                                        "ISDBT": 24.4,
+                                        "IPTV": 16
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-16 20:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "1581",
                     "nombre": "Super Rugby Americas ",
                     "eventos": [
@@ -564,52 +500,6 @@
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-16 20:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "78365",
-                            "fecha": "2025-05-16 20:00:00",
-                            "nombre": "Boston Red Sox\tvs.\tAtlanta Braves",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-16 20:00:00",
                     "cantidad_eventos": 1
@@ -1682,10 +1572,6 @@
         {
             "id": "164",
             "nombre": "DSPORTS / DGO"
-        },
-        {
-            "id": "16",
-            "nombre": "DSPORTS 2 / DGO"
         },
         {
             "id": "8",
