@@ -1,408 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-05-17",
-            "torneos": [
-                {
-                    "id": "168",
-                    "nombre": "Fórmula 1",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "5",
-                        "nombre": "Automovilismo",
-                        "icono": "automovilismo.png"
-                    },
-                    "primerFecha": "2025-05-17 07:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "129",
-                    "nombre": "Bundesliga",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 10:20:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "6",
-                    "nombre": "Primera Nacional",
-                    "eventos": [
-                        {
-                            "id": "78430",
-                            "fecha": "2025-05-17 19:05:00",
-                            "nombre": "Estudiantes (BA)\tvs.\tTemperley",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78431",
-                            "fecha": "2025-05-17 21:05:00",
-                            "nombre": "San Martín (T)\tvs.\tRacing (C)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 13:35:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "128",
-                    "nombre": "Serie A",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 15:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "127",
-                    "nombre": "Ligue 1 de Francia",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 15:50:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "281",
-                    "nombre": "FA Cup",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 12:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 15:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "30",
-                    "nombre": "Boxeo de Primera",
-                    "eventos": [
-                        {
-                            "id": "78439",
-                            "fecha": "2025-05-17 23:00:00",
-                            "nombre": "José Nuñez\tvs.\tAlfredo Soto",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "6",
-                                "nombre": "Boxeo",
-                                "icono": "boxeo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "6",
-                        "nombre": "Boxeo",
-                        "icono": "boxeo.png"
-                    },
-                    "primerFecha": "2025-05-17 23:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "13",
-                    "nombre": "Liga Nacional",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-05-17 11:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "435",
-                    "nombre": "Top 12 de la URBA",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-17 15:10:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "161",
-                    "nombre": "Liga Endesa (España)",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-05-17 15:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "420",
-                    "nombre": "UFC",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-17 17:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "408",
-                    "nombre": "Ciclismo: Giro D'Italia",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-17 08:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "275",
-                    "nombre": "Scottish Premiership (Liga de Escocia)",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 08:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1659",
-                    "nombre": "Segunda división de España",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 11:15:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "96",
-                    "nombre": "Top 14 de Francia",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-17 09:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1657",
-                    "nombre": "Fórmula 3",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "5",
-                        "nombre": "Automovilismo",
-                        "icono": "automovilismo.png"
-                    },
-                    "primerFecha": "2025-05-17 05:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1655",
-                    "nombre": "Formula 2",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "5",
-                        "nombre": "Automovilismo",
-                        "icono": "automovilismo.png"
-                    },
-                    "primerFecha": "2025-05-17 08:05:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "249",
-                    "nombre": "Premiership Inglesa",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-05-17 11:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "418",
-                    "nombre": "WTA Premier - Roma",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-05-17 12:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-17 14:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "194",
-                    "nombre": "Torneo Federal A",
-                    "eventos": [
-                        {
-                            "id": "78433",
-                            "fecha": "2025-05-17 18:00:00",
-                            "nombre": "Atlético Rafaela\tvs.\tSol de América",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-17 18:00:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-05-18",
             "torneos": [
                 {
@@ -1789,52 +1387,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "1165",
-                    "nombre": "Golf: PGA Championship",
-                    "eventos": [
-                        {
-                            "id": "78480",
-                            "fecha": "2025-05-18 14:00:00",
-                            "nombre": "Última Vuelta",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-18 14:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "1461",
                     "nombre": "Indycar",
                     "eventos": [
@@ -1880,6 +1432,52 @@
                     },
                     "primerFecha": "2025-05-18 14:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "1165",
+                    "nombre": "Golf: PGA Championship",
+                    "eventos": [
+                        {
+                            "id": "78480",
+                            "fecha": "2025-05-18 14:00:00",
+                            "nombre": "Última Vuelta",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-18 14:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1581",
@@ -2643,13 +2241,267 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-05-21",
+            "torneos": [
+                {
+                    "id": "14",
+                    "nombre": "Copa Argentina",
+                    "eventos": [
+                        {
+                            "id": "78501",
+                            "fecha": "2025-05-21 21:10:00",
+                            "nombre": "Lanús vs. Velez Sársfield",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-21 21:10:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "64",
+                    "nombre": "UEFA Europa League",
+                    "eventos": [
+                        {
+                            "id": "78499",
+                            "fecha": "2025-05-21 16:00:00",
+                            "nombre": "Tottenham Hotspur vs. Manchester United",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-21 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "408",
+                    "nombre": "Ciclismo: Giro D'Italia",
+                    "eventos": [
+                        {
+                            "id": "78505",
+                            "fecha": "2025-05-21 08:00:00",
+                            "nombre": "Etapa 11",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-21 08:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1466",
+                    "nombre": "Sudamericano Femenino Sub 17",
+                    "eventos": [
+                        {
+                            "id": "78502",
+                            "fecha": "2025-05-21 17:00:00",
+                            "nombre": "Perú vs. Ecuador",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78503",
+                            "fecha": "2025-05-21 19:30:00",
+                            "nombre": "Brasil vs. Chile",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-21 17:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "78500",
+                            "fecha": "2025-05-21 20:00:00",
+                            "nombre": "Texas Rangers vs. New York Yankees",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "183",
+                                    "nombre": "ESPN 5",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "27",
+                                    "nombre": "FOX SPORTS 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 22,
+                                        "ANALOGICO": 16,
+                                        "ISDBT": 24.4,
+                                        "IPTV": 16
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-21 20:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "570",
+                    "nombre": "Sudamericano Sub-17",
+                    "eventos": [
+                        {
+                            "id": "78504",
+                            "fecha": "2025-05-21 21:30:00",
+                            "nombre": "Paraguay vs. Colombia",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-21 21:30:00",
+                    "cantidad_eventos": 1
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
-        {
-            "id": "171",
-            "nombre": "DGO"
-        },
         {
             "id": "179",
             "nombre": "DISNEY +"
@@ -2740,6 +2592,16 @@
             }
         },
         {
+            "id": "183",
+            "nombre": "ESPN 5",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ]
+        },
+        {
             "id": "150",
             "nombre": "ESPN PREMIUM",
             "plataformas": [
@@ -2749,6 +2611,22 @@
             "frecuencias": {
                 "HD": 30,
                 "IPTV": 23
+            }
+        },
+        {
+            "id": "27",
+            "nombre": "FOX SPORTS 3",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 22,
+                "ANALOGICO": 16,
+                "ISDBT": 24.4,
+                "IPTV": 16
             }
         },
         {
@@ -2784,7 +2662,7 @@
             "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-05-17",
+    "hoy": "2025-05-18",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
