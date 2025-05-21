@@ -1,209 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-05-20",
-            "torneos": [
-                {
-                    "id": "1346",
-                    "nombre": "Liga Profesional Argentina",
-                    "eventos": [
-                        {
-                            "id": "78376",
-                            "fecha": "2025-05-20 20:30:00",
-                            "nombre": "Cuartos de final: River vs. Platense",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-20 20:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-20 16:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "383",
-                    "nombre": "NBA - Playoffs",
-                    "eventos": [
-                        {
-                            "id": "78494",
-                            "fecha": "2025-05-20 21:30:00",
-                            "nombre": "Final de conferencia, Juego #1:   Minnesota Timberwolves vs. Oklahoma City Thunder",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-05-20 21:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "254",
-                    "nombre": "Primera C",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-20 15:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "13",
-                    "nombre": "Liga Nacional",
-                    "eventos": [
-                        {
-                            "id": "78497",
-                            "fecha": "2025-05-20 20:00:00",
-                            "nombre": "San Lorenzo vs. Ferro",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-05-20 20:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "408",
-                    "nombre": "Ciclismo: Giro D'Italia",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-20 08:15:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "78493",
-                            "fecha": "2025-05-20 20:00:00",
-                            "nombre": "Toronto Blue Jays vs. San Diego Padres",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-20 20:00:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-05-21",
             "torneos": [
                 {
@@ -950,6 +747,100 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-05-24",
+            "torneos": [
+                {
+                    "id": "168",
+                    "nombre": "Fórmula 1",
+                    "eventos": [
+                        {
+                            "id": "78520",
+                            "fecha": "2025-05-24 07:30:00",
+                            "nombre": "GP de Mónaco: Prácticas 3",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        },
+                        {
+                            "id": "78521",
+                            "fecha": "2025-05-24 11:00:00",
+                            "nombre": "GP de Mónaco: Clasificación",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-24 07:30:00",
+                    "cantidad_eventos": 2
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -1006,22 +897,6 @@
             }
         },
         {
-            "id": "25",
-            "nombre": "ESPN 3",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 27,
-                "ANALOGICO": 21,
-                "ISDBT": 25.6,
-                "IPTV": 21
-            }
-        },
-        {
             "id": "183",
             "nombre": "ESPN 5",
             "plataformas": [
@@ -1064,18 +939,6 @@
             }
         },
         {
-            "id": "95",
-            "nombre": "TNT SPORTS",
-            "plataformas": [
-                "HD",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 29,
-                "IPTV": 24
-            }
-        },
-        {
             "id": "20",
             "nombre": "TYC SPORTS",
             "plataformas": [
@@ -1092,7 +955,7 @@
             }
         }
     ],
-    "hoy": "2025-05-20",
+    "hoy": "2025-05-21",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
