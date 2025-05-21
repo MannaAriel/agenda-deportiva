@@ -44,65 +44,14 @@
                 {
                     "id": "125",
                     "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "78414",
-                            "fecha": "2025-05-20 16:00:00",
-                            "nombre": "Crystal Palace vs. Wolverhampton",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78415",
-                            "fecha": "2025-05-20 16:00:00",
-                            "nombre": "Manchester City vs. Bournemouth",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-20 16:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "383",
@@ -153,50 +102,14 @@
                 {
                     "id": "254",
                     "nombre": "Primera C",
-                    "eventos": [
-                        {
-                            "id": "78495",
-                            "fecha": "2025-05-20 15:30:00",
-                            "nombre": "Múñiz vs. Dep. Español",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78496",
-                            "fecha": "2025-05-20 15:35:00",
-                            "nombre": "Gral. Lamadrid vs Sp. Barracas",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-20 15:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "13",
@@ -379,6 +292,36 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-21 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "383",
+                    "nombre": "NBA - Playoffs",
+                    "eventos": [
+                        {
+                            "id": "78523",
+                            "fecha": "2025-05-21 21:00:00",
+                            "nombre": "Final de conferencia, Juego #1: Indiana Pacers vs. New York Knicks",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-05-21 21:00:00",
                     "cantidad_eventos": 1
                 },
                 {
@@ -594,6 +537,52 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "383",
+                    "nombre": "NBA - Playoffs",
+                    "eventos": [
+                        {
+                            "id": "78524",
+                            "fecha": "2025-05-22 21:30:00",
+                            "nombre": "Final de conferencia, Juego #2:   Minnesota Timberwolves vs. Denver Nuggets",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-05-22 21:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "347",
                     "nombre": "Reserva",
                     "eventos": [
@@ -747,104 +736,6 @@
                     },
                     "primerFecha": "2025-05-22 08:05:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "1605",
-                    "nombre": "Kings League",
-                    "eventos": [
-                        {
-                            "id": "78511",
-                            "fecha": "2025-05-22 13:30:00",
-                            "nombre": "European Finals: Francia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78512",
-                            "fecha": "2025-05-22 14:45:00",
-                            "nombre": "European Finals: Italia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78513",
-                            "fecha": "2025-05-22 16:00:00",
-                            "nombre": "European Finals: España",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78514",
-                            "fecha": "2025-05-22 16:00:00",
-                            "nombre": "European Finals: España",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78515",
-                            "fecha": "2025-05-22 17:00:00",
-                            "nombre": "European Finals: Ceremonia Final ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-22 13:30:00",
-                    "cantidad_eventos": 5
                 },
                 {
                     "id": "368",
@@ -1025,6 +916,36 @@
                     },
                     "primerFecha": "2025-05-23 08:30:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "383",
+                    "nombre": "NBA - Playoffs",
+                    "eventos": [
+                        {
+                            "id": "78525",
+                            "fecha": "2025-05-23 21:00:00",
+                            "nombre": "Final de conferencia, Juego #2: Indiana Pacers vs. New York Knicks",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-05-23 21:00:00",
+                    "cantidad_eventos": 1
                 }
             ],
             "eventos": [],
@@ -1043,16 +964,6 @@
         {
             "id": "181",
             "nombre": "DISNEY + PREMIUM "
-        },
-        {
-            "id": "185",
-            "nombre": "DSPORTS + / DGO",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ]
         },
         {
             "id": "164",
