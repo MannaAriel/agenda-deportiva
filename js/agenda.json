@@ -48,48 +48,14 @@
                 {
                     "id": "64",
                     "nombre": "UEFA Europa League",
-                    "eventos": [
-                        {
-                            "id": "78499",
-                            "fecha": "2025-05-21 16:00:00",
-                            "nombre": "Tottenham Hotspur vs. Manchester United",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-21 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "383",
@@ -138,23 +104,6 @@
                     "nombre": "Sudamericano Femenino Sub 17",
                     "eventos": [
                         {
-                            "id": "78502",
-                            "fecha": "2025-05-21 17:00:00",
-                            "nombre": "Perú vs. Ecuador",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "78503",
                             "fecha": "2025-05-21 19:30:00",
                             "nombre": "Brasil vs. Chile",
@@ -178,7 +127,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-21 17:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "368",
@@ -831,10 +780,6 @@
             "nombre": "DGO"
         },
         {
-            "id": "179",
-            "nombre": "DISNEY +"
-        },
-        {
             "id": "181",
             "nombre": "DISNEY + PREMIUM "
         },
@@ -845,22 +790,6 @@
         {
             "id": "16",
             "nombre": "DSPORTS 2 / DGO"
-        },
-        {
-            "id": "8",
-            "nombre": "ESPN",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 25,
-                "ANALOGICO": 19,
-                "ISDBT": 25.4,
-                "IPTV": 19
-            }
         },
         {
             "id": "39",
