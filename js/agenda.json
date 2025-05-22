@@ -1,225 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-05-21",
-            "torneos": [
-                {
-                    "id": "14",
-                    "nombre": "Copa Argentina",
-                    "eventos": [
-                        {
-                            "id": "78501",
-                            "fecha": "2025-05-21 21:10:00",
-                            "nombre": "Lanús vs. Velez Sársfield",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-21 21:10:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "64",
-                    "nombre": "UEFA Europa League",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-21 16:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "383",
-                    "nombre": "NBA - Playoffs",
-                    "eventos": [
-                        {
-                            "id": "78523",
-                            "fecha": "2025-05-21 21:00:00",
-                            "nombre": "Final de conferencia, Juego #1: Indiana Pacers vs. New York Knicks",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-05-21 21:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "408",
-                    "nombre": "Ciclismo: Giro D'Italia",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-21 08:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1466",
-                    "nombre": "Sudamericano Femenino Sub 17",
-                    "eventos": [
-                        {
-                            "id": "78503",
-                            "fecha": "2025-05-21 19:30:00",
-                            "nombre": "Brasil vs. Chile",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-21 17:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "78500",
-                            "fecha": "2025-05-21 20:00:00",
-                            "nombre": "Texas Rangers vs. New York Yankees",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "183",
-                                    "nombre": "ESPN 5",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-21 20:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "570",
-                    "nombre": "Sudamericano Sub-17",
-                    "eventos": [
-                        {
-                            "id": "78504",
-                            "fecha": "2025-05-21 21:30:00",
-                            "nombre": "Paraguay vs. Colombia",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-21 21:30:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-05-22",
             "torneos": [
                 {
@@ -271,7 +52,7 @@
                         {
                             "id": "78524",
                             "fecha": "2025-05-22 21:30:00",
-                            "nombre": "Final de conferencia, Juego #2:   Minnesota Timberwolves vs. Denver Nuggets",
+                            "nombre": "Final de conferencia, Juego #2:   Minnesota Timberwolves vs. Oklahoma City Thunder",
                             "horaDia": 3,
                             "canales": [
                                 {
@@ -646,6 +427,53 @@
                     "cantidad_eventos": 2
                 },
                 {
+                    "id": "128",
+                    "nombre": "Serie A",
+                    "eventos": [
+                        {
+                            "id": "78541",
+                            "fecha": "2025-05-23 15:45:00",
+                            "nombre": "Como vs. Inter de Milán",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78542",
+                            "fecha": "2025-05-23 15:45:00",
+                            "nombre": "Napoli vs. Cagliari",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-23 15:45:00",
+                    "cantidad_eventos": 2
+                },
+                {
                     "id": "383",
                     "nombre": "NBA - Playoffs",
                     "eventos": [
@@ -682,6 +510,56 @@
         {
             "fecha": "2025-05-24",
             "torneos": [
+                {
+                    "id": "1346",
+                    "nombre": "Liga Profesional Argentina",
+                    "eventos": [
+                        {
+                            "id": "78526",
+                            "fecha": "2025-05-24 18:30:00",
+                            "nombre": "Semifinales: Independiente vs. Huracán",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-24 18:30:00",
+                    "cantidad_eventos": 1
+                },
                 {
                     "id": "168",
                     "nombre": "Fórmula 1",
@@ -772,6 +650,491 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-05-25",
+            "torneos": [
+                {
+                    "id": "1346",
+                    "nombre": "Liga Profesional Argentina",
+                    "eventos": [
+                        {
+                            "id": "78527",
+                            "fecha": "2025-05-25 16:00:00",
+                            "nombre": "Semifinales: San Lorenzo vs. Platense",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                },
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-25 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "126",
+                    "nombre": "Liga de España",
+                    "eventos": [
+                        {
+                            "id": "78538",
+                            "fecha": "2025-05-25 09:00:00",
+                            "nombre": "Girona vs. Atlético de Madrid",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78539",
+                            "fecha": "2025-05-25 11:15:00",
+                            "nombre": "Villarreal vs. Sevilla",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78540",
+                            "fecha": "2025-05-25 16:00:00",
+                            "nombre": "Athletic Bilbao vs. Barcelona",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-25 09:00:00",
+                    "cantidad_eventos": 3
+                },
+                {
+                    "id": "168",
+                    "nombre": "Fórmula 1",
+                    "eventos": [
+                        {
+                            "id": "78522",
+                            "fecha": "2025-05-25 10:00:00",
+                            "nombre": "GP de Mónaco: Carrera",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-25 10:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "125",
+                    "nombre": "Premier League",
+                    "eventos": [
+                        {
+                            "id": "78528",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Bournemouth vs. Leicester",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78536",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Tottenham vs. Brighton",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78535",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Southampton vs. Arsenal",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78534",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Nottingham vs. Chelsea",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78533",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Newcastle vs. Everton",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78532",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Manchester United vs. Aston Villa",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78531",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Liverpool vs. Crystal Palace",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78530",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Ipswich vs. West Ham",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78529",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Fulham vs. Manchester City",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78537",
+                            "fecha": "2025-05-25 12:00:00",
+                            "nombre": "Wolverhampton vs. Brentford",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-25 12:00:00",
+                    "cantidad_eventos": 10
+                },
+                {
+                    "id": "128",
+                    "nombre": "Serie A",
+                    "eventos": [
+                        {
+                            "id": "78543",
+                            "fecha": "2025-05-25 15:45:00",
+                            "nombre": "Atalanta vs. Parma",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78544",
+                            "fecha": "2025-05-25 15:45:00",
+                            "nombre": "Empoli vs. Hellas Verona",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78545",
+                            "fecha": "2025-05-25 15:45:00",
+                            "nombre": "Lazio vs. Lecce",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78546",
+                            "fecha": "2025-05-25 15:45:00",
+                            "nombre": "Torino vs. Roma",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78547",
+                            "fecha": "2025-05-25 15:45:00",
+                            "nombre": "Udinese vs. Fiorentina",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78548",
+                            "fecha": "2025-05-25 15:45:00",
+                            "nombre": "Venezia vs. Juventus",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-25 15:45:00",
+                    "cantidad_eventos": 6
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -818,6 +1181,18 @@
             ]
         },
         {
+            "id": "150",
+            "nombre": "ESPN PREMIUM",
+            "plataformas": [
+                "HD",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 30,
+                "IPTV": 23
+            }
+        },
+        {
             "id": "7",
             "nombre": "FOX SPORTS",
             "plataformas": [
@@ -850,6 +1225,18 @@
             }
         },
         {
+            "id": "95",
+            "nombre": "TNT SPORTS",
+            "plataformas": [
+                "HD",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 29,
+                "IPTV": 24
+            }
+        },
+        {
             "id": "20",
             "nombre": "TYC SPORTS",
             "plataformas": [
@@ -866,7 +1253,7 @@
             }
         }
     ],
-    "hoy": "2025-05-21",
+    "hoy": "2025-05-22",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
