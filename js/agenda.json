@@ -58,54 +58,6 @@
                     "nombre": "Roland Garros",
                     "eventos": [
                         {
-                            "id": "78642",
-                            "fecha": "2025-05-25 06:00:00",
-                            "nombre": "Primera Ronda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "78645",
                             "fecha": "2025-05-25 15:00:00",
                             "nombre": "Primera Ronda",
@@ -145,76 +97,12 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-25 06:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
                     "eventos": [
-                        {
-                            "id": "78538",
-                            "fecha": "2025-05-25 09:00:00",
-                            "nombre": "Girona vs. Atlético de Madrid",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78539",
-                            "fecha": "2025-05-25 11:15:00",
-                            "nombre": "Villarreal vs. Sevilla",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78540",
                             "fecha": "2025-05-25 16:00:00",
@@ -255,272 +143,31 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-25 09:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "168",
                     "nombre": "Fórmula 1",
-                    "eventos": [
-                        {
-                            "id": "78522",
-                            "fecha": "2025-05-25 10:00:00",
-                            "nombre": "GP de Mónaco: Carrera",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-25 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "125",
                     "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "78528",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Bournemouth vs. Leicester",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78536",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Tottenham vs. Brighton",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78535",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Southampton vs. Arsenal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78534",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Nottingham vs. Chelsea",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78533",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Newcastle vs. Everton",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78532",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Manchester United vs. Aston Villa",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78531",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Liverpool vs. Crystal Palace",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78530",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Ipswich vs. West Ham",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78529",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Fulham vs. Manchester City",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78537",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Wolverhampton vs. Brentford",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-25 12:00:00",
-                    "cantidad_eventos": 10
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "6",
@@ -940,145 +587,38 @@
                 {
                     "id": "161",
                     "nombre": "Liga Endesa (España)",
-                    "eventos": [
-                        {
-                            "id": "78654",
-                            "fecha": "2025-05-25 07:00:00",
-                            "nombre": "Lleida vs. Unicaja",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "78655",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Barcelona vs. Girona",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-05-25 07:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "408",
                     "nombre": "Ciclismo: Giro D'Italia",
-                    "eventos": [
-                        {
-                            "id": "78657",
-                            "fecha": "2025-05-25 08:00:00",
-                            "nombre": "Etapa #8",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-25 08:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "156",
                     "nombre": "TC 2000",
-                    "eventos": [
-                        {
-                            "id": "78656",
-                            "fecha": "2025-05-25 12:00:00",
-                            "nombre": "Fecha #2: Buenos Aires - Carrera",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-25 12:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1657",
@@ -1107,48 +647,14 @@
                 {
                     "id": "154",
                     "nombre": "Moto GP",
-                    "eventos": [
-                        {
-                            "id": "78643",
-                            "fecha": "2025-05-25 07:00:00",
-                            "nombre": "GP Reino Unido  – Carrera",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-25 07:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "300",
@@ -1242,29 +748,6 @@
                     "nombre": "Euroliga",
                     "eventos": [
                         {
-                            "id": "78653",
-                            "fecha": "2025-05-25 11:00:00",
-                            "nombre": "Tercer puesto: Olympiacos vs. Panathinaikos",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
                             "id": "78652",
                             "fecha": "2025-05-25 14:00:00",
                             "nombre": "Final: Mónaco vs. Fenerbahce",
@@ -1294,7 +777,7 @@
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-05-25 11:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1581",
@@ -3004,48 +2487,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "110",
-                    "nombre": "Voley - Amistoso",
-                    "eventos": [
-                        {
-                            "id": "78634",
-                            "fecha": "2025-05-28 21:00:00",
-                            "nombre": "Argentina vs. Alemania",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-28 21:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "1577",
                     "nombre": "NHL (Hockey sobre hielo)",
                     "eventos": [
@@ -3117,6 +2558,48 @@
                     },
                     "primerFecha": "2025-05-28 21:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "110",
+                    "nombre": "Voley - Amistoso",
+                    "eventos": [
+                        {
+                            "id": "78634",
+                            "fecha": "2025-05-28 21:00:00",
+                            "nombre": "Argentina vs. Alemania",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-28 21:00:00",
+                    "cantidad_eventos": 1
                 }
             ],
             "eventos": [],
@@ -3124,10 +2607,6 @@
         }
     ],
     "canales": [
-        {
-            "id": "171",
-            "nombre": "DGO"
-        },
         {
             "id": "179",
             "nombre": "DISNEY +"
