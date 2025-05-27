@@ -394,32 +394,14 @@
                 {
                     "id": "408",
                     "nombre": "Ciclismo: Giro D'Italia",
-                    "eventos": [
-                        {
-                            "id": "78693",
-                            "fecha": "2025-05-27 08:00:00",
-                            "nombre": "Etapa #16",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-27 08:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 }
             ],
             "eventos": [],
@@ -1109,6 +1091,48 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "110",
+                    "nombre": "Voley - Amistoso",
+                    "eventos": [
+                        {
+                            "id": "78634",
+                            "fecha": "2025-05-28 21:00:00",
+                            "nombre": "Argentina vs. Alemania",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-28 21:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "1577",
                     "nombre": "NHL (Hockey sobre hielo)",
                     "eventos": [
@@ -1180,48 +1204,6 @@
                     },
                     "primerFecha": "2025-05-28 21:00:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "110",
-                    "nombre": "Voley - Amistoso",
-                    "eventos": [
-                        {
-                            "id": "78634",
-                            "fecha": "2025-05-28 21:00:00",
-                            "nombre": "Argentina vs. Alemania",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-28 21:00:00",
-                    "cantidad_eventos": 1
                 }
             ],
             "eventos": [],
