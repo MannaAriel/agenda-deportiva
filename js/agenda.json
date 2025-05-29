@@ -153,55 +153,6 @@
                     "nombre": "Roland Garros",
                     "eventos": [
                         {
-                            "id": "78612",
-                            "fecha": "2025-05-29 06:00:00",
-                            "nombre": "Segunda Ronda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "78614",
                             "fecha": "2025-05-29 15:00:00",
                             "nombre": "Segunda Ronda",
@@ -241,7 +192,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-29 06:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "72",
@@ -1424,13 +1375,13 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "1577",
-                    "nombre": "NHL (Hockey sobre hielo)",
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
                     "eventos": [
                         {
-                            "id": "78719",
+                            "id": "78718",
                             "fecha": "2025-05-30 21:00:00",
-                            "nombre": "Final de Conferencia – Florida Panthers vs. Carolina Hurricanes",
+                            "nombre": "Detroit Tigers vs. Kansas City Royals",
                             "horaDia": 3,
                             "canales": [
                                 {
@@ -1454,13 +1405,13 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
+                    "id": "1577",
+                    "nombre": "NHL (Hockey sobre hielo)",
                     "eventos": [
                         {
-                            "id": "78718",
+                            "id": "78719",
                             "fecha": "2025-05-30 21:00:00",
-                            "nombre": "Detroit Tigers vs. Kansas City Royals",
+                            "nombre": "Final de Conferencia – Florida Panthers vs. Carolina Hurricanes",
                             "horaDia": 3,
                             "canales": [
                                 {
