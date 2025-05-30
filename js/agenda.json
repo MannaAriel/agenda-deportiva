@@ -167,52 +167,14 @@
                 {
                     "id": "426",
                     "nombre": "Roland Garros",
-                    "eventos": [
-                        {
-                            "id": "78614",
-                            "fecha": "2025-05-29 15:00:00",
-                            "nombre": "Segunda Ronda",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-29 06:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "72",
@@ -507,135 +469,38 @@
                 {
                     "id": "447",
                     "nombre": "Golf - US Open",
-                    "eventos": [
-                        {
-                            "id": "78613",
-                            "fecha": "2025-05-29 13:00:00",
-                            "nombre": "Primera Vuelta",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-29 13:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "596",
-                    "nombre": "Golf: The Memorial Tournament",
-                    "eventos": [
-                        {
-                            "id": "78615",
-                            "fecha": "2025-05-29 15:00:00",
-                            "nombre": "Primera Vuelta",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-05-29 15:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1690",
                     "nombre": "Golf",
-                    "eventos": [
-                        {
-                            "id": "78638",
-                            "fecha": "2025-05-29 15:00:00",
-                            "nombre": "The Memorial Tournament",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-29 15:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
+                },
+                {
+                    "id": "596",
+                    "nombre": "Golf: The Memorial Tournament",
+                    "eventos": [],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-29 15:00:00",
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1577",
@@ -921,6 +786,10 @@
                                     "nombre": "DISNEY + PREMIUM "
                                 },
                                 {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                },
+                                {
                                     "id": "39",
                                     "nombre": "ESPN 2",
                                     "plataformas": [
@@ -959,7 +828,7 @@
                         {
                             "id": "78721",
                             "fecha": "2025-05-30 23:00:00",
-                            "nombre": "Manuel Gallegos vs. Khalil Coe",
+                            "nombre": "Christian Medina vs. Juan Ramirez",
                             "horaDia": 3,
                             "canales": [
                                 {
@@ -1211,6 +1080,10 @@
                             "horaDia": 2,
                             "canales": [
                                 {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
                                 },
@@ -1241,6 +1114,36 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "1014",
+                    "nombre": "Porsche Supercup",
+                    "eventos": [
+                        {
+                            "id": "78742",
+                            "fecha": "2025-05-30 13:30:00",
+                            "nombre": "GP de España: Prácticas",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-30 13:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "596",
                     "nombre": "Golf: The Memorial Tournament",
                     "eventos": [
@@ -1250,6 +1153,10 @@
                             "nombre": "Segunda Ronda",
                             "horaDia": 2,
                             "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
                                 {
                                     "id": "179",
                                     "nombre": "DISNEY +"
@@ -1284,6 +1191,36 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-30 15:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "351",
+                    "nombre": "IndyCar Series",
+                    "eventos": [
+                        {
+                            "id": "78744",
+                            "fecha": "2025-05-30 16:00:00",
+                            "nombre": "Detroit: Práctica 1",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-30 16:00:00",
                     "cantidad_eventos": 1
                 },
                 {
@@ -1560,6 +1497,109 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "426",
+                    "nombre": "Roland Garros",
+                    "eventos": [
+                        {
+                            "id": "78751",
+                            "fecha": "2025-05-31 06:00:00",
+                            "nombre": "Tercera Ronda",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        },
+                        {
+                            "id": "78752",
+                            "fecha": "2025-05-31 15:00:00",
+                            "nombre": "Tercera Ronda",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "3",
+                        "nombre": "Tenis",
+                        "icono": "tenis.png"
+                    },
+                    "primerFecha": "2025-05-31 06:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
                     "id": "168",
                     "nombre": "Fórmula 1",
                     "eventos": [
@@ -1569,6 +1609,10 @@
                             "nombre": "GP de España - Prácticas #3",
                             "horaDia": 1,
                             "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
@@ -1602,6 +1646,10 @@
                             "nombre": "GP de España - Clasificación",
                             "horaDia": 1,
                             "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
@@ -1729,6 +1777,355 @@
                     },
                     "primerFecha": "2025-05-31 20:30:00",
                     "cantidad_eventos": 1
+                },
+                {
+                    "id": "1183",
+                    "nombre": "ESPN Knockout",
+                    "eventos": [
+                        {
+                            "id": "78757",
+                            "fecha": "2025-05-31 21:00:00",
+                            "nombre": "Caleb Plant vs. Armando Resendiz",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "6",
+                                "nombre": "Boxeo",
+                                "icono": "boxeo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "6",
+                        "nombre": "Boxeo",
+                        "icono": "boxeo.png"
+                    },
+                    "primerFecha": "2025-05-31 21:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "420",
+                    "nombre": "UFC",
+                    "eventos": [
+                        {
+                            "id": "78756",
+                            "fecha": "2025-05-31 22:00:00",
+                            "nombre": "Preliminares y Erin Blanchfield vs Maycee Barber",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-31 22:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1657",
+                    "nombre": "Fórmula 3",
+                    "eventos": [
+                        {
+                            "id": "78745",
+                            "fecha": "2025-05-31 05:00:00",
+                            "nombre": "GP de España - Carrera Sprint",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-31 05:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1014",
+                    "nombre": "Porsche Supercup",
+                    "eventos": [
+                        {
+                            "id": "78747",
+                            "fecha": "2025-05-31 06:20:00",
+                            "nombre": "GP de España: Clasificación",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-31 06:20:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1655",
+                    "nombre": "Formula 2",
+                    "eventos": [
+                        {
+                            "id": "78746",
+                            "fecha": "2025-05-31 09:05:00",
+                            "nombre": "GP de España - Carrera Sprint",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-31 09:05:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "351",
+                    "nombre": "IndyCar Series",
+                    "eventos": [
+                        {
+                            "id": "78748",
+                            "fecha": "2025-05-31 10:00:00",
+                            "nombre": "Detroit: Práctica 2",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        },
+                        {
+                            "id": "78749",
+                            "fecha": "2025-05-31 13:00:00",
+                            "nombre": "Detroit: Clasificación",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        },
+                        {
+                            "id": "78750",
+                            "fecha": "2025-05-31 13:00:00",
+                            "nombre": "Detroit: Clasificación",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-05-31 10:00:00",
+                    "cantidad_eventos": 3
+                },
+                {
+                    "id": "1601",
+                    "nombre": "Premier Padel",
+                    "eventos": [
+                        {
+                            "id": "78753",
+                            "fecha": "2025-05-31 13:00:00",
+                            "nombre": "Buenos Aires - Semifinal Femenina 1",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "78754",
+                            "fecha": "2025-05-31 17:30:00",
+                            "nombre": "Buenos Aires - Semifinales Masculinas",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-31 13:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "1508",
+                    "nombre": "Stanley Cup Final",
+                    "eventos": [
+                        {
+                            "id": "78755",
+                            "fecha": "2025-05-31 21:00:00",
+                            "nombre": "Final de Conferencia: Edmonton Oilers vs. Dallas Stars",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-05-31 21:00:00",
+                    "cantidad_eventos": 1
                 }
             ],
             "eventos": [],
@@ -1839,6 +2236,10 @@
                             "nombre": "GP de España - Carrera",
                             "horaDia": 1,
                             "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
