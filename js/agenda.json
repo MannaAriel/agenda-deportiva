@@ -975,32 +975,14 @@
                 {
                     "id": "1657",
                     "nombre": "Fórmula 3",
-                    "eventos": [
-                        {
-                            "id": "78745",
-                            "fecha": "2025-05-31 05:00:00",
-                            "nombre": "GP de España - Carrera Sprint",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-31 05:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1014",
@@ -1060,6 +1042,52 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-31 09:05:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1554",
+                    "nombre": "Superliga de Turquía",
+                    "eventos": [
+                        {
+                            "id": "78784",
+                            "fecha": "2025-05-31 10:00:00",
+                            "nombre": "Fenerbahce\tvs.\tKonyaspor",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-05-31 10:00:00",
                     "cantidad_eventos": 1
                 },
                 {
@@ -1125,52 +1153,6 @@
                     },
                     "primerFecha": "2025-05-31 10:00:00",
                     "cantidad_eventos": 3
-                },
-                {
-                    "id": "1554",
-                    "nombre": "Superliga de Turquía",
-                    "eventos": [
-                        {
-                            "id": "78784",
-                            "fecha": "2025-05-31 10:00:00",
-                            "nombre": "Fenerbahce\tvs.\tKonyaspor",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-05-31 10:00:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "249",
