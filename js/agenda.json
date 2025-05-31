@@ -38,59 +38,6 @@
                     "nombre": "Roland Garros",
                     "eventos": [
                         {
-                            "id": "78751",
-                            "fecha": "2025-05-31 06:00:00",
-                            "nombre": "Tercera Ronda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "78752",
                             "fecha": "2025-05-31 15:00:00",
                             "nombre": "Tercera Ronda",
@@ -134,94 +81,19 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-05-31 06:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "168",
                     "nombre": "Fórmula 1",
-                    "eventos": [
-                        {
-                            "id": "78703",
-                            "fecha": "2025-05-31 07:30:00",
-                            "nombre": "GP de España - Prácticas #3",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
-                            "id": "78704",
-                            "fecha": "2025-05-31 11:00:00",
-                            "nombre": "GP de España - Clasificación",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-31 07:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "6",
@@ -849,54 +721,19 @@
                 {
                     "id": "408",
                     "nombre": "Ciclismo: Giro D'Italia",
-                    "eventos": [
-                        {
-                            "id": "78795",
-                            "fecha": "2025-05-31 08:00:00",
-                            "nombre": "Etapas 20",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-05-31 08:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1659",
                     "nombre": "Segunda división de España",
                     "eventos": [
-                        {
-                            "id": "78785",
-                            "fecha": "2025-05-31 11:15:00",
-                            "nombre": "Racing de Ferrol\tvs.\tSporting de Gijón",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78786",
                             "fecha": "2025-05-31 13:30:00",
@@ -921,56 +758,19 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-31 11:15:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "96",
                     "nombre": "Top 14 de Francia",
-                    "eventos": [
-                        {
-                            "id": "78759",
-                            "fecha": "2025-05-31 09:20:00",
-                            "nombre": "Clermont vs. Stade Francais",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-05-31 09:20:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1657",
@@ -987,130 +787,43 @@
                 {
                     "id": "1014",
                     "nombre": "Porsche Supercup",
-                    "eventos": [
-                        {
-                            "id": "78747",
-                            "fecha": "2025-05-31 06:20:00",
-                            "nombre": "GP de España: Clasificación",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-31 06:20:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1655",
                     "nombre": "Formula 2",
-                    "eventos": [
-                        {
-                            "id": "78746",
-                            "fecha": "2025-05-31 09:05:00",
-                            "nombre": "GP de España - Carrera Sprint",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-31 09:05:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1554",
                     "nombre": "Superliga de Turquía",
-                    "eventos": [
-                        {
-                            "id": "78784",
-                            "fecha": "2025-05-31 10:00:00",
-                            "nombre": "Fenerbahce\tvs.\tKonyaspor",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-05-31 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "351",
                     "nombre": "IndyCar Series",
                     "eventos": [
-                        {
-                            "id": "78748",
-                            "fecha": "2025-05-31 10:00:00",
-                            "nombre": "Detroit: Práctica 2",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
                         {
                             "id": "78749",
                             "fecha": "2025-05-31 13:00:00",
@@ -1152,105 +865,19 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-05-31 10:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "249",
                     "nombre": "Premiership Inglesa",
-                    "eventos": [
-                        {
-                            "id": "78761",
-                            "fecha": "2025-05-31 11:00:00",
-                            "nombre": "Bristol Bears vs. Harlequins",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "78762",
-                            "fecha": "2025-05-31 11:00:00",
-                            "nombre": "Exeter Chiefs vs. Sale Sharks",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "78763",
-                            "fecha": "2025-05-31 11:00:00",
-                            "nombre": "Gloucester Rugby vs. Northampton Saints",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "78764",
-                            "fecha": "2025-05-31 11:00:00",
-                            "nombre": "Leicester Tigers vs. Newcastle Falcons",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "78765",
-                            "fecha": "2025-05-31 11:00:00",
-                            "nombre": "Saracens vs. Bath Rugby",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-05-31 11:00:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1601",
@@ -3070,22 +2697,6 @@
                 "ANALOGICO": 14,
                 "ISDBT": 24.2,
                 "IPTV": 14
-            }
-        },
-        {
-            "id": "15",
-            "nombre": "FOX SPORTS 2",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 21,
-                "ANALOGICO": 15,
-                "ISDBT": 24.3,
-                "IPTV": 15
             }
         },
         {
