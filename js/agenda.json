@@ -52,81 +52,14 @@
                 {
                     "id": "426",
                     "nombre": "Roland Garros",
-                    "eventos": [
-                        {
-                            "id": "78831",
-                            "fecha": "2025-06-02 06:00:00",
-                            "nombre": "Octavos de Final",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
-                            "id": "78832",
-                            "fecha": "2025-06-02 06:00:00",
-                            "nombre": "Octavos de Final",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-06-02 06:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "72",
@@ -1030,22 +963,6 @@
                 "ISDBT",
                 "IPTV"
             ]
-        },
-        {
-            "id": "7",
-            "nombre": "FOX SPORTS",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 20,
-                "ANALOGICO": 14,
-                "ISDBT": 24.2,
-                "IPTV": 14
-            }
         },
         {
             "id": "20",
