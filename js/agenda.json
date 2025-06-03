@@ -1,159 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-06-02",
-            "torneos": [
-                {
-                    "id": "3",
-                    "nombre": "Copa Conmebol Libertadores",
-                    "eventos": [
-                        {
-                            "id": "78833",
-                            "fecha": "2025-06-02 12:00:00",
-                            "nombre": "Sorteo Octavos de Final",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-02 12:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "426",
-                    "nombre": "Roland Garros",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-06-02 06:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "72",
-                    "nombre": "Copa Conmebol Sudamericana",
-                    "eventos": [
-                        {
-                            "id": "78834",
-                            "fecha": "2025-06-02 12:00:00",
-                            "nombre": "Sorteo Playoffs y Octavos de Final",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-02 12:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "6",
-                    "nombre": "Primera Nacional",
-                    "eventos": [
-                        {
-                            "id": "78830",
-                            "fecha": "2025-06-02 19:00:00",
-                            "nombre": "Nueva Chicago vs. Temperley",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-02 19:00:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-06-03",
             "torneos": [
                 {
@@ -639,6 +486,98 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "1633",
+                    "nombre": "Eliminatorias Sudamericanas",
+                    "eventos": [
+                        {
+                            "id": "78847",
+                            "fecha": "2025-06-05 20:00:00",
+                            "nombre": "Ecuador vs. Brasil",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78848",
+                            "fecha": "2025-06-05 21:00:00",
+                            "nombre": "Paraguay vs. Uruguay",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78849",
+                            "fecha": "2025-06-05 22:00:00",
+                            "nombre": "Chile vs. Argentina",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "158",
+                                    "nombre": "TELEFE"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-05 20:00:00",
+                    "cantidad_eventos": 3
+                },
+                {
                     "id": "426",
                     "nombre": "Roland Garros",
                     "eventos": [
@@ -682,6 +621,52 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-06-05 10:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1010",
+                    "nombre": "Finales de la NBA",
+                    "eventos": [
+                        {
+                            "id": "78846",
+                            "fecha": "2025-06-05 21:30:00",
+                            "nombre": "Juego #1: Oklahoma City Thunder vs. Indiana Pacers",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-06-05 21:30:00",
                     "cantidad_eventos": 1
                 },
                 {
@@ -845,20 +830,98 @@
                     },
                     "primerFecha": "2025-06-05 13:00:00",
                     "cantidad_eventos": 2
-                },
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
+        },
+        {
+            "fecha": "2025-06-06",
+            "torneos": [
                 {
-                    "id": "10",
-                    "nombre": "NBA",
+                    "id": "1633",
+                    "nombre": "Eliminatorias Sudamericanas",
                     "eventos": [
                         {
-                            "id": "78846",
-                            "fecha": "2025-06-05 21:25:00",
-                            "nombre": "Equipos a Confirmar",
-                            "horaDia": 3,
+                            "id": "78797",
+                            "fecha": "2025-06-06 17:30:00",
+                            "nombre": "Colombia\tvs.\tPerú",
+                            "horaDia": 2,
                             "canales": [
                                 {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78798",
+                            "fecha": "2025-06-06 19:00:00",
+                            "nombre": "Venezuela\tvs.\tBolivia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-06 17:30:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "426",
+                    "nombre": "Roland Garros",
+                    "eventos": [
+                        {
+                            "id": "78803",
+                            "fecha": "2025-06-06 09:30:00",
+                            "nombre": "Semifinales Masculinas",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
                                 },
                                 {
                                     "id": "39",
@@ -878,6 +941,139 @@
                                 }
                             ],
                             "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "3",
+                        "nombre": "Tenis",
+                        "icono": "tenis.png"
+                    },
+                    "primerFecha": "2025-06-06 09:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "6",
+                    "nombre": "Primera Nacional",
+                    "eventos": [
+                        {
+                            "id": "78799",
+                            "fecha": "2025-06-06 15:10:00",
+                            "nombre": "Defensores de Belgrano\tvs.\tAlmirante Brown",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78800",
+                            "fecha": "2025-06-06 21:10:00",
+                            "nombre": "Estudiantes (BA) vs. Temperley",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-06 15:10:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "161",
+                    "nombre": "Liga Endesa (España)",
+                    "eventos": [
+                        {
+                            "id": "78801",
+                            "fecha": "2025-06-06 14:00:00",
+                            "nombre": "Cuartos de Final",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
                                 "id": "2",
                                 "nombre": "Básquet",
                                 "icono": "basquet.png"
@@ -889,7 +1085,148 @@
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
-                    "primerFecha": "2025-06-05 21:25:00",
+                    "primerFecha": "2025-06-06 14:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "249",
+                    "nombre": "Premiership Inglesa",
+                    "eventos": [
+                        {
+                            "id": "78802",
+                            "fecha": "2025-06-06 15:30:00",
+                            "nombre": "Semifinal",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-06-06 15:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "78804",
+                            "fecha": "2025-06-06 21:00:00",
+                            "nombre": "Los Angeles Dodgers\tvs.\tSt Louis Cardinalds",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "27",
+                                    "nombre": "FOX SPORTS 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 22,
+                                        "ANALOGICO": 16,
+                                        "ISDBT": 24.4,
+                                        "IPTV": 16
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-06 21:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1046",
+                    "nombre": "Voley Masculino Amistoso",
+                    "eventos": [
+                        {
+                            "id": "78805",
+                            "fecha": "2025-06-06 21:30:00",
+                            "nombre": "Argentina\tvs.\tCuba",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-06 21:30:00",
                     "cantidad_eventos": 1
                 }
             ],
@@ -899,12 +1236,20 @@
     ],
     "canales": [
         {
+            "id": "171",
+            "nombre": "DGO"
+        },
+        {
             "id": "179",
             "nombre": "DISNEY +"
         },
         {
             "id": "181",
             "nombre": "DISNEY + PREMIUM "
+        },
+        {
+            "id": "164",
+            "nombre": "DSPORTS / DGO"
         },
         {
             "id": "8",
@@ -955,6 +1300,21 @@
             }
         },
         {
+            "id": "161",
+            "nombre": "ESPN 4",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 28,
+                "ISDBT": 26.2,
+                "IPTV": 22
+            }
+        },
+        {
             "id": "183",
             "nombre": "ESPN 5",
             "plataformas": [
@@ -963,6 +1323,58 @@
                 "ISDBT",
                 "IPTV"
             ]
+        },
+        {
+            "id": "7",
+            "nombre": "FOX SPORTS",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 20,
+                "ANALOGICO": 14,
+                "ISDBT": 24.2,
+                "IPTV": 14
+            }
+        },
+        {
+            "id": "15",
+            "nombre": "FOX SPORTS 2",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 21,
+                "ANALOGICO": 15,
+                "ISDBT": 24.3,
+                "IPTV": 15
+            }
+        },
+        {
+            "id": "27",
+            "nombre": "FOX SPORTS 3",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 22,
+                "ANALOGICO": 16,
+                "ISDBT": 24.4,
+                "IPTV": 16
+            }
+        },
+        {
+            "id": "158",
+            "nombre": "TELEFE"
         },
         {
             "id": "20",
@@ -979,9 +1391,13 @@
                 "ISDBT": 24.5,
                 "IPTV": 17
             }
+        },
+        {
+            "id": "50",
+            "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-06-02",
+    "hoy": "2025-06-03",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
