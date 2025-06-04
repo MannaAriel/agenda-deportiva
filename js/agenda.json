@@ -54,39 +54,6 @@
                     "nombre": "Roland Garros",
                     "eventos": [
                         {
-                            "id": "78772",
-                            "fecha": "2025-06-04 06:00:00",
-                            "nombre": "Cuartos de Final: M. Keys vs. C. Gauf / M. Andreva vs. L. Boisson",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "78777",
                             "fecha": "2025-06-04 15:00:00",
                             "nombre": "Cuartos de Final: A. Zverev vs. N. Djokovic",
@@ -126,29 +93,12 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-06-04 06:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "21",
                     "nombre": "Amistoso",
                     "eventos": [
-                        {
-                            "id": "78773",
-                            "fecha": "2025-06-04 11:00:00",
-                            "nombre": "Concafa SC vs. Bournemouth",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78774",
                             "fecha": "2025-06-04 12:00:00",
@@ -258,7 +208,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-04 11:00:00",
-                    "cantidad_eventos": 7
+                    "cantidad_eventos": 6
                 },
                 {
                     "id": "1605",
