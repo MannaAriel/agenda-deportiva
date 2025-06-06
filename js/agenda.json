@@ -75,43 +75,6 @@
                     "nombre": "Roland Garros",
                     "eventos": [
                         {
-                            "id": "78803",
-                            "fecha": "2025-06-06 09:30:00",
-                            "nombre": "Semifinal 1: L. Musetti vs. C. Alcaraz",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "78886",
                             "fecha": "2025-06-06 14:00:00",
                             "nombre": "Semifinal 2: J. Sinner vs. N. Djokovic",
@@ -155,7 +118,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-06-06 09:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "6",
@@ -560,32 +523,14 @@
                 {
                     "id": "154",
                     "nombre": "Moto GP",
-                    "eventos": [
-                        {
-                            "id": "78885",
-                            "fecha": "2025-06-06 09:55:00",
-                            "nombre": "GP Aragón - Prácticas Libres",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-06-06 03:55:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "249",
@@ -803,6 +748,52 @@
                     "cantidad_eventos": 2
                 },
                 {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "78804",
+                            "fecha": "2025-06-06 21:00:00",
+                            "nombre": "Los Angeles Dodgers\tvs.\tSt Louis Cardinalds",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "27",
+                                    "nombre": "FOX SPORTS 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 22,
+                                        "ANALOGICO": 16,
+                                        "ISDBT": 24.4,
+                                        "IPTV": 16
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-06 21:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "1508",
                     "nombre": "Stanley Cup Final",
                     "eventos": [
@@ -834,52 +825,6 @@
                                         "ANALOGICO": 20,
                                         "ISDBT": 25.5,
                                         "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-06 21:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "78804",
-                            "fecha": "2025-06-06 21:00:00",
-                            "nombre": "Los Angeles Dodgers\tvs.\tSt Louis Cardinalds",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
                                     }
                                 }
                             ],
@@ -1135,70 +1080,6 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "838",
-                    "nombre": "Amistoso Internacional",
-                    "eventos": [
-                        {
-                            "id": "78924",
-                            "fecha": "2025-06-07 10:00:00",
-                            "nombre": "Letonia vs. Azerbaiyán",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78925",
-                            "fecha": "2025-06-07 14:00:00",
-                            "nombre": "Dinamarca vs Irlanda del Norte",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78926",
-                            "fecha": "2025-06-07 15:45:00",
-                            "nombre": "Croacia vs Eslovaquia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-07 10:00:00",
-                    "cantidad_eventos": 3
-                },
-                {
                     "id": "1152",
                     "nombre": "Eliminatorias Europeas",
                     "eventos": [
@@ -1372,6 +1253,70 @@
                     },
                     "primerFecha": "2025-06-07 10:00:00",
                     "cantidad_eventos": 6
+                },
+                {
+                    "id": "838",
+                    "nombre": "Amistoso Internacional",
+                    "eventos": [
+                        {
+                            "id": "78924",
+                            "fecha": "2025-06-07 10:00:00",
+                            "nombre": "Letonia vs. Azerbaiyán",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78925",
+                            "fecha": "2025-06-07 14:00:00",
+                            "nombre": "Dinamarca vs Irlanda del Norte",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "78926",
+                            "fecha": "2025-06-07 15:45:00",
+                            "nombre": "Croacia vs Eslovaquia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-07 10:00:00",
+                    "cantidad_eventos": 3
                 },
                 {
                     "id": "410",
