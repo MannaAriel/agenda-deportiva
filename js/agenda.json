@@ -6,52 +6,14 @@
                 {
                     "id": "426",
                     "nombre": "Roland Garros",
-                    "eventos": [
-                        {
-                            "id": "78906",
-                            "fecha": "2025-06-07 10:00:00",
-                            "nombre": "Final: A. Sabalenka vs. C. Gauff",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-06-07 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "6",
@@ -145,23 +107,6 @@
                     "nombre": "Amistoso Internacional",
                     "eventos": [
                         {
-                            "id": "78924",
-                            "fecha": "2025-06-07 10:00:00",
-                            "nombre": "Letonia vs. Azerbaiyán",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "78925",
                             "fecha": "2025-06-07 14:00:00",
                             "nombre": "Dinamarca vs Irlanda del Norte",
@@ -202,49 +147,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-07 10:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "1152",
                     "nombre": "Eliminatorias Europeas",
                     "eventos": [
-                        {
-                            "id": "78893",
-                            "fecha": "2025-06-07 10:00:00",
-                            "nombre": "Bosnia & Herzegovina vs. San Marino",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78894",
                             "fecha": "2025-06-07 13:00:00",
@@ -377,7 +285,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-07 10:00:00",
-                    "cantidad_eventos": 6
+                    "cantidad_eventos": 5
                 },
                 {
                     "id": "410",
@@ -882,6 +790,10 @@
                                     "nombre": "DGO"
                                 },
                                 {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
                                     "id": "7",
                                     "nombre": "FOX SPORTS",
                                     "plataformas": [
@@ -1066,207 +978,43 @@
                 {
                     "id": "154",
                     "nombre": "Moto GP",
-                    "eventos": [
-                        {
-                            "id": "78908",
-                            "fecha": "2025-06-07 09:30:00",
-                            "nombre": "GP Aragón - Carrera Sprint",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-06-07 05:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1133",
                     "nombre": "Hockey Femenino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "78912",
-                            "fecha": "2025-06-07 06:00:00",
-                            "nombre": "España\tvs.\tArgentina",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "78937",
-                            "fecha": "2025-06-07 08:30:00",
-                            "nombre": "Países Bajos vs. Australia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-07 06:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1134",
                     "nombre": "Hockey Masculino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "78913",
-                            "fecha": "2025-06-07 08:30:00",
-                            "nombre": "España\tvs.\tArgentina",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "78938",
-                            "fecha": "2025-06-07 11:00:00",
-                            "nombre": "Países Bajos vs. India",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-07 08:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1599",
                     "nombre": "Voley: Nations League Femenino",
                     "eventos": [
-                        {
-                            "id": "78915",
-                            "fecha": "2025-06-07 08:30:00",
-                            "nombre": "China vs. Francia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
                         {
                             "id": "78916",
                             "fecha": "2025-06-07 13:30:00",
@@ -1331,7 +1079,7 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-07 08:30:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 3
                 },
                 {
                     "id": "249",
