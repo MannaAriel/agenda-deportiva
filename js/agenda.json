@@ -8,39 +8,6 @@
                     "nombre": "Eliminatorias Europeas",
                     "eventos": [
                         {
-                            "id": "78854",
-                            "fecha": "2025-06-09 11:00:00",
-                            "nombre": "Kazajstán vs. Macedonia del Norte",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "78855",
                             "fecha": "2025-06-09 15:45:00",
                             "nombre": "Islas Feroe vs. Gibraltar",
@@ -164,7 +131,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-09 11:00:00",
-                    "cantidad_eventos": 6
+                    "cantidad_eventos": 5
                 }
             ],
             "eventos": [],
@@ -1176,6 +1143,52 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "1134",
+                    "nombre": "Hockey Masculino: FIH Pro League",
+                    "eventos": [
+                        {
+                            "id": "78942",
+                            "fecha": "2025-06-12 10:00:00",
+                            "nombre": "India vs. Argentina",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-12 10:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "1320",
                     "nombre": "Ciclismo: Criterium du Dauphine",
                     "eventos": [
@@ -1251,61 +1264,19 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "1134",
-                    "nombre": "Hockey Masculino: FIH Pro League",
+                    "id": "447",
+                    "nombre": "Golf - US Open",
                     "eventos": [
                         {
-                            "id": "78942",
-                            "fecha": "2025-06-12 10:00:00",
-                            "nombre": "India vs. Argentina",
-                            "horaDia": 1,
+                            "id": "78943",
+                            "fecha": "2025-06-12 13:00:00",
+                            "nombre": "Primera Vuelta",
+                            "horaDia": 2,
                             "canales": [
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
                                 },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 10:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "146",
-                    "nombre": "Golf - PGA Tour",
-                    "eventos": [
-                        {
-                            "id": "79000",
-                            "fecha": "2025-06-12 13:00:00",
-                            "nombre": "Ronda 1",
-                            "horaDia": 2,
-                            "canales": [
                                 {
                                     "id": "39",
                                     "nombre": "ESPN 2",
@@ -1339,19 +1310,15 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "447",
-                    "nombre": "Golf - US Open",
+                    "id": "146",
+                    "nombre": "Golf - PGA Tour",
                     "eventos": [
                         {
-                            "id": "78943",
+                            "id": "79000",
                             "fecha": "2025-06-12 13:00:00",
-                            "nombre": "Primera Vuelta",
+                            "nombre": "Ronda 1",
                             "horaDia": 2,
                             "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
                                 {
                                     "id": "39",
                                     "nombre": "ESPN 2",
