@@ -6,136 +6,18 @@
                 {
                     "id": "1152",
                     "nombre": "Eliminatorias Europeas",
-                    "eventos": [
-                        {
-                            "id": "78855",
-                            "fecha": "2025-06-09 15:45:00",
-                            "nombre": "Islas Feroe vs. Gibraltar",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78856",
-                            "fecha": "2025-06-09 15:45:00",
-                            "nombre": "Estonia vs. Noruega",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78857",
-                            "fecha": "2025-06-09 15:45:00",
-                            "nombre": "Bélgica vs. Gales",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78858",
-                            "fecha": "2025-06-09 15:45:00",
-                            "nombre": "Croacia vs. República Checa",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78859",
-                            "fecha": "2025-06-09 15:45:00",
-                            "nombre": "Italia vs. Moldavia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-09 11:00:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 0
                 }
             ],
             "eventos": [],
-            "tieneEventos": true
+            "tieneEventos": false
         },
         {
             "fecha": "2025-06-10",
@@ -144,23 +26,6 @@
                     "id": "1633",
                     "nombre": "Eliminatorias Sudamericanas",
                     "eventos": [
-                        {
-                            "id": "78868",
-                            "fecha": "2025-06-10 15:45:00",
-                            "nombre": "Rumania vs. Chipre",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "78860",
                             "fecha": "2025-06-10 17:00:00",
@@ -298,8 +163,8 @@
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
-                    "primerFecha": "2025-06-10 15:45:00",
-                    "cantidad_eventos": 6
+                    "primerFecha": "2025-06-10 17:00:00",
+                    "cantidad_eventos": 5
                 },
                 {
                     "id": "838",
@@ -387,6 +252,23 @@
                             }
                         },
                         {
+                            "id": "78868",
+                            "fecha": "2025-06-10 15:45:00",
+                            "nombre": "Rumania vs. Chipre",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
                             "id": "78869",
                             "fecha": "2025-06-10 15:45:00",
                             "nombre": "Finlandia vs. Polonia",
@@ -443,7 +325,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-10 15:45:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 6
                 }
             ],
             "eventos": [],
@@ -1264,19 +1146,15 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "447",
-                    "nombre": "Golf - US Open",
+                    "id": "146",
+                    "nombre": "Golf - PGA Tour",
                     "eventos": [
                         {
-                            "id": "78943",
+                            "id": "79000",
                             "fecha": "2025-06-12 13:00:00",
-                            "nombre": "Primera Vuelta",
+                            "nombre": "Ronda 1",
                             "horaDia": 2,
                             "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
                                 {
                                     "id": "39",
                                     "nombre": "ESPN 2",
@@ -1310,15 +1188,19 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "146",
-                    "nombre": "Golf - PGA Tour",
+                    "id": "447",
+                    "nombre": "Golf - US Open",
                     "eventos": [
                         {
-                            "id": "79000",
+                            "id": "78943",
                             "fecha": "2025-06-12 13:00:00",
-                            "nombre": "Ronda 1",
+                            "nombre": "Primera Vuelta",
                             "horaDia": 2,
                             "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
                                 {
                                     "id": "39",
                                     "nombre": "ESPN 2",
@@ -1539,22 +1421,6 @@
         {
             "id": "16",
             "nombre": "DSPORTS 2 / DGO"
-        },
-        {
-            "id": "8",
-            "nombre": "ESPN",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 25,
-                "ANALOGICO": 19,
-                "ISDBT": 25.4,
-                "IPTV": 19
-            }
         },
         {
             "id": "39",
