@@ -1006,52 +1006,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "1134",
-                    "nombre": "Hockey Masculino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "78942",
-                            "fecha": "2025-06-12 10:00:00",
-                            "nombre": "India vs. Argentina",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 10:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "1320",
                     "nombre": "Ciclismo: Criterium du Dauphine",
                     "eventos": [
@@ -1125,6 +1079,52 @@
                     },
                     "primerFecha": "2025-06-12 10:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "1134",
+                    "nombre": "Hockey Masculino: FIH Pro League",
+                    "eventos": [
+                        {
+                            "id": "78942",
+                            "fecha": "2025-06-12 10:00:00",
+                            "nombre": "India vs. Argentina",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-12 10:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "146",
@@ -1284,19 +1284,15 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "1577",
-                    "nombre": "NHL (Hockey sobre hielo)",
+                    "id": "1508",
+                    "nombre": "Stanley Cup Final",
                     "eventos": [
                         {
-                            "id": "78947",
+                            "id": "79002",
                             "fecha": "2025-06-12 21:00:00",
-                            "nombre": "Florida Panthers vs. Edmonton Oilers",
+                            "nombre": "Edmonton Oilers vs. Florida Panthers (Partido 4)",
                             "horaDia": 3,
                             "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
                                 {
                                     "id": "39",
                                     "nombre": "ESPN 2",
@@ -1330,15 +1326,19 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "1508",
-                    "nombre": "Stanley Cup Final",
+                    "id": "1577",
+                    "nombre": "NHL (Hockey sobre hielo)",
                     "eventos": [
                         {
-                            "id": "79002",
+                            "id": "78947",
                             "fecha": "2025-06-12 21:00:00",
-                            "nombre": "Edmonton Oilers vs. Florida Panthers (Partido 4)",
+                            "nombre": "Florida Panthers vs. Edmonton Oilers",
                             "horaDia": 3,
                             "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
                                 {
                                     "id": "39",
                                     "nombre": "ESPN 2",
