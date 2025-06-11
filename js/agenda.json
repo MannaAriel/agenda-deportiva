@@ -1,152 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-06-10",
-            "torneos": [
-                {
-                    "id": "1633",
-                    "nombre": "Eliminatorias Sudamericanas",
-                    "eventos": [
-                        {
-                            "id": "78861",
-                            "fecha": "2025-06-10 20:00:00",
-                            "nombre": "Uruguay vs. Venezuela",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78862",
-                            "fecha": "2025-06-10 21:00:00",
-                            "nombre": "Argentina vs. Colombia",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "158",
-                                    "nombre": "TELEFE"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78863",
-                            "fecha": "2025-06-10 21:45:00",
-                            "nombre": "Brasil vs. Paraguay",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "28",
-                                    "nombre": "TYC SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 31,
-                                        "IPTV": 25
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "78864",
-                            "fecha": "2025-06-10 22:30:00",
-                            "nombre": "Perú vs. Ecuador",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-10 17:00:00",
-                    "cantidad_eventos": 4
-                },
-                {
-                    "id": "838",
-                    "nombre": "Amistoso Internacional",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-10 15:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1152",
-                    "nombre": "Eliminatorias Europeas",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-10 15:45:00",
-                    "cantidad_eventos": 0
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-06-11",
             "torneos": [
                 {
@@ -961,19 +815,15 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "447",
-                    "nombre": "Golf - US Open",
+                    "id": "146",
+                    "nombre": "Golf - PGA Tour",
                     "eventos": [
                         {
-                            "id": "78943",
+                            "id": "79000",
                             "fecha": "2025-06-12 13:00:00",
-                            "nombre": "Primera Vuelta",
+                            "nombre": "Ronda 1",
                             "horaDia": 2,
                             "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
                                 {
                                     "id": "39",
                                     "nombre": "ESPN 2",
@@ -1007,15 +857,19 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "146",
-                    "nombre": "Golf - PGA Tour",
+                    "id": "447",
+                    "nombre": "Golf - US Open",
                     "eventos": [
                         {
-                            "id": "79000",
+                            "id": "78943",
                             "fecha": "2025-06-12 13:00:00",
-                            "nombre": "Ronda 1",
+                            "nombre": "Primera Vuelta",
                             "horaDia": 2,
                             "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
                                 {
                                     "id": "39",
                                     "nombre": "ESPN 2",
@@ -1700,6 +1554,100 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-06-14",
+            "torneos": [
+                {
+                    "id": "168",
+                    "nombre": "Fórmula 1",
+                    "eventos": [
+                        {
+                            "id": "78990",
+                            "fecha": "2025-06-14 13:30:00",
+                            "nombre": "GP de Canadá: Práctica #3",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        },
+                        {
+                            "id": "78991",
+                            "fecha": "2025-06-14 17:00:00",
+                            "nombre": "GP de Canadá: Clasificación",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-06-14 13:30:00",
+                    "cantidad_eventos": 2
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -1824,10 +1772,6 @@
             }
         },
         {
-            "id": "158",
-            "nombre": "TELEFE"
-        },
-        {
             "id": "20",
             "nombre": "TYC SPORTS",
             "plataformas": [
@@ -1844,23 +1788,11 @@
             }
         },
         {
-            "id": "28",
-            "nombre": "TYC SPORTS 2",
-            "plataformas": [
-                "HD",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 31,
-                "IPTV": 25
-            }
-        },
-        {
             "id": "50",
             "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-06-10",
+    "hoy": "2025-06-11",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
