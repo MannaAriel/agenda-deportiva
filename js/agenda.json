@@ -1,349 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-06-12",
-            "torneos": [
-                {
-                    "id": "1011",
-                    "nombre": "Voley: Nations League Masculino",
-                    "eventos": [
-                        {
-                            "id": "79007",
-                            "fecha": "2025-06-12 21:00:00",
-                            "nombre": "Estados Unidos vs. Irán",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79008",
-                            "fecha": "2025-06-12 21:00:00",
-                            "nombre": "Argentina vs. Canadá",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 06:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "347",
-                    "nombre": "Reserva",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-12 14:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "161",
-                    "nombre": "Liga Endesa (España)",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-06-12 16:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "13",
-                    "nombre": "Liga Nacional",
-                    "eventos": [
-                        {
-                            "id": "78998",
-                            "fecha": "2025-06-12 22:10:00",
-                            "nombre": "Regatas vs. Oberá",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-06-12 22:10:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "1659",
-                    "nombre": "Segunda división de España",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-12 16:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1134",
-                    "nombre": "Hockey Masculino: FIH Pro League",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1320",
-                    "nombre": "Ciclismo: Criterium du Dauphine",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "447",
-                    "nombre": "Golf - US Open",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 13:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "146",
-                    "nombre": "Golf - PGA Tour",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 13:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "78946",
-                            "fecha": "2025-06-12 20:30:00",
-                            "nombre": "Kansas City Royals vs. New York Yankees",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "183",
-                                    "nombre": "ESPN 5",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79001",
-                            "fecha": "2025-06-12 20:30:00",
-                            "nombre": "New York Yankees vs. Kansas City Royals",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 20:30:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "1508",
-                    "nombre": "Stanley Cup Final",
-                    "eventos": [
-                        {
-                            "id": "79002",
-                            "fecha": "2025-06-12 21:00:00",
-                            "nombre": "Edmonton Oilers vs. Florida Panthers (Partido 4)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 21:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "1577",
-                    "nombre": "NHL (Hockey sobre hielo)",
-                    "eventos": [
-                        {
-                            "id": "78947",
-                            "fecha": "2025-06-12 21:00:00",
-                            "nombre": "Florida Panthers vs. Edmonton Oilers",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-12 21:00:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-06-13",
             "torneos": [
                 {
@@ -1737,56 +1394,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "1320",
-                    "nombre": "Ciclismo: Criterium du Dauphine",
-                    "eventos": [
-                        {
-                            "id": "79072",
-                            "fecha": "2025-06-14 09:30:00",
-                            "nombre": "Etapa 7",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-14 09:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "597",
                     "nombre": "Velux Ehf Champions league",
                     "eventos": [
@@ -1864,6 +1471,56 @@
                     },
                     "primerFecha": "2025-06-14 09:30:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "1320",
+                    "nombre": "Ciclismo: Criterium du Dauphine",
+                    "eventos": [
+                        {
+                            "id": "79072",
+                            "fecha": "2025-06-14 09:30:00",
+                            "nombre": "Etapa 7",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-14 09:30:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "249",
@@ -2429,6 +2086,85 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-06-16",
+            "torneos": [
+                {
+                    "id": "262",
+                    "nombre": "Mundial de Clubes",
+                    "eventos": [
+                        {
+                            "id": "79030",
+                            "fecha": "2025-06-16 16:00:00",
+                            "nombre": "Chelsea vs. Los AngelesFC",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79032",
+                            "fecha": "2025-06-16 19:00:00",
+                            "nombre": "Boca Juniors vs. Benfica",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                },
+                                {
+                                    "id": "158",
+                                    "nombre": "TELEFE"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79033",
+                            "fecha": "2025-06-16 22:00:00",
+                            "nombre": "Flamengo vs. Esperance Sportive",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-16 16:00:00",
+                    "cantidad_eventos": 3
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -2510,16 +2246,6 @@
             }
         },
         {
-            "id": "183",
-            "nombre": "ESPN 5",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ]
-        },
-        {
             "id": "7",
             "nombre": "FOX SPORTS",
             "plataformas": [
@@ -2549,22 +2275,6 @@
                 "ANALOGICO": 15,
                 "ISDBT": 24.3,
                 "IPTV": 15
-            }
-        },
-        {
-            "id": "27",
-            "nombre": "FOX SPORTS 3",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 22,
-                "ANALOGICO": 16,
-                "ISDBT": 24.4,
-                "IPTV": 16
             }
         },
         {
@@ -2604,7 +2314,7 @@
             "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-06-12",
+    "hoy": "2025-06-13",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
