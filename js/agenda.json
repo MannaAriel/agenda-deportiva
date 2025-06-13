@@ -442,32 +442,14 @@
                 {
                     "id": "1601",
                     "nombre": "Premier Padel",
-                    "eventos": [
-                        {
-                            "id": "79066",
-                            "fecha": "2025-06-13 05:00:00",
-                            "nombre": "Italia: Cuartos de Final",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-13 05:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1320",
@@ -570,36 +552,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "1581",
-                    "nombre": "Super Rugby Americas ",
-                    "eventos": [
-                        {
-                            "id": "79070",
-                            "fecha": "2025-06-13 19:00:00",
-                            "nombre": "Final: Peñarol Rugby vs. Dogos XV",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-06-13 19:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "478",
                     "nombre": "Voley: División de Honor (Masculina)",
                     "eventos": [
@@ -677,6 +629,36 @@
                     },
                     "primerFecha": "2025-06-13 19:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "1581",
+                    "nombre": "Super Rugby Americas ",
+                    "eventos": [
+                        {
+                            "id": "79070",
+                            "fecha": "2025-06-13 19:00:00",
+                            "nombre": "Final: Peñarol Rugby vs. Dogos XV",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-06-13 19:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "194",
@@ -1394,6 +1376,56 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "1320",
+                    "nombre": "Ciclismo: Criterium du Dauphine",
+                    "eventos": [
+                        {
+                            "id": "79072",
+                            "fecha": "2025-06-14 09:30:00",
+                            "nombre": "Etapa 7",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-14 09:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "597",
                     "nombre": "Velux Ehf Champions league",
                     "eventos": [
@@ -1471,56 +1503,6 @@
                     },
                     "primerFecha": "2025-06-14 09:30:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "1320",
-                    "nombre": "Ciclismo: Criterium du Dauphine",
-                    "eventos": [
-                        {
-                            "id": "79072",
-                            "fecha": "2025-06-14 09:30:00",
-                            "nombre": "Etapa 7",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-14 09:30:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "249",
