@@ -101,6 +101,18 @@
                             "fecha": "2025-06-17 14:00:00",
                             "nombre": "Cuartos de final: Estudiantes LP vs. Rosario Central",
                             "horaDia": 2,
+                            "canales": [],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79133",
+                            "fecha": "2025-06-17 19:00:00",
+                            "nombre": "Cuartos de final: Boca vs. San Martín SJ",
+                            "horaDia": 2,
                             "canales": [
                                 {
                                     "id": "179",
@@ -128,18 +140,6 @@
                                 "nombre": "Fútbol",
                                 "icono": "futbol.png"
                             }
-                        },
-                        {
-                            "id": "79133",
-                            "fecha": "2025-06-17 19:00:00",
-                            "nombre": "Cuartos de final: Boca vs. San Martín SJ",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
                         }
                     ],
                     "deporte": {
@@ -153,112 +153,26 @@
                 {
                     "id": "1134",
                     "nombre": "Hockey Masculino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "79125",
-                            "fecha": "2025-06-17 09:30:00",
-                            "nombre": "Inglaterra vs. Países Bajos",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79126",
-                            "fecha": "2025-06-17 10:30:00",
-                            "nombre": "Irlanda vs. Australia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-17 09:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1133",
                     "nombre": "Hockey Femenino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "79124",
-                            "fecha": "2025-06-17 07:00:00",
-                            "nombre": "Inglaterra vs. Australia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79123",
-                            "fecha": "2025-06-17 11:30:00",
-                            "nombre": "Argentina vs. India",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-17 07:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "160",
@@ -1077,19 +991,15 @@
                     "cantidad_eventos": 3
                 },
                 {
-                    "id": "1510",
-                    "nombre": "Golf: Travelers Championship",
+                    "id": "146",
+                    "nombre": "Golf - PGA Tour",
                     "eventos": [
                         {
-                            "id": "79151",
+                            "id": "79155",
                             "fecha": "2025-06-19 16:00:00",
-                            "nombre": "Primera Vuelta",
+                            "nombre": "Ronda 1",
                             "horaDia": 2,
                             "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
                                 {
                                     "id": "25",
                                     "nombre": "ESPN 3",
@@ -1123,15 +1033,19 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "146",
-                    "nombre": "Golf - PGA Tour",
+                    "id": "1510",
+                    "nombre": "Golf: Travelers Championship",
                     "eventos": [
                         {
-                            "id": "79155",
+                            "id": "79151",
                             "fecha": "2025-06-19 16:00:00",
-                            "nombre": "Ronda 1",
+                            "nombre": "Primera Vuelta",
                             "horaDia": 2,
                             "canales": [
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
                                 {
                                     "id": "25",
                                     "nombre": "ESPN 3",
