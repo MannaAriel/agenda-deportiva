@@ -8,49 +8,25 @@
                     "nombre": "Mundial de Clubes",
                     "eventos": [
                         {
-                            "id": "79010",
-                            "fecha": "2025-06-18 13:00:00",
-                            "nombre": "Manchester City vs. Wydad AC",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79011",
-                            "fecha": "2025-06-18 16:00:00",
-                            "nombre": "Real Madrid vs. Al Hilal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "79012",
                             "fecha": "2025-06-18 19:00:00",
                             "nombre": "Pachuca vs. Salzburgo",
                             "horaDia": 2,
                             "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
                                 {
                                     "id": "164",
                                     "nombre": "DSPORTS / DGO"
@@ -69,6 +45,20 @@
                             "horaDia": 3,
                             "canales": [
                                 {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
                                     "id": "164",
                                     "nombre": "DSPORTS / DGO"
                                 }
@@ -86,60 +76,19 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-18 13:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "1599",
                     "nombre": "Voley: Nations League Femenino",
-                    "eventos": [
-                        {
-                            "id": "79147",
-                            "fecha": "2025-06-18 13:30:00",
-                            "nombre": "República Dominicana vs. Turquía",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79148",
-                            "fecha": "2025-06-18 15:00:00",
-                            "nombre": "Serbia vs. Estados Unidos",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-18 06:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1321",
@@ -156,96 +105,26 @@
                 {
                     "id": "1133",
                     "nombre": "Hockey Femenino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "79135",
-                            "fecha": "2025-06-18 13:00:00",
-                            "nombre": "Bélgica vs. España",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79136",
-                            "fecha": "2025-06-18 13:45:00",
-                            "nombre": "Inglaterra vs. Australia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-18 11:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1134",
                     "nombre": "Hockey Masculino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "79137",
-                            "fecha": "2025-06-18 15:30:00",
-                            "nombre": "Bélgica vs. España",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79138",
-                            "fecha": "2025-06-18 16:00:00",
-                            "nombre": "Inglaterra vs. Países Bajos",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-18 15:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "160",
@@ -386,6 +265,16 @@
                             "horaDia": 1,
                             "canales": [
                                 {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
                                 },
@@ -411,6 +300,16 @@
                             "horaDia": 2,
                             "canales": [
                                 {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
                                     "id": "164",
                                     "nombre": "DSPORTS / DGO"
                                 }
@@ -428,6 +327,16 @@
                             "horaDia": 2,
                             "canales": [
                                 {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
                                     "id": "164",
                                     "nombre": "DSPORTS / DGO"
                                 }
@@ -444,6 +353,16 @@
                             "nombre": "Botafogo vs. PSG",
                             "horaDia": 3,
                             "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
                                 {
                                     "id": "164",
                                     "nombre": "DSPORTS / DGO"
@@ -793,6 +712,16 @@
                             "horaDia": 2,
                             "canales": [
                                 {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
                                     "id": "16",
                                     "nombre": "DSPORTS 2 / DGO"
                                 }
@@ -809,6 +738,16 @@
                             "nombre": "Flamengo vs. Chelsea",
                             "horaDia": 2,
                             "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
@@ -835,6 +774,16 @@
                             "horaDia": 2,
                             "canales": [
                                 {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
                                     "id": "16",
                                     "nombre": "DSPORTS 2 / DGO"
                                 }
@@ -851,6 +800,16 @@
                             "nombre": "Bayern Munich vs Boca",
                             "horaDia": 3,
                             "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
@@ -878,6 +837,393 @@
                     },
                     "primerFecha": "2025-06-20 13:00:00",
                     "cantidad_eventos": 4
+                },
+                {
+                    "id": "1183",
+                    "nombre": "ESPN Knockout",
+                    "eventos": [
+                        {
+                            "id": "79164",
+                            "fecha": "2025-06-20 23:00:00",
+                            "nombre": "Jonathan Rojas vs. José Ángel García",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "6",
+                                "nombre": "Boxeo",
+                                "icono": "boxeo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "6",
+                        "nombre": "Boxeo",
+                        "icono": "boxeo.png"
+                    },
+                    "primerFecha": "2025-06-20 23:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "96",
+                    "nombre": "Top 14 de Francia",
+                    "eventos": [
+                        {
+                            "id": "79163",
+                            "fecha": "2025-06-20 16:00:00",
+                            "nombre": "Semifinal: Stade Tolousian vs. Castres",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-06-20 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1599",
+                    "nombre": "Voley: Nations League Femenino",
+                    "eventos": [
+                        {
+                            "id": "79165",
+                            "fecha": "2025-06-20 09:30:00",
+                            "nombre": "Japón vs. Italia",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "79166",
+                            "fecha": "2025-06-20 11:30:00",
+                            "nombre": "Francia vs. Países Bajos",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "79167",
+                            "fecha": "2025-06-20 13:30:00",
+                            "nombre": "Canadá vs. Brasil",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "185",
+                                    "nombre": "DSPORTS + / DGO",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "79168",
+                            "fecha": "2025-06-20 15:00:00",
+                            "nombre": "Alemania vs. Polonia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "185",
+                                    "nombre": "DSPORTS + / DGO",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-20 09:30:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "81",
+                    "nombre": "Test Match",
+                    "eventos": [
+                        {
+                            "id": "79162",
+                            "fecha": "2025-06-20 16:00:00",
+                            "nombre": "British & Irisih Lions vs. Argentina",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-06-20 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "478",
+                    "nombre": "Voley: División de Honor (Masculina)",
+                    "eventos": [
+                        {
+                            "id": "79169",
+                            "fecha": "2025-06-20 19:00:00",
+                            "nombre": "UnTreF vs. Ferro",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "79170",
+                            "fecha": "2025-06-20 21:00:00",
+                            "nombre": "River vs. Boca",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "15",
+                                    "nombre": "FOX SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 21,
+                                        "ANALOGICO": 15,
+                                        "ISDBT": 24.3,
+                                        "IPTV": 15
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-20 19:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "36",
+                    "nombre": "Copa de Oro",
+                    "eventos": [
+                        {
+                            "id": "79171",
+                            "fecha": "2025-06-20 20:25:00",
+                            "nombre": "Jamaica vs. Guadalupe",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79161",
+                            "fecha": "2025-06-20 23:00:00",
+                            "nombre": "Guatemala vs. Panamá",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-20 20:25:00",
+                    "cantidad_eventos": 2
                 }
             ],
             "eventos": [],
@@ -897,6 +1243,16 @@
                             "horaDia": 2,
                             "canales": [
                                 {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
                                     "id": "164",
                                     "nombre": "DSPORTS / DGO"
                                 }
@@ -913,6 +1269,16 @@
                             "nombre": "Inter de Milán vs. Urawa Red Diamonds",
                             "horaDia": 2,
                             "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
@@ -939,6 +1305,16 @@
                             "horaDia": 2,
                             "canales": [
                                 {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
                                     "id": "16",
                                     "nombre": "DSPORTS 2 / DGO"
                                 }
@@ -955,6 +1331,16 @@
                             "nombre": "River vs. Rayados de Monterrey",
                             "horaDia": 3,
                             "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
                                 {
                                     "id": "181",
                                     "nombre": "DISNEY + PREMIUM "
@@ -1020,12 +1406,36 @@
     ],
     "canales": [
         {
+            "id": "192",
+            "nombre": "DAZN",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ]
+        },
+        {
+            "id": "171",
+            "nombre": "DGO"
+        },
+        {
             "id": "179",
             "nombre": "DISNEY +"
         },
         {
             "id": "181",
             "nombre": "DISNEY + PREMIUM "
+        },
+        {
+            "id": "185",
+            "nombre": "DSPORTS + / DGO",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ]
         },
         {
             "id": "164",
@@ -1065,6 +1475,37 @@
                 "ANALOGICO": 21,
                 "ISDBT": 25.6,
                 "IPTV": 21
+            }
+        },
+        {
+            "id": "161",
+            "nombre": "ESPN 4",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 28,
+                "ISDBT": 26.2,
+                "IPTV": 22
+            }
+        },
+        {
+            "id": "15",
+            "nombre": "FOX SPORTS 2",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 21,
+                "ANALOGICO": 15,
+                "ISDBT": 24.3,
+                "IPTV": 15
             }
         },
         {
