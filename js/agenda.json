@@ -1,245 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-06-19",
-            "torneos": [
-                {
-                    "id": "262",
-                    "nombre": "Mundial de Clubes",
-                    "eventos": [
-                        {
-                            "id": "79015",
-                            "fecha": "2025-06-19 19:00:00",
-                            "nombre": "Seattle Sounders vs. Atlético Madrid",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                },
-                                {
-                                    "id": "158",
-                                    "nombre": "TELEFE"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79017",
-                            "fecha": "2025-06-19 22:00:00",
-                            "nombre": "Botafogo vs. PSG",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-19 13:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "10",
-                    "nombre": "NBA",
-                    "eventos": [
-                        {
-                            "id": "79154",
-                            "fecha": "2025-06-19 21:25:00",
-                            "nombre": "Indiana Pacers vs. Oklahoma City Thunders (Juego #6)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-06-19 21:25:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "1183",
-                    "nombre": "ESPN Knockout",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "6",
-                        "nombre": "Boxeo",
-                        "icono": "boxeo.png"
-                    },
-                    "primerFecha": "2025-06-19 05:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1599",
-                    "nombre": "Voley: Nations League Femenino",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-19 06:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "146",
-                    "nombre": "Golf - PGA Tour",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-19 16:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1510",
-                    "nombre": "Golf: Travelers Championship",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-19 16:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "160",
-                    "nombre": "Copa Oro de la Concacaf",
-                    "eventos": [
-                        {
-                            "id": "79152",
-                            "fecha": "2025-06-19 19:25:00",
-                            "nombre": "Trinidad y Tobago vs. Haití",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79153",
-                            "fecha": "2025-06-19 21:55:00",
-                            "nombre": "Arabia Saudita vs. Estados Unidos",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-19 19:25:00",
-                    "cantidad_eventos": 2
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-06-20",
             "torneos": [
                 {
@@ -3312,6 +3073,184 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-06-23",
+            "torneos": [
+                {
+                    "id": "262",
+                    "nombre": "Mundial de Clubes",
+                    "eventos": [
+                        {
+                            "id": "79044",
+                            "fecha": "2025-06-23 16:00:00",
+                            "nombre": "Seattle Sounders vs. Paris Saint Germain",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79046",
+                            "fecha": "2025-06-23 16:00:00",
+                            "nombre": "Atlético de Madrid vs. Botafogo",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                },
+                                {
+                                    "id": "158",
+                                    "nombre": "TELEFE"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79048",
+                            "fecha": "2025-06-23 22:00:00",
+                            "nombre": "Porto vs. Al Ahly",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79050",
+                            "fecha": "2025-06-23 22:00:00",
+                            "nombre": "Inter Miami vs. Palmeiras",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-23 16:00:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "6",
+                    "nombre": "Primera Nacional",
+                    "eventos": [
+                        {
+                            "id": "79269",
+                            "fecha": "2025-06-23 19:00:00",
+                            "nombre": "Nueva Chicago vs. Colón",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-23 19:00:00",
+                    "cantidad_eventos": 1
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -3501,7 +3440,7 @@
             "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-06-19",
+    "hoy": "2025-06-20",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
