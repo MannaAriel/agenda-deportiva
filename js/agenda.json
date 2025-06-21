@@ -691,162 +691,19 @@
                 {
                     "id": "154",
                     "nombre": "Moto GP",
-                    "eventos": [
-                        {
-                            "id": "79175",
-                            "fecha": "2025-06-21 05:00:00",
-                            "nombre": "GP de Italia - Prácticas Libres",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
-                            "id": "79176",
-                            "fecha": "2025-06-21 05:45:00",
-                            "nombre": "GP de Italia - Clasificación",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
-                            "id": "79177",
-                            "fecha": "2025-06-21 09:30:00",
-                            "nombre": "GP de Italia - Carrera Sprint",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-06-21 05:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1134",
                     "nombre": "Hockey Masculino: FIH Pro League",
                     "eventos": [
-                        {
-                            "id": "79190",
-                            "fecha": "2025-06-21 05:30:00",
-                            "nombre": "España vs. Irlanda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79191",
-                            "fecha": "2025-06-21 10:30:00",
-                            "nombre": "Bélgica vs. India",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79192",
-                            "fecha": "2025-06-21 11:30:00",
-                            "nombre": "Inglaterra vs. Australia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
                         {
                             "id": "79193",
                             "fecha": "2025-06-21 14:00:00",
@@ -891,153 +748,24 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-21 05:30:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1133",
                     "nombre": "Hockey Femenino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "79194",
-                            "fecha": "2025-06-21 08:00:00",
-                            "nombre": "Bélgica vs. India",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79195",
-                            "fecha": "2025-06-21 09:00:00",
-                            "nombre": "Inglaterra vs. España",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79197",
-                            "fecha": "2025-06-21 09:00:00",
-                            "nombre": "Argentina vs. China",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79196",
-                            "fecha": "2025-06-21 11:30:00",
-                            "nombre": "Alemania vs. Australia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-21 08:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1599",
                     "nombre": "Voley: Nations League Femenino",
                     "eventos": [
-                        {
-                            "id": "79222",
-                            "fecha": "2025-06-21 09:00:00",
-                            "nombre": "Japón vs. China",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79224",
-                            "fecha": "2025-06-21 10:00:00",
-                            "nombre": "República Checa vs Brasil",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "193",
-                                    "nombre": "DSPORTS FIGHT / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
                         {
                             "id": "79223",
                             "fecha": "2025-06-21 13:30:00",
@@ -1068,7 +796,7 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-21 09:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "36",
@@ -2012,44 +1740,6 @@
                     "cantidad_eventos": 4
                 },
                 {
-                    "id": "1686",
-                    "nombre": "Procar 4000",
-                    "eventos": [
-                        {
-                            "id": "79268",
-                            "fecha": "2025-06-22 10:00:00",
-                            "nombre": "Fecha 5: Concordia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "28",
-                                    "nombre": "TYC SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 31,
-                                        "IPTV": 25
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "5",
-                        "nombre": "Automovilismo",
-                        "icono": "automovilismo.png"
-                    },
-                    "primerFecha": "2025-06-22 10:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "1691",
                     "nombre": "ATP 500 - Londres",
                     "eventos": [
@@ -2142,6 +1832,44 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "1686",
+                    "nombre": "Procar 4000",
+                    "eventos": [
+                        {
+                            "id": "79268",
+                            "fecha": "2025-06-22 10:00:00",
+                            "nombre": "Fecha 5: Concordia",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "28",
+                                    "nombre": "TYC SPORTS 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 31,
+                                        "IPTV": 25
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-06-22 10:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "351",
                     "nombre": "IndyCar Series",
                     "eventos": [
@@ -2169,6 +1897,36 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-06-22 12:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "220",
+                    "nombre": "Hockey Femenino: Torneo Metropolitano",
+                    "eventos": [
+                        {
+                            "id": "79243",
+                            "fecha": "2025-06-22 13:00:00",
+                            "nombre": "River vs. Italiano",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-22 13:00:00",
                     "cantidad_eventos": 1
                 },
                 {
@@ -2217,36 +1975,6 @@
                     },
                     "primerFecha": "2025-06-22 13:00:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "220",
-                    "nombre": "Hockey Femenino: Torneo Metropolitano",
-                    "eventos": [
-                        {
-                            "id": "79243",
-                            "fecha": "2025-06-22 13:00:00",
-                            "nombre": "River vs. Italiano",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-22 13:00:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1690",
@@ -2861,16 +2589,6 @@
         {
             "id": "16",
             "nombre": "DSPORTS 2 / DGO"
-        },
-        {
-            "id": "193",
-            "nombre": "DSPORTS FIGHT / DGO",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ]
         },
         {
             "id": "8",
