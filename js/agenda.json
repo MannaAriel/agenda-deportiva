@@ -8,68 +8,6 @@
                     "nombre": "Mundial de Clubes",
                     "eventos": [
                         {
-                            "id": "79039",
-                            "fecha": "2025-06-22 13:00:00",
-                            "nombre": "Juventus vs. Wydad",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                },
-                                {
-                                    "id": "158",
-                                    "nombre": "TELEFE"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79040",
-                            "fecha": "2025-06-22 16:00:00",
-                            "nombre": "Real Madrid vs. Pachuca",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "79041",
                             "fecha": "2025-06-22 19:00:00",
                             "nombre": "Red Bull Salzburgo vs. Al Hilal",
@@ -130,174 +68,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-22 13:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "6",
                     "nombre": "Primera Nacional",
                     "eventos": [
-                        {
-                            "id": "79253",
-                            "fecha": "2025-06-22 13:10:00",
-                            "nombre": "Atlanta vs. Alvarado",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79254",
-                            "fecha": "2025-06-22 13:10:00",
-                            "nombre": "San Telmo vs. Chacarita",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79255",
-                            "fecha": "2025-06-22 15:00:00",
-                            "nombre": "Los Andes vs. Arsenal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79256",
-                            "fecha": "2025-06-22 15:10:00",
-                            "nombre": "Ferro vs. San Martín (T)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "28",
-                                    "nombre": "TYC SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 31,
-                                        "IPTV": 25
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79258",
-                            "fecha": "2025-06-22 15:30:00",
-                            "nombre": "Gimnasia (Mdz) vs. Talleres (RE)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79257",
-                            "fecha": "2025-06-22 15:30:00",
-                            "nombre": "Agropecuario vs. Def. de Belgrano",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79259",
-                            "fecha": "2025-06-22 16:00:00",
-                            "nombre": "Patronato vs. Güemes (SdE)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79260",
-                            "fecha": "2025-06-22 16:00:00",
-                            "nombre": "Gimnasia (J) vs. Estudiantes (RC)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "79261",
                             "fecha": "2025-06-22 17:00:00",
@@ -339,37 +115,19 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-22 13:10:00",
-                    "cantidad_eventos": 10
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "61",
                     "nombre": "Primera B Metropolitana",
-                    "eventos": [
-                        {
-                            "id": "79263",
-                            "fecha": "2025-06-22 15:30:00",
-                            "nombre": "Dep. Merlo vs. San Martín (B)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-22 15:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "410",
@@ -481,82 +239,19 @@
                 {
                     "id": "161",
                     "nombre": "Liga Endesa (España)",
-                    "eventos": [
-                        {
-                            "id": "79267",
-                            "fecha": "2025-06-22 13:30:00",
-                            "nombre": "Final, Juego #2: Real Madrid vs. Valencia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-06-22 13:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "347",
                     "nombre": "Reserva",
                     "eventos": [
-                        {
-                            "id": "79247",
-                            "fecha": "2025-06-22 15:00:00",
-                            "nombre": "Semifinales: Rosario Central vs. San Lorenzo",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "79248",
                             "fecha": "2025-06-22 18:00:00",
@@ -581,53 +276,19 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-22 15:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1134",
                     "nombre": "Hockey Masculino: FIH Pro League",
-                    "eventos": [
-                        {
-                            "id": "79238",
-                            "fecha": "2025-06-22 14:00:00",
-                            "nombre": "Alemania vs. Argentina",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-22 05:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "154",
@@ -651,18 +312,6 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-22 08:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1691",
-                    "nombre": "ATP 500 - Londres",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-06-22 10:00:00",
                     "cantidad_eventos": 0
                 },
                 {
@@ -690,223 +339,88 @@
                     "cantidad_eventos": 0
                 },
                 {
+                    "id": "1691",
+                    "nombre": "ATP 500 - Londres",
+                    "eventos": [],
+                    "deporte": {
+                        "id": "3",
+                        "nombre": "Tenis",
+                        "icono": "tenis.png"
+                    },
+                    "primerFecha": "2025-06-22 10:00:00",
+                    "cantidad_eventos": 0
+                },
+                {
                     "id": "351",
                     "nombre": "IndyCar Series",
-                    "eventos": [
-                        {
-                            "id": "79242",
-                            "fecha": "2025-06-22 12:00:00",
-                            "nombre": "Road América: Carrera",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-06-22 12:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "220",
-                    "nombre": "Hockey Femenino: Torneo Metropolitano",
-                    "eventos": [
-                        {
-                            "id": "79243",
-                            "fecha": "2025-06-22 13:00:00",
-                            "nombre": "River vs. Italiano",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-06-22 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1461",
                     "nombre": "Indycar",
-                    "eventos": [
-                        {
-                            "id": "79244",
-                            "fecha": "2025-06-22 13:00:00",
-                            "nombre": "Road América: Prácticas",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
-                            "id": "79246",
-                            "fecha": "2025-06-22 14:30:00",
-                            "nombre": "Road América: Carrera",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-06-22 13:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
+                },
+                {
+                    "id": "220",
+                    "nombre": "Hockey Femenino: Torneo Metropolitano",
+                    "eventos": [],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-06-22 13:00:00",
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1690",
                     "nombre": "Golf",
-                    "eventos": [
-                        {
-                            "id": "79245",
-                            "fecha": "2025-06-22 14:00:00",
-                            "nombre": "Travelers Championship: Última Vuelta",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-22 14:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "221",
                     "nombre": "Hockey Masculino: Torneo Metropolitano",
-                    "eventos": [
-                        {
-                            "id": "79249",
-                            "fecha": "2025-06-22 15:00:00",
-                            "nombre": "Lomas vs. U. de La Plata",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-22 15:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "194",
                     "nombre": "Torneo Federal A",
-                    "eventos": [
-                        {
-                            "id": "79264",
-                            "fecha": "2025-06-22 15:15:00",
-                            "nombre": "Olimpo vs. Santamarina",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-22 15:15:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "36",
@@ -1610,10 +1124,6 @@
     ],
     "canales": [
         {
-            "id": "166",
-            "nombre": "AFA PLAY"
-        },
-        {
             "id": "192",
             "nombre": "DAZN",
             "plataformas": [
@@ -1648,22 +1158,6 @@
         {
             "id": "16",
             "nombre": "DSPORTS 2 / DGO"
-        },
-        {
-            "id": "8",
-            "nombre": "ESPN",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 25,
-                "ANALOGICO": 19,
-                "ISDBT": 25.4,
-                "IPTV": 19
-            }
         },
         {
             "id": "39",
