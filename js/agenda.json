@@ -1,122 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-06-24",
-            "torneos": [
-                {
-                    "id": "262",
-                    "nombre": "Mundial de Clubes",
-                    "eventos": [
-                        {
-                            "id": "79056",
-                            "fecha": "2025-06-24 22:00:00",
-                            "nombre": "Esperance Sportive vs. Chelsea",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79057",
-                            "fecha": "2025-06-24 22:00:00",
-                            "nombre": "Los Angeles FC vs. Flamengo",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-24 16:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "410",
-                    "nombre": "Liga Nacional - Playoffs",
-                    "eventos": [
-                        {
-                            "id": "79270",
-                            "fecha": "2025-06-24 21:00:00",
-                            "nombre": "Semifinal, Juego #2: Boca vs. Quimsa ",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "28",
-                                    "nombre": "TYC SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 31,
-                                        "IPTV": 25
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-06-24 21:00:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-06-25",
             "torneos": [
                 {
@@ -1521,6 +1405,100 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-06-28",
+            "torneos": [
+                {
+                    "id": "168",
+                    "nombre": "Fórmula 1",
+                    "eventos": [
+                        {
+                            "id": "79209",
+                            "fecha": "2025-06-28 07:30:00",
+                            "nombre": "GP de Austria - Práctica #3",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        },
+                        {
+                            "id": "79210",
+                            "fecha": "2025-06-28 11:00:00",
+                            "nombre": "GP de Austria - Clasificación",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-06-28 07:30:00",
+                    "cantidad_eventos": 2
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -1633,23 +1611,11 @@
             }
         },
         {
-            "id": "28",
-            "nombre": "TYC SPORTS 2",
-            "plataformas": [
-                "HD",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 31,
-                "IPTV": 25
-            }
-        },
-        {
             "id": "50",
             "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-06-24",
+    "hoy": "2025-06-25",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
