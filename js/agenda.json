@@ -8,60 +8,6 @@
                     "nombre": "Mundial de Clubes",
                     "eventos": [
                         {
-                            "id": "79018",
-                            "fecha": "2025-06-25 16:00:00",
-                            "nombre": "Borussia Dortmund vs. Ulsan Hiunday FC",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79019",
-                            "fecha": "2025-06-25 16:00:00",
-                            "nombre": "Mamelodi Sundowns vs. Fluminense",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "79020",
                             "fecha": "2025-06-25 22:00:00",
                             "nombre": "Inter vs. River Plate",
@@ -130,29 +76,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-25 16:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "1011",
                     "nombre": "Voley: Nations League Masculino",
                     "eventos": [
-                        {
-                            "id": "79286",
-                            "fecha": "2025-06-25 14:30:00",
-                            "nombre": "Italia vs. Polonia ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
                         {
                             "id": "79287",
                             "fecha": "2025-06-25 18:00:00",
@@ -200,7 +129,7 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-06-25 06:30:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "10",
@@ -235,44 +164,14 @@
                 {
                     "id": "161",
                     "nombre": "Liga Endesa (España)",
-                    "eventos": [
-                        {
-                            "id": "79282",
-                            "fecha": "2025-06-25 16:00:00",
-                            "nombre": "Valencia vs. Real Madrid (Final #3)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-06-25 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "13",
