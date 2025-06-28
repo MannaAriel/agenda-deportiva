@@ -4,6 +4,56 @@
             "fecha": "2025-06-28",
             "torneos": [
                 {
+                    "id": "14",
+                    "nombre": "Copa Argentina",
+                    "eventos": [
+                        {
+                            "id": "79353",
+                            "fecha": "2025-06-28 13:00:00",
+                            "nombre": "Rosario Central\tvs.\tUnión",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-06-28 13:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "262",
                     "nombre": "Mundial de Clubes",
                     "eventos": [
@@ -77,56 +127,6 @@
                     },
                     "primerFecha": "2025-06-28 13:00:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "14",
-                    "nombre": "Copa Argentina",
-                    "eventos": [
-                        {
-                            "id": "79353",
-                            "fecha": "2025-06-28 13:00:00",
-                            "nombre": "Rosario Central\tvs.\tUnión",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-06-28 13:00:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "168",
@@ -889,52 +889,14 @@
                 {
                     "id": "1657",
                     "nombre": "Fórmula 3",
-                    "eventos": [
-                        {
-                            "id": "79387",
-                            "fecha": "2025-06-28 05:00:00",
-                            "nombre": "GP de Austria - Carrera Sprint",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-06-28 05:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "154",
@@ -1024,36 +986,6 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "1607",
-                    "nombre": "Mundial FIBA Sub-19",
-                    "eventos": [
-                        {
-                            "id": "79359",
-                            "fecha": "2025-06-28 06:00:00",
-                            "nombre": "Argentina\tvs.\tNueva Zelanda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-06-28 06:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "81",
                     "nombre": "Test Match",
                     "eventos": [
@@ -1099,6 +1031,36 @@
                     },
                     "primerFecha": "2025-06-28 06:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "1607",
+                    "nombre": "Mundial FIBA Sub-19",
+                    "eventos": [
+                        {
+                            "id": "79359",
+                            "fecha": "2025-06-28 06:00:00",
+                            "nombre": "Argentina\tvs.\tNueva Zelanda",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-06-28 06:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1014",
