@@ -8,41 +8,6 @@
                     "nombre": "Mundial de Clubes",
                     "eventos": [
                         {
-                            "id": "79338",
-                            "fecha": "2025-06-30 16:00:00",
-                            "nombre": "Octavos de Final: Inter de Milán vs. Fluminense",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "192",
-                                    "nombre": "DAZN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                },
-                                {
-                                    "id": "158",
-                                    "nombre": "TELEFE"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "79339",
                             "fecha": "2025-06-30 22:00:00",
                             "nombre": "Octavos de Final: Manchester City vs. Al Hilal",
@@ -76,7 +41,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-30 16:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1612",
@@ -135,32 +100,14 @@
                 {
                     "id": "254",
                     "nombre": "Primera C",
-                    "eventos": [
-                        {
-                            "id": "79342",
-                            "fecha": "2025-06-30 15:35:00",
-                            "nombre": "Central Córdoba (R) vs. JJ Urquiza",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-06-30 15:35:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1325",
@@ -758,9 +705,9 @@
                     "eventos": [
                         {
                             "id": "79396",
-                            "fecha": "2025-07-02 19:40:00",
-                            "nombre": "Semifinal – Equipos a Confirmar",
-                            "horaDia": 2,
+                            "fecha": "2025-07-02 20:00:00",
+                            "nombre": "Semifinal: Estados Unidos vs. Guatemala",
+                            "horaDia": 3,
                             "canales": [
                                 {
                                     "id": "181",
@@ -791,8 +738,8 @@
                         },
                         {
                             "id": "79398",
-                            "fecha": "2025-07-02 22:40:00",
-                            "nombre": "Semifinal – Equipos a Confirmar",
+                            "fecha": "2025-07-02 23:00:00",
+                            "nombre": "Semifinal: México vs. Honduras",
                             "horaDia": 3,
                             "canales": [
                                 {
@@ -828,7 +775,7 @@
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
-                    "primerFecha": "2025-07-02 19:40:00",
+                    "primerFecha": "2025-07-02 20:00:00",
                     "cantidad_eventos": 2
                 },
                 {
