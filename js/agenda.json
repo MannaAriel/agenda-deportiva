@@ -1,284 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-07-02",
-            "torneos": [
-                {
-                    "id": "14",
-                    "nombre": "Copa Argentina",
-                    "eventos": [
-                        {
-                            "id": "79405",
-                            "fecha": "2025-07-02 18:45:00",
-                            "nombre": "Racing vs. San Martín de San Juan (16avos de Final)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79406",
-                            "fecha": "2025-07-02 21:15:00",
-                            "nombre": "Platense vs. Independiente de Mendoza (16avos de Final)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-02 18:45:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "1612",
-                    "nombre": "Wimbledon",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-07-02 07:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "81",
-                    "nombre": "Test Match",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-07-02 07:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1325",
-                    "nombre": "FIBA AmeriCup Femenina",
-                    "eventos": [
-                        {
-                            "id": "79409",
-                            "fecha": "2025-07-02 18:40:00",
-                            "nombre": "Canadá vs. República Dominicana",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "79410",
-                            "fecha": "2025-07-02 21:10:00",
-                            "nombre": "Puerto Rico vs. Chile",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-07-02 12:40:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "1517",
-                    "nombre": "UEFA Euro Femenina",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-02 12:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "160",
-                    "nombre": "Copa Oro de la Concacaf",
-                    "eventos": [
-                        {
-                            "id": "79396",
-                            "fecha": "2025-07-02 20:00:00",
-                            "nombre": "Semifinal: Estados Unidos vs. Guatemala",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79398",
-                            "fecha": "2025-07-02 23:00:00",
-                            "nombre": "Semifinal: México vs. Honduras",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-02 20:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "79397",
-                            "fecha": "2025-07-02 22:30:00",
-                            "nombre": "Kansas City Royals vs. Seattle Mariners",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-07-02 22:30:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-07-03",
             "torneos": [
                 {
@@ -1329,6 +1051,127 @@
             "fecha": "2025-07-05",
             "torneos": [
                 {
+                    "id": "262",
+                    "nombre": "Mundial de Clubes",
+                    "eventos": [
+                        {
+                            "id": "79441",
+                            "fecha": "2025-07-05 13:00:00",
+                            "nombre": "Cuartos de Final: Paris Saint Germain vs. Bayern Munich",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                },
+                                {
+                                    "id": "158",
+                                    "nombre": "TELEFE"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79442",
+                            "fecha": "2025-07-05 17:00:00",
+                            "nombre": "Cuartos de Final: Real Madrid vs. Borussia Dortmund",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-07-05 13:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "14",
+                    "nombre": "Copa Argentina",
+                    "eventos": [
+                        {
+                            "id": "79443",
+                            "fecha": "2025-07-05 16:45:00",
+                            "nombre": "San Lorenzo vs. Quilmes (16vos de Final)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-07-05 16:45:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "168",
                     "nombre": "Fórmula 1",
                     "eventos": [
@@ -1378,6 +1221,43 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-07-06",
+            "torneos": [
+                {
+                    "id": "168",
+                    "nombre": "Fórmula 1",
+                    "eventos": [
+                        {
+                            "id": "79421",
+                            "fecha": "2025-07-06 11:00:00",
+                            "nombre": "GP de Gran Bretaña: Carrera",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-07-06 11:00:00",
+                    "cantidad_eventos": 1
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -1406,10 +1286,6 @@
         {
             "id": "164",
             "nombre": "DSPORTS / DGO"
-        },
-        {
-            "id": "16",
-            "nombre": "DSPORTS 2 / DGO"
         },
         {
             "id": "39",
@@ -1531,7 +1407,7 @@
             "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-07-02",
+    "hoy": "2025-07-03",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
