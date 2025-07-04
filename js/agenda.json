@@ -71,89 +71,19 @@
                 {
                     "id": "1612",
                     "nombre": "Wimbledon",
-                    "eventos": [
-                        {
-                            "id": "79425",
-                            "fecha": "2025-07-04 07:00:00",
-                            "nombre": "Tercera Ronda",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "3",
                         "nombre": "Tenis",
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-07-04 07:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "168",
                     "nombre": "Fórmula 1",
                     "eventos": [
-                        {
-                            "id": "79417",
-                            "fecha": "2025-07-04 08:30:00",
-                            "nombre": "GP de Gran Bretaña: Práctica #1",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
                         {
                             "id": "79418",
                             "fecha": "2025-07-04 12:00:00",
@@ -178,7 +108,7 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-07-04 08:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "61",
@@ -330,145 +260,19 @@
                 {
                     "id": "1655",
                     "nombre": "Formula 2",
-                    "eventos": [
-                        {
-                            "id": "79435",
-                            "fecha": "2025-07-04 05:45:00",
-                            "nombre": "GP de Gran Bretaña: Prácticas",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
-                            "id": "79436",
-                            "fecha": "2025-07-04 10:40:00",
-                            "nombre": "GP de Gran Bretaña: Clasificación",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-07-04 05:45:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1607",
                     "nombre": "Mundial FIBA Sub-19",
                     "eventos": [
-                        {
-                            "id": "79445",
-                            "fecha": "2025-07-04 06:00:00",
-                            "nombre": "Octavos de Final: Argentina vs. Camerún",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "79446",
-                            "fecha": "2025-07-04 06:30:00",
-                            "nombre": "Octavos de Final: Eslovenia\tvs.\tIsrael",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "79447",
-                            "fecha": "2025-07-04 09:30:00",
-                            "nombre": "Octavos de Final: Alemania\tvs.\tAustralia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
                         {
                             "id": "79448",
                             "fecha": "2025-07-04 12:00:00",
@@ -510,57 +314,19 @@
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-07-04 06:00:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "1657",
                     "nombre": "Fórmula 3",
-                    "eventos": [
-                        {
-                            "id": "79437",
-                            "fecha": "2025-07-04 09:55:00",
-                            "nombre": "GP de Gran Bretaña: Clasificación",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-07-04 04:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1325",
@@ -648,74 +414,6 @@
                     "nombre": "World Rugby U20 Championship",
                     "eventos": [
                         {
-                            "id": "79467",
-                            "fecha": "2025-07-04 10:20:00",
-                            "nombre": "Francia vs. Gales",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "79468",
-                            "fecha": "2025-07-04 10:20:00",
-                            "nombre": "Australia vs. Escocia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "79469",
-                            "fecha": "2025-07-04 10:50:00",
-                            "nombre": "Inglaterra vs. Sudáfrica",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
-                            "id": "79470",
-                            "fecha": "2025-07-04 10:50:00",
-                            "nombre": "Nueva Zelanda vs. Georgia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
                             "id": "79432",
                             "fecha": "2025-07-04 15:20:00",
                             "nombre": "Argentina vs. España",
@@ -775,7 +473,7 @@
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-07-04 10:20:00",
-                    "cantidad_eventos": 6
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "1517",
