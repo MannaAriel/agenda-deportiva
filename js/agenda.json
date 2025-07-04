@@ -517,43 +517,6 @@
                     "nombre": "Fórmula 3",
                     "eventos": [
                         {
-                            "id": "79438",
-                            "fecha": "2025-07-04 04:45:00",
-                            "nombre": "GP de Gran Bretaña: Prácticas",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
                             "id": "79437",
                             "fecha": "2025-07-04 09:55:00",
                             "nombre": "GP de Gran Bretaña: Clasificación",
@@ -597,7 +560,7 @@
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-07-04 04:45:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1325",
@@ -1777,73 +1740,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "1517",
-                    "nombre": "UEFA Euro Femenina",
-                    "eventos": [
-                        {
-                            "id": "79478",
-                            "fecha": "2025-07-05 12:45:00",
-                            "nombre": "Gales vs. Países Bajos",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79454",
-                            "fecha": "2025-07-05 16:00:00",
-                            "nombre": "Francia\tvs.\tInglaterra",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-05 12:45:00",
-                    "cantidad_eventos": 2
-                },
-                {
                     "id": "81",
                     "nombre": "Test Match",
                     "eventos": [
@@ -1943,6 +1839,73 @@
                     },
                     "primerFecha": "2025-07-05 03:55:00",
                     "cantidad_eventos": 4
+                },
+                {
+                    "id": "1517",
+                    "nombre": "UEFA Euro Femenina",
+                    "eventos": [
+                        {
+                            "id": "79478",
+                            "fecha": "2025-07-05 12:45:00",
+                            "nombre": "Gales vs. Países Bajos",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79454",
+                            "fecha": "2025-07-05 16:00:00",
+                            "nombre": "Francia\tvs.\tInglaterra",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "179",
+                                    "nombre": "DISNEY +"
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-07-05 12:45:00",
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "368",
