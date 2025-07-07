@@ -8,55 +8,6 @@
                     "nombre": "Wimbledon",
                     "eventos": [
                         {
-                            "id": "79514",
-                            "fecha": "2025-07-07 07:00:00",
-                            "nombre": "Octavos de Final (Masc y Fem)",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "79520",
                             "fecha": "2025-07-07 13:00:00",
                             "nombre": "Octavos de Final (Masc y Fem)",
@@ -95,7 +46,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-07-07 07:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "441",
@@ -221,32 +172,14 @@
                 {
                     "id": "461",
                     "nombre": "Ciclismo - Tour de France",
-                    "eventos": [
-                        {
-                            "id": "79516",
-                            "fecha": "2025-07-07 07:00:00",
-                            "nombre": "Etapa #3",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-07-07 07:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1176",
@@ -307,7 +240,7 @@
                         {
                             "id": "79532",
                             "fecha": "2025-07-08 16:00:00",
-                            "nombre": "Semifinales: a confirmar",
+                            "nombre": "Semifinales: Fluminense vs. Chelsea",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -323,6 +256,10 @@
                                 {
                                     "id": "164",
                                     "nombre": "DSPORTS / DGO"
+                                },
+                                {
+                                    "id": "158",
+                                    "nombre": "TELEFE"
                                 }
                             ],
                             "deporte": {
@@ -616,9 +553,19 @@
                         {
                             "id": "79562",
                             "fecha": "2025-07-09 16:00:00",
-                            "nombre": "París Saint Germain vs. Real Madrid",
+                            "nombre": "Semifinales: París Saint Germain vs. Real Madrid",
                             "horaDia": 2,
                             "canales": [
+                                {
+                                    "id": "192",
+                                    "nombre": "DAZN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                },
                                 {
                                     "id": "164",
                                     "nombre": "DSPORTS / DGO"
@@ -1574,6 +1521,10 @@
                 "ISDBT",
                 "IPTV"
             ]
+        },
+        {
+            "id": "158",
+            "nombre": "TELEFE"
         },
         {
             "id": "20",
