@@ -1,584 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-07-12",
-            "torneos": [
-                {
-                    "id": "1346",
-                    "nombre": "Liga Profesional Argentina",
-                    "eventos": [
-                        {
-                            "id": "79570",
-                            "fecha": "2025-07-12 18:30:00",
-                            "nombre": "Huracán vs. Belgrano",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79571",
-                            "fecha": "2025-07-12 18:30:00",
-                            "nombre": "Gimnasia LP vs. Instituto",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79572",
-                            "fecha": "2025-07-12 20:45:00",
-                            "nombre": "Racing vs. Barracas Central",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-12 16:00:00",
-                    "cantidad_eventos": 3
-                },
-                {
-                    "id": "1612",
-                    "nombre": "Wimbledon",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-07-12 12:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "6",
-                    "nombre": "Primera Nacional",
-                    "eventos": [
-                        {
-                            "id": "79593",
-                            "fecha": "2025-07-12 19:05:00",
-                            "nombre": "Defensores de Belgrano\tvs.\tNueva Chicago",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-12 13:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "838",
-                    "nombre": "Amistoso Internacional",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-12 06:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-12 13:10:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "30",
-                    "nombre": "Boxeo de Primera",
-                    "eventos": [
-                        {
-                            "id": "79608",
-                            "fecha": "2025-07-12 23:00:00",
-                            "nombre": "Francisco Verón\tvs.\tVladimir Hernández",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "6",
-                                "nombre": "Boxeo",
-                                "icono": "boxeo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "6",
-                        "nombre": "Boxeo",
-                        "icono": "boxeo.png"
-                    },
-                    "primerFecha": "2025-07-12 23:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "435",
-                    "nombre": "Top 12 de la URBA",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-07-12 14:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1183",
-                    "nombre": "ESPN Knockout",
-                    "eventos": [
-                        {
-                            "id": "79607",
-                            "fecha": "2025-07-12 19:00:00",
-                            "nombre": "Gerardo Zapata\tvs.\tErick Badillo",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "6",
-                                "nombre": "Boxeo",
-                                "icono": "boxeo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "6",
-                        "nombre": "Boxeo",
-                        "icono": "boxeo.png"
-                    },
-                    "primerFecha": "2025-07-12 19:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "420",
-                    "nombre": "UFC",
-                    "eventos": [
-                        {
-                            "id": "79625",
-                            "fecha": "2025-07-12 19:00:00",
-                            "nombre": "Preliminares y Derrick Lewis vs. Tallison Teixeira",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-07-12 19:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "13",
-                    "nombre": "Liga Nacional",
-                    "eventos": [
-                        {
-                            "id": "79598",
-                            "fecha": "2025-07-12 21:05:00",
-                            "nombre": "Final - Partido 5: Boca\tvs.\tInstituto",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-07-12 21:05:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "461",
-                    "nombre": "Ciclismo - Tour de France",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-07-12 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1176",
-                    "nombre": "NBA Summer League",
-                    "eventos": [
-                        {
-                            "id": "79597",
-                            "fecha": "2025-07-12 23:30:00",
-                            "nombre": "Memphis Grizzlies\tvs.\tPortland Trail Blazers",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-07-12 17:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "154",
-                    "nombre": "Moto GP",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "5",
-                        "nombre": "Automovilismo",
-                        "icono": "automovilismo.png"
-                    },
-                    "primerFecha": "2025-07-12 05:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1599",
-                    "nombre": "Voley: Nations League Femenino",
-                    "eventos": [
-                        {
-                            "id": "79613",
-                            "fecha": "2025-07-12 18:00:00",
-                            "nombre": "Alemania\tvs.\tChina",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "79614",
-                            "fecha": "2025-07-12 21:30:00",
-                            "nombre": "Canadá\tvs.\tEstados Unidos",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-07-12 07:20:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "81",
-                    "nombre": "Test Match",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "4",
-                        "nombre": "Rugby",
-                        "icono": "rugby.png"
-                    },
-                    "primerFecha": "2025-07-12 03:55:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1607",
-                    "nombre": "Mundial FIBA Sub-19",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-07-12 12:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-07-12 14:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1517",
-                    "nombre": "UEFA Euro Femenina",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-12 15:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "965",
-                    "nombre": "Copa America - Femenino",
-                    "eventos": [
-                        {
-                            "id": "79595",
-                            "fecha": "2025-07-12 18:00:00",
-                            "nombre": "Perú\tvs.\tChile",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-12 18:00:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-07-13",
             "torneos": [
                 {
@@ -1861,6 +1283,338 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-07-16",
+            "torneos": [
+                {
+                    "id": "72",
+                    "nombre": "Copa Conmebol Sudamericana",
+                    "eventos": [
+                        {
+                            "id": "79665",
+                            "fecha": "2025-07-16 19:00:00",
+                            "nombre": "Bolívar vs. Palestino - Playoffs Ida",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79666",
+                            "fecha": "2025-07-16 21:30:00",
+                            "nombre": "Alianza Lima vs. Gremio - Playoffs Ida",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79668",
+                            "fecha": "2025-07-16 21:30:00",
+                            "nombre": "San Antonio Bulo Bulo vs. Once Caldas",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-07-16 19:00:00",
+                    "cantidad_eventos": 3
+                },
+                {
+                    "id": "1011",
+                    "nombre": "Voley: Nations League Masculino",
+                    "eventos": [
+                        {
+                            "id": "79674",
+                            "fecha": "2025-07-16 07:20:00",
+                            "nombre": "Alemania vs. Japón",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "79675",
+                            "fecha": "2025-07-16 08:00:00",
+                            "nombre": "China vs. Francia",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "16",
+                                    "nombre": "DSPORTS 2 / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "79676",
+                            "fecha": "2025-07-16 11:30:00",
+                            "nombre": "Serbia vs. Italia",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "79677",
+                            "fecha": "2025-07-16 15:30:00",
+                            "nombre": "Canadá vs. Eslovenia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-07-16 07:20:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "1176",
+                    "nombre": "NBA Summer League",
+                    "eventos": [
+                        {
+                            "id": "79671",
+                            "fecha": "2025-07-16 18:30:00",
+                            "nombre": "Milwaukee Bucks vs. Chicago Bulls",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        },
+                        {
+                            "id": "79672",
+                            "fecha": "2025-07-16 21:00:00",
+                            "nombre": "Dallas Mavericks vs. Philadelphia 76ers",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        },
+                        {
+                            "id": "79673",
+                            "fecha": "2025-07-16 23:00:00",
+                            "nombre": "Washington Wizards vs. Utah Jazz",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "161",
+                                    "nombre": "ESPN 4",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 28,
+                                        "ISDBT": 26.2,
+                                        "IPTV": 22
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "2",
+                                "nombre": "Básquet",
+                                "icono": "basquet.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-07-16 18:30:00",
+                    "cantidad_eventos": 3
+                },
+                {
+                    "id": "965",
+                    "nombre": "Copa America - Femenino",
+                    "eventos": [
+                        {
+                            "id": "79669",
+                            "fecha": "2025-07-16 18:00:00",
+                            "nombre": "Bolivia vs. Brasil",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "185",
+                                    "nombre": "DSPORTS + / DGO",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "79670",
+                            "fecha": "2025-07-16 21:00:00",
+                            "nombre": "Venezuela vs. Colombia",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "185",
+                                    "nombre": "DSPORTS + / DGO",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-07-16 18:00:00",
+                    "cantidad_eventos": 2
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -1873,10 +1627,6 @@
                 "ISDBT",
                 "IPTV"
             ]
-        },
-        {
-            "id": "171",
-            "nombre": "DGO"
         },
         {
             "id": "179",
@@ -2032,7 +1782,7 @@
             "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-07-12",
+    "hoy": "2025-07-13",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
