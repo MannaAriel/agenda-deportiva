@@ -1,199 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-07-21",
-            "torneos": [
-                {
-                    "id": "1346",
-                    "nombre": "Liga Profesional Argentina",
-                    "eventos": [
-                        {
-                            "id": "79701",
-                            "fecha": "2025-07-21 19:00:00",
-                            "nombre": "Estudiantes vs. Huracán",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79702",
-                            "fecha": "2025-07-21 21:15:00",
-                            "nombre": "Defensa y Justicia vs. Aldosivi",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79703",
-                            "fecha": "2025-07-21 21:15:00",
-                            "nombre": "San Martín (SJ) vs. Dep. Riestra",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                },
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-21 19:00:00",
-                    "cantidad_eventos": 3
-                },
-                {
-                    "id": "61",
-                    "nombre": "Primera B Metropolitana",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-21 15:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "838",
-                    "nombre": "Amistoso Internacional",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-21 16:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1035",
-                    "nombre": "Torneo Internacional Sub 20 de L'Alcúdia",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-21 15:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1689",
-                    "nombre": "Futsal AFA",
-                    "eventos": [
-                        {
-                            "id": "79782",
-                            "fecha": "2025-07-21 21:05:00",
-                            "nombre": "Boca vs. River",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-07-21 21:05:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-07-22",
             "torneos": [
                 {
@@ -1418,18 +1225,6 @@
             }
         },
         {
-            "id": "150",
-            "nombre": "ESPN PREMIUM",
-            "plataformas": [
-                "HD",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 30,
-                "IPTV": 23
-            }
-        },
-        {
             "id": "27",
             "nombre": "FOX SPORTS 3",
             "plataformas": [
@@ -1443,18 +1238,6 @@
                 "ANALOGICO": 16,
                 "ISDBT": 24.4,
                 "IPTV": 16
-            }
-        },
-        {
-            "id": "95",
-            "nombre": "TNT SPORTS",
-            "plataformas": [
-                "HD",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 29,
-                "IPTV": 24
             }
         },
         {
@@ -1474,7 +1257,7 @@
             }
         }
     ],
-    "hoy": "2025-07-21",
+    "hoy": "2025-07-22",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
