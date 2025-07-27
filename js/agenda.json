@@ -8,56 +8,6 @@
                     "nombre": "Liga Profesional Argentina",
                     "eventos": [
                         {
-                            "id": "79829",
-                            "fecha": "2025-07-26 14:30:00",
-                            "nombre": "Aldosivi (MdP) vs. Newell's Old Boys",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79830",
-                            "fecha": "2025-07-26 16:45:00",
-                            "nombre": "Rosario Central vs. San Martín (SJ)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "150",
-                                    "nombre": "ESPN PREMIUM",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 30,
-                                        "IPTV": 23
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "79831",
                             "fecha": "2025-07-26 19:00:00",
                             "nombre": "Vélez Sarsfield vs. Instituto (C)",
@@ -139,7 +89,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-07-26 14:30:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 3
                 },
                 {
                     "id": "168",
@@ -157,80 +107,6 @@
                     "id": "6",
                     "nombre": "Primera Nacional",
                     "eventos": [
-                        {
-                            "id": "79887",
-                            "fecha": "2025-07-26 14:45:00",
-                            "nombre": "Tristán Suárez\tvs.\tLos Andes",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79888",
-                            "fecha": "2025-07-26 17:10:00",
-                            "nombre": "Morón\tvs.\tChacarita",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                },
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "79889",
                             "fecha": "2025-07-26 19:05:00",
@@ -275,7 +151,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-07-26 14:45:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "143",
@@ -310,66 +186,14 @@
                 {
                     "id": "838",
                     "nombre": "Amistoso Internacional",
-                    "eventos": [
-                        {
-                            "id": "79878",
-                            "fecha": "2025-07-26 12:20:00",
-                            "nombre": "Kaiserslautern vs. Roma",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79879",
-                            "fecha": "2025-07-26 15:50:00",
-                            "nombre": "Nottingham Forest vs. Fulham",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "79880",
-                            "fecha": "2025-07-26 16:00:00",
-                            "nombre": "100° Aniversario Colo Colo: Colo Colo vs. Valladolid",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-07-26 08:20:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "61",
@@ -424,32 +248,14 @@
                 {
                     "id": "420",
                     "nombre": "UFC",
-                    "eventos": [
-                        {
-                            "id": "79876",
-                            "fecha": "2025-07-26 13:00:00",
-                            "nombre": "Preliminares y Robert Whittaker vs. Reinier de Ridder",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-07-26 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1183",
@@ -566,23 +372,6 @@
                     "nombre": "Copa Panamericana de Hockey",
                     "eventos": [
                         {
-                            "id": "79871",
-                            "fecha": "2025-07-26 17:20:00",
-                            "nombre": "Masculino: Chile vs. Canadá",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
                             "id": "79873",
                             "fecha": "2025-07-26 19:20:00",
                             "nombre": "Femenino: Uruguay vs. Paraguay",
@@ -606,266 +395,84 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-07-26 09:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "1599",
                     "nombre": "Voley: Nations League Femenino",
-                    "eventos": [
-                        {
-                            "id": "79893",
-                            "fecha": "2025-07-26 15:00:00",
-                            "nombre": "Semifinal 2: Japón vs. Brasil",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-07-26 11:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1529",
                     "nombre": "Ciclismo - Tour de France femenino",
-                    "eventos": [
-                        {
-                            "id": "79869",
-                            "fecha": "2025-07-26 12:00:00",
-                            "nombre": "Etapa 1",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "179",
-                                    "nombre": "DISNEY +"
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-07-26 12:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "351",
                     "nombre": "IndyCar Series",
-                    "eventos": [
-                        {
-                            "id": "79866",
-                            "fecha": "2025-07-26 12:30:00",
-                            "nombre": "Laguna Seca: Práctica #2",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        },
-                        {
-                            "id": "79867",
-                            "fecha": "2025-07-26 15:30:00",
-                            "nombre": "Laguna Seca: Clasificación",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-07-26 12:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "368",
                     "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "79883",
-                            "fecha": "2025-07-26 14:00:00",
-                            "nombre": "Philadelphia Phillies vs. New York Mets",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-07-26 14:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1341",
                     "nombre": "Clasificación World Cup\t",
-                    "eventos": [
-                        {
-                            "id": "79875",
-                            "fecha": "2025-07-26 14:45:00",
-                            "nombre": "Los Cóndores vs. Brasil",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "4",
                         "nombre": "Rugby",
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-07-26 14:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "194",
                     "nombre": "Torneo Federal A",
-                    "eventos": [
-                        {
-                            "id": "79891",
-                            "fecha": "2025-07-26 15:30:00",
-                            "nombre": "San Martín (F)\tvs.\tAtletico Rafaela",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-07-26 15:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1618",
                     "nombre": "Premier League Summer Series",
                     "eventos": [
-                        {
-                            "id": "79881",
-                            "fecha": "2025-07-26 16:50:00",
-                            "nombre": "Everton vs. Bournemouth",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "79882",
                             "fecha": "2025-07-26 19:50:00",
@@ -910,7 +517,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-07-26 16:50:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 }
             ],
             "eventos": [],
@@ -2192,10 +1799,6 @@
         {
             "id": "164",
             "nombre": "DSPORTS / DGO"
-        },
-        {
-            "id": "16",
-            "nombre": "DSPORTS 2 / DGO"
         },
         {
             "id": "8",
