@@ -110,87 +110,19 @@
                 {
                     "id": "513",
                     "nombre": "Ciclismo - Vuelta de España",
-                    "eventos": [
-                        {
-                            "id": "80766",
-                            "fecha": "2025-09-02 10:50:00",
-                            "nombre": "Etapa 10",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-02 10:50:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "730",
                     "nombre": "Eurobasket",
                     "eventos": [
-                        {
-                            "id": "80763",
-                            "fecha": "2025-09-02 09:00:00",
-                            "nombre": "Grecia vs. Bosnia y Herzegovina",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "80764",
-                            "fecha": "2025-09-02 09:00:00",
-                            "nombre": "Bélgica vs. Israel ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
                         {
                             "id": "80760",
                             "fecha": "2025-09-02 12:00:00",
@@ -249,7 +181,7 @@
                         "icono": "basquet.png"
                     },
                     "primerFecha": "2025-09-02 09:00:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 3
                 },
                 {
                     "id": "368",
