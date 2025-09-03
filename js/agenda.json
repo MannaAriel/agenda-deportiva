@@ -1,141 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-09-02",
-            "torneos": [
-                {
-                    "id": "97",
-                    "nombre": "US Open",
-                    "eventos": [
-                        {
-                            "id": "80768",
-                            "fecha": "2025-09-02 20:00:00",
-                            "nombre": "Cuartos de Final",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "3",
-                        "nombre": "Tenis",
-                        "icono": "tenis.png"
-                    },
-                    "primerFecha": "2025-09-02 12:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "254",
-                    "nombre": "Primera C",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-02 15:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "513",
-                    "nombre": "Ciclismo - Vuelta de España",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-02 10:50:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "730",
-                    "nombre": "Eurobasket",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-09-02 09:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "80767",
-                            "fecha": "2025-09-02 20:00:00",
-                            "nombre": "New York Mets vs. Detroit Tigers",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-02 20:00:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-09-03",
             "torneos": [
                 {
@@ -1665,6 +1530,60 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-09-06",
+            "torneos": [
+                {
+                    "id": "168",
+                    "nombre": "Fórmula 1",
+                    "eventos": [
+                        {
+                            "id": "79920",
+                            "fecha": "2025-09-06 07:30:00",
+                            "nombre": "GP de Monza: Práctica 3",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        },
+                        {
+                            "id": "79921",
+                            "fecha": "2025-09-06 11:00:00",
+                            "nombre": "GP de Monza: Clasificación",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-09-06 07:30:00",
+                    "cantidad_eventos": 2
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -1800,7 +1719,7 @@
             }
         }
     ],
-    "hoy": "2025-09-02",
+    "hoy": "2025-09-03",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
