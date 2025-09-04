@@ -8,39 +8,6 @@
                     "nombre": "US Open",
                     "eventos": [
                         {
-                            "id": "80845",
-                            "fecha": "2025-09-03 12:30:00",
-                            "nombre": "Cuartos de Final: F. Auger-Aliassime vs. A. De Minaur",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "80846",
                             "fecha": "2025-09-03 20:00:00",
                             "nombre": "Cuartos de Final: J. Sinner vs. L. Musetti",
@@ -80,67 +47,31 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-09-03 12:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "838",
                     "nombre": "Amistoso Internacional",
-                    "eventos": [
-                        {
-                            "id": "80852",
-                            "fecha": "2025-09-03 13:00:00",
-                            "nombre": "Gibraltar vs. Albania",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-03 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1152",
                     "nombre": "Eliminatorias Europeas",
-                    "eventos": [
-                        {
-                            "id": "80850",
-                            "fecha": "2025-09-03 13:00:00",
-                            "nombre": "Lituania vs. Malta",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-03 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1634",
@@ -155,70 +86,6 @@
                     "cantidad_eventos": 0
                 },
                 {
-                    "id": "730",
-                    "nombre": "Eurobasket",
-                    "eventos": [
-                        {
-                            "id": "80875",
-                            "fecha": "2025-09-03 12:00:00",
-                            "nombre": "República Checa vs. Letonia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "80876",
-                            "fecha": "2025-09-03 14:30:00",
-                            "nombre": "Finlandia vs. Alemania",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        },
-                        {
-                            "id": "80877",
-                            "fecha": "2025-09-03 15:15:00",
-                            "nombre": "Turquía vs. Serbia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-09-03 07:30:00",
-                    "cantidad_eventos": 3
-                },
-                {
                     "id": "1548",
                     "nombre": "Mundial de Vóley Femenino",
                     "eventos": [],
@@ -228,6 +95,18 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-03 07:00:00",
+                    "cantidad_eventos": 0
+                },
+                {
+                    "id": "730",
+                    "nombre": "Eurobasket",
+                    "eventos": [],
+                    "deporte": {
+                        "id": "2",
+                        "nombre": "Básquet",
+                        "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-09-03 07:30:00",
                     "cantidad_eventos": 0
                 },
                 {
@@ -362,19 +241,15 @@
                             "horaDia": 3,
                             "canales": [
                                 {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
+                                    "id": "28",
+                                    "nombre": "TYC SPORTS 2",
                                     "plataformas": [
                                         "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
                                         "IPTV"
                                     ],
                                     "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
+                                        "HD": 31,
+                                        "IPTV": 25
                                     }
                                 }
                             ],
@@ -400,7 +275,40 @@
                         {
                             "id": "80861",
                             "fecha": "2025-09-04 20:00:00",
-                            "nombre": "Semifinales Femeninas",
+                            "nombre": "Semifinal Femenina: A. Sabalenka vs. J. Pegula",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "3",
+                                "nombre": "Tenis",
+                                "icono": "tenis.png"
+                            }
+                        },
+                        {
+                            "id": "80891",
+                            "fecha": "2025-09-04 21:30:00",
+                            "nombre": "Semifinal Femenina #2",
                             "horaDia": 3,
                             "canales": [
                                 {
@@ -437,7 +345,7 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-09-04 20:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "1152",
@@ -1100,7 +1008,7 @@
                         {
                             "id": "80864",
                             "fecha": "2025-09-05 16:00:00",
-                            "nombre": "Semifinal Masculina #1",
+                            "nombre": "Semifinal Masculina: N. Djokovic vs. C. Alcaraz",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -1420,6 +1328,52 @@
             "fecha": "2025-09-06",
             "torneos": [
                 {
+                    "id": "310",
+                    "nombre": "Supercopa Argentina",
+                    "eventos": [
+                        {
+                            "id": "80900",
+                            "fecha": "2025-09-06 16:00:00",
+                            "nombre": "Vélez vs. Central Córdoba",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-06 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "168",
                     "nombre": "Fórmula 1",
                     "eventos": [
@@ -1465,6 +1419,261 @@
                     },
                     "primerFecha": "2025-09-06 07:30:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "6",
+                    "nombre": "Primera Nacional",
+                    "eventos": [
+                        {
+                            "id": "80898",
+                            "fecha": "2025-09-06 13:30:00",
+                            "nombre": "Atlanta vs. Güemes (SdE)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-06 13:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1152",
+                    "nombre": "Eliminatorias Europeas",
+                    "eventos": [
+                        {
+                            "id": "80892",
+                            "fecha": "2025-09-06 10:00:00",
+                            "nombre": "Letonia vs. Serbia",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "80893",
+                            "fecha": "2025-09-06 13:00:00",
+                            "nombre": "Inglaterra vs. Andorra",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "80894",
+                            "fecha": "2025-09-06 13:00:00",
+                            "nombre": "Armenia vs. Portugal",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "80895",
+                            "fecha": "2025-09-06 15:45:00",
+                            "nombre": "Irlanda vs. Hungría",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "80896",
+                            "fecha": "2025-09-06 15:45:00",
+                            "nombre": "San Marino vs. Bosnia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "80897",
+                            "fecha": "2025-09-06 15:45:00",
+                            "nombre": "Austria vs. Chipre",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-06 10:00:00",
+                    "cantidad_eventos": 6
+                },
+                {
+                    "id": "836",
+                    "nombre": "Eliminatorias Africanas",
+                    "eventos": [
+                        {
+                            "id": "80901",
+                            "fecha": "2025-09-06 13:00:00",
+                            "nombre": "Nigeria vs. Ruanda",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "176",
+                                    "nombre": "FIFA +",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-06 13:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "347",
+                    "nombre": "Reserva",
+                    "eventos": [
+                        {
+                            "id": "80899",
+                            "fecha": "2025-09-06 19:00:00",
+                            "nombre": "Talleres vs. Belgrano",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-06 19:00:00",
+                    "cantidad_eventos": 1
                 }
             ],
             "eventos": [],
@@ -1568,6 +1777,16 @@
             ]
         },
         {
+            "id": "176",
+            "nombre": "FIFA +",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ]
+        },
+        {
             "id": "27",
             "nombre": "FOX SPORTS 3",
             "plataformas": [
@@ -1601,6 +1820,18 @@
                 "ANALOGICO": 17,
                 "ISDBT": 24.5,
                 "IPTV": 17
+            }
+        },
+        {
+            "id": "28",
+            "nombre": "TYC SPORTS 2",
+            "plataformas": [
+                "HD",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 31,
+                "IPTV": 25
             }
         },
         {
