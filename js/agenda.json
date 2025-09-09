@@ -529,6 +529,42 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "1321",
+                    "nombre": "Ciclismo ",
+                    "eventos": [
+                        {
+                            "id": "80959",
+                            "fecha": "2025-09-09 10:00:00",
+                            "nombre": "UCI Montain Bike Championships 2025",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "185",
+                                    "nombre": "DSPORTS + / DGO",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ]
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-09-09 10:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "730",
                     "nombre": "Eurobasket",
                     "eventos": [
@@ -574,42 +610,6 @@
                     },
                     "primerFecha": "2025-09-09 10:00:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "1321",
-                    "nombre": "Ciclismo ",
-                    "eventos": [
-                        {
-                            "id": "80959",
-                            "fecha": "2025-09-09 10:00:00",
-                            "nombre": "UCI Montain Bike Championships 2025",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-09 10:00:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "513",
