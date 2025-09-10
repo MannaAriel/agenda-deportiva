@@ -1,265 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-09-09",
-            "torneos": [
-                {
-                    "id": "1633",
-                    "nombre": "Eliminatorias Sudamericanas",
-                    "eventos": [
-                        {
-                            "id": "80939",
-                            "fecha": "2025-09-09 20:00:00",
-                            "nombre": "Ecuador vs. Argentina",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "158",
-                                    "nombre": "TELEFE"
-                                },
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80940",
-                            "fecha": "2025-09-09 20:30:00",
-                            "nombre": "Venezuela vs. Colombia",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80941",
-                            "fecha": "2025-09-09 20:30:00",
-                            "nombre": "Perú vs. Paraguay",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80942",
-                            "fecha": "2025-09-09 20:30:00",
-                            "nombre": "Bolivia vs. Brasil",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80943",
-                            "fecha": "2025-09-09 20:30:00",
-                            "nombre": "Chile vs. Uruguay",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-09 20:00:00",
-                    "cantidad_eventos": 5
-                },
-                {
-                    "id": "838",
-                    "nombre": "Amistoso Internacional",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-09 13:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1152",
-                    "nombre": "Eliminatorias Europeas",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-09 13:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "254",
-                    "nombre": "Primera C",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-09 15:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "21",
-                    "nombre": "Amistoso",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-09 15:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "347",
-                    "nombre": "Reserva",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-09 14:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "144",
-                    "nombre": "WNBA",
-                    "eventos": [
-                        {
-                            "id": "80956",
-                            "fecha": "2025-09-09 20:30:00",
-                            "nombre": "Minnesota Lynx vs. Indiana Fever",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "2",
-                                "nombre": "Básquet",
-                                "icono": "basquet.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-09-09 20:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "730",
-                    "nombre": "Eurobasket",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-09-09 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1321",
-                    "nombre": "Ciclismo ",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-09 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "513",
-                    "nombre": "Ciclismo - Vuelta de España",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-09 10:50:00",
-                    "cantidad_eventos": 0
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-09-10",
             "torneos": [
                 {
@@ -1578,6 +1319,172 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-09-13",
+            "torneos": [
+                {
+                    "id": "1346",
+                    "nombre": "Liga Profesional Argentina",
+                    "eventos": [
+                        {
+                            "id": "81038",
+                            "fecha": "2025-09-13 14:30:00",
+                            "nombre": "Godoy Cruz vs. Barracas Central",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81039",
+                            "fecha": "2025-09-13 16:45:00",
+                            "nombre": "Independiente vs. Banfield",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81040",
+                            "fecha": "2025-09-13 19:00:00",
+                            "nombre": "Estudiantes (LP) vs. River",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81041",
+                            "fecha": "2025-09-13 21:15:00",
+                            "nombre": "Sarmieto vs. Aldosivi",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-13 14:30:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "24",
+                    "nombre": "Rugby Championship",
+                    "eventos": [
+                        {
+                            "id": "81008",
+                            "fecha": "2025-09-13 01:00:00",
+                            "nombre": "Australia vs. Los Pumas",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "4",
+                                "nombre": "Rugby",
+                                "icono": "rugby.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "4",
+                        "nombre": "Rugby",
+                        "icono": "rugby.png"
+                    },
+                    "primerFecha": "2025-09-13 01:00:00",
+                    "cantidad_eventos": 1
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -1612,6 +1519,22 @@
                 "ISDBT",
                 "IPTV"
             ]
+        },
+        {
+            "id": "8",
+            "nombre": "ESPN",
+            "plataformas": [
+                "HD",
+                "ANALOGICO",
+                "ISDBT",
+                "IPTV"
+            ],
+            "frecuencias": {
+                "HD": 25,
+                "ANALOGICO": 19,
+                "ISDBT": 25.4,
+                "IPTV": 19
+            }
         },
         {
             "id": "39",
@@ -1715,10 +1638,6 @@
             }
         },
         {
-            "id": "158",
-            "nombre": "TELEFE"
-        },
-        {
             "id": "95",
             "nombre": "TNT SPORTS",
             "plataformas": [
@@ -1729,29 +1648,9 @@
                 "HD": 29,
                 "IPTV": 24
             }
-        },
-        {
-            "id": "20",
-            "nombre": "TYC SPORTS",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 23,
-                "ANALOGICO": 17,
-                "ISDBT": 24.5,
-                "IPTV": 17
-            }
-        },
-        {
-            "id": "50",
-            "nombre": "TYC SPORTS PLAY"
         }
     ],
-    "hoy": "2025-09-09",
+    "hoy": "2025-09-10",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
