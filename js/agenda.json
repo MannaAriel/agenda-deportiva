@@ -118,373 +118,64 @@
                     "cantidad_eventos": 5
                 },
                 {
-                    "id": "1152",
-                    "nombre": "Eliminatorias Europeas",
-                    "eventos": [
-                        {
-                            "id": "80944",
-                            "fecha": "2025-09-09 13:00:00",
-                            "nombre": "Azerbaiyán vs. Ucrania",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80948",
-                            "fecha": "2025-09-09 13:00:00",
-                            "nombre": "Armenia vs. Irlanda",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80949",
-                            "fecha": "2025-09-09 15:30:00",
-                            "nombre": "Noruega vs. Moldavia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80945",
-                            "fecha": "2025-09-09 15:45:00",
-                            "nombre": "Serbia vs. Inglaterra",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80950",
-                            "fecha": "2025-09-09 15:45:00",
-                            "nombre": "Albania vs. Letonia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80951",
-                            "fecha": "2025-09-09 15:45:00",
-                            "nombre": "Bosnia-Herzegovina vs. Austria",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80952",
-                            "fecha": "2025-09-09 15:45:00",
-                            "nombre": "Chipre vs. Rumania",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80953",
-                            "fecha": "2025-09-09 15:45:00",
-                            "nombre": "Francia vs. Islandia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80954",
-                            "fecha": "2025-09-09 15:45:00",
-                            "nombre": "Hungría vs. Portugal",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-09 13:00:00",
-                    "cantidad_eventos": 9
-                },
-                {
                     "id": "838",
                     "nombre": "Amistoso Internacional",
-                    "eventos": [
-                        {
-                            "id": "80947",
-                            "fecha": "2025-09-09 13:00:00",
-                            "nombre": "Estonia vs. Andorra",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-09 13:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
+                },
+                {
+                    "id": "1152",
+                    "nombre": "Eliminatorias Europeas",
+                    "eventos": [],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-09 13:00:00",
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "254",
                     "nombre": "Primera C",
-                    "eventos": [
-                        {
-                            "id": "80935",
-                            "fecha": "2025-09-09 15:30:00",
-                            "nombre": "Claypole vs. Deportivo Español",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80936",
-                            "fecha": "2025-09-09 15:30:00",
-                            "nombre": "Club Luján vs. Deportivo Paraguayo",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80937",
-                            "fecha": "2025-09-09 15:30:00",
-                            "nombre": "Juventud Unida (SM) vs. Central Ballester",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "80938",
-                            "fecha": "2025-09-09 15:30:00",
-                            "nombre": "Camioneros vs. Cañuelas",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-09 15:30:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "21",
                     "nombre": "Amistoso",
-                    "eventos": [
-                        {
-                            "id": "80955",
-                            "fecha": "2025-09-09 15:45:00",
-                            "nombre": "Gales vs. Canadá",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-09 15:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "347",
                     "nombre": "Reserva",
-                    "eventos": [
-                        {
-                            "id": "80946",
-                            "fecha": "2025-09-09 14:45:00",
-                            "nombre": "Estudiantes LP vs. Defensa y Justicia",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-09 14:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "144",
@@ -529,18 +220,6 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "1321",
-                    "nombre": "Ciclismo ",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-09 10:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
                     "id": "730",
                     "nombre": "Eurobasket",
                     "eventos": [],
@@ -548,6 +227,18 @@
                         "id": "2",
                         "nombre": "Básquet",
                         "icono": "basquet.png"
+                    },
+                    "primerFecha": "2025-09-09 10:00:00",
+                    "cantidad_eventos": 0
+                },
+                {
+                    "id": "1321",
+                    "nombre": "Ciclismo ",
+                    "eventos": [],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-09 10:00:00",
                     "cantidad_eventos": 0
@@ -1891,10 +1582,6 @@
     ],
     "canales": [
         {
-            "id": "171",
-            "nombre": "DGO"
-        },
-        {
             "id": "181",
             "nombre": "DISNEY + PREMIUM "
         },
@@ -1925,22 +1612,6 @@
                 "ISDBT",
                 "IPTV"
             ]
-        },
-        {
-            "id": "8",
-            "nombre": "ESPN",
-            "plataformas": [
-                "HD",
-                "ANALOGICO",
-                "ISDBT",
-                "IPTV"
-            ],
-            "frecuencias": {
-                "HD": 25,
-                "ANALOGICO": 19,
-                "ISDBT": 25.4,
-                "IPTV": 19
-            }
         },
         {
             "id": "39",
