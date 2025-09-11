@@ -136,94 +136,26 @@
                 {
                     "id": "1634",
                     "nombre": "Ciclismo - La Vuelta",
-                    "eventos": [
-                        {
-                            "id": "81001",
-                            "fecha": "2025-09-11 10:50:00",
-                            "nombre": "Etapa #18",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-11 10:50:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1236",
                     "nombre": "Golf: BMW Championship",
-                    "eventos": [
-                        {
-                            "id": "81000",
-                            "fecha": "2025-09-11 08:00:00",
-                            "nombre": "Primera Vuelta",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-11 08:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "368",
@@ -670,7 +602,7 @@
                         {
                             "id": "81022",
                             "fecha": "2025-09-12 09:00:00",
-                            "nombre": "Países Bajos vs. Argentina",
+                            "nombre": "Jasper De Jong/ Botic Van de Zandschulp vs. Tomás Etcheverri/ Francisco Cerúndulo",
                             "horaDia": 1,
                             "canales": [
                                 {
@@ -1740,7 +1672,7 @@
                         {
                             "id": "81047",
                             "fecha": "2025-09-13 09:00:00",
-                            "nombre": "Países Bajos vs. Argentina",
+                            "nombre": "Jasper De Jong/ Botic Van de Zandschulp vs. Tomás Etcheverry/ Francisco Cerúndolo",
                             "horaDia": 1,
                             "canales": [
                                 {
@@ -2100,6 +2032,81 @@
                     "cantidad_eventos": 4
                 },
                 {
+                    "id": "125",
+                    "nombre": "Premier League",
+                    "eventos": [
+                        {
+                            "id": "81071",
+                            "fecha": "2025-09-14 10:00:00",
+                            "nombre": "Burnley vs. Liverpool",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81072",
+                            "fecha": "2025-09-14 12:30:00",
+                            "nombre": "Manchester City vs. Manchester United",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "8",
+                                    "nombre": "ESPN",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 25,
+                                        "ANALOGICO": 19,
+                                        "ISDBT": 25.4,
+                                        "IPTV": 19
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-14 10:00:00",
+                    "cantidad_eventos": 2
+                },
+                {
                     "id": "127",
                     "nombre": "Ligue 1 de Francia",
                     "eventos": [
@@ -2229,81 +2236,6 @@
                     },
                     "primerFecha": "2025-09-14 10:00:00",
                     "cantidad_eventos": 6
-                },
-                {
-                    "id": "125",
-                    "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "81071",
-                            "fecha": "2025-09-14 10:00:00",
-                            "nombre": "Burnley vs. Liverpool",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81072",
-                            "fecha": "2025-09-14 12:30:00",
-                            "nombre": "Manchester City vs. Manchester United",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-14 10:00:00",
-                    "cantidad_eventos": 2
                 },
                 {
                     "id": "129",
