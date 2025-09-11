@@ -42,52 +42,18 @@
                 {
                     "id": "368",
                     "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "80996",
-                            "fecha": "2025-09-10 20:00:00",
-                            "nombre": "Toronto Blue Jays vs. Houston Astros",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-10 20:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 }
             ],
             "eventos": [],
-            "tieneEventos": true
+            "tieneEventos": false
         },
         {
             "fecha": "2025-09-11",
