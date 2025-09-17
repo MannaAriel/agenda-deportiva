@@ -404,23 +404,6 @@
                     "nombre": "Voley: Campeonato Mundial Masculino",
                     "eventos": [
                         {
-                            "id": "81128",
-                            "fecha": "2025-09-17 02:30:00",
-                            "nombre": "Bulgaria vs. Chile",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
                             "id": "81129",
                             "fecha": "2025-09-17 06:30:00",
                             "nombre": "Estados Unidos vs. Cuba",
@@ -529,7 +512,7 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-17 02:30:00",
-                    "cantidad_eventos": 7
+                    "cantidad_eventos": 6
                 },
                 {
                     "id": "94",
@@ -1535,13 +1518,13 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "128",
-                    "nombre": "Serie A de Italia",
+                    "id": "127",
+                    "nombre": "Ligue 1 de Francia",
                     "eventos": [
                         {
-                            "id": "81120",
+                            "id": "81119",
                             "fecha": "2025-09-19 15:30:00",
-                            "nombre": "Lecce vs. Cagliari",
+                            "nombre": "Lyon vs. Angers",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -1565,13 +1548,13 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "127",
-                    "nombre": "Ligue 1 de Francia",
+                    "id": "128",
+                    "nombre": "Serie A de Italia",
                     "eventos": [
                         {
-                            "id": "81119",
+                            "id": "81120",
                             "fecha": "2025-09-19 15:30:00",
-                            "nombre": "Lyon vs. Angers",
+                            "nombre": "Lecce vs. Cagliari",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -1923,48 +1906,6 @@
                     "cantidad_eventos": 2
                 },
                 {
-                    "id": "1689",
-                    "nombre": "Futsal AFA",
-                    "eventos": [
-                        {
-                            "id": "81259",
-                            "fecha": "2025-09-19 19:00:00",
-                            "nombre": "Argentina vs. Chile",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-19 19:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
                     "id": "544",
                     "nombre": "Vóley: División de Honor (Femenina)",
                     "eventos": [
@@ -2034,6 +1975,48 @@
                     },
                     "primerFecha": "2025-09-19 19:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "1689",
+                    "nombre": "Futsal AFA",
+                    "eventos": [
+                        {
+                            "id": "81259",
+                            "fecha": "2025-09-19 19:00:00",
+                            "nombre": "Argentina vs. Chile",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-19 19:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "368",
