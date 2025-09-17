@@ -1,247 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-09-16",
-            "torneos": [
-                {
-                    "id": "3",
-                    "nombre": "Copa Conmebol Libertadores",
-                    "eventos": [
-                        {
-                            "id": "81171",
-                            "fecha": "2025-09-16 19:00:00",
-                            "nombre": "Cuartos de final (ida): Vélez Sarsfield vs. Racing",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-16 19:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "12",
-                    "nombre": "UEFA Champions League",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-16 13:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "143",
-                    "nombre": "MLS (Major League Soccer)",
-                    "eventos": [
-                        {
-                            "id": "81170",
-                            "fecha": "2025-09-16 20:30:00",
-                            "nombre": "Inter Miami vs. Seattle Sounders",
-                            "horaDia": 3,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-16 20:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "72",
-                    "nombre": "Copa Conmebol Sudamericana",
-                    "eventos": [
-                        {
-                            "id": "81172",
-                            "fecha": "2025-09-16 21:30:00",
-                            "nombre": "Cuartos de final (ida): Lanús vs. Fluminense",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-16 21:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "254",
-                    "nombre": "Primera C",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-16 15:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "192",
-                    "nombre": "Carabao Cup",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-16 15:45:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "102",
-                    "nombre": "Mundial de Vóley",
-                    "eventos": [
-                        {
-                            "id": "81188",
-                            "fecha": "2025-09-16 23:00:00",
-                            "nombre": "Portugal vs. Colombia",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "81189",
-                            "fecha": "2025-09-16 23:30:00",
-                            "nombre": "Qatar vs. Rumania ",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-16 02:30:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "81181",
-                            "fecha": "2025-09-16 20:00:00",
-                            "nombre": "San Diego Padres vs. New York Mets",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-16 20:00:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-09-17",
             "torneos": [
                 {
@@ -1776,13 +1535,13 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "127",
-                    "nombre": "Ligue 1 de Francia",
+                    "id": "128",
+                    "nombre": "Serie A de Italia",
                     "eventos": [
                         {
-                            "id": "81119",
+                            "id": "81120",
                             "fecha": "2025-09-19 15:30:00",
-                            "nombre": "Lyon vs. Angers",
+                            "nombre": "Lecce vs. Cagliari",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -1806,13 +1565,13 @@
                     "cantidad_eventos": 1
                 },
                 {
-                    "id": "128",
-                    "nombre": "Serie A de Italia",
+                    "id": "127",
+                    "nombre": "Ligue 1 de Francia",
                     "eventos": [
                         {
-                            "id": "81120",
+                            "id": "81119",
                             "fecha": "2025-09-19 15:30:00",
-                            "nombre": "Lecce vs. Cagliari",
+                            "nombre": "Lyon vs. Angers",
                             "horaDia": 2,
                             "canales": [
                                 {
@@ -2325,6 +2084,213 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-09-20",
+            "torneos": [
+                {
+                    "id": "1346",
+                    "nombre": "Liga Profesional Argentina",
+                    "eventos": [
+                        {
+                            "id": "81268",
+                            "fecha": "2025-09-20 14:30:00",
+                            "nombre": "Barracas Central vs. Sarmiento",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81269",
+                            "fecha": "2025-09-20 16:45:00",
+                            "nombre": "Unión vs. Independiente Rivadavia",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81271",
+                            "fecha": "2025-09-20 19:00:00",
+                            "nombre": "Tigre vs. Aldosivi",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81272",
+                            "fecha": "2025-09-20 21:15:00",
+                            "nombre": "Atlético Tucumán vs. River",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-20 14:30:00",
+                    "cantidad_eventos": 4
+                },
+                {
+                    "id": "168",
+                    "nombre": "Fórmula 1",
+                    "eventos": [
+                        {
+                            "id": "79925",
+                            "fecha": "2025-09-20 05:30:00",
+                            "nombre": "GP de Azerbaiyán: Práctica 3",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        },
+                        {
+                            "id": "79926",
+                            "fecha": "2025-09-20 09:00:00",
+                            "nombre": "GP de Azerbaiyán: Clasificación",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "5",
+                                "nombre": "Automovilismo",
+                                "icono": "automovilismo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "5",
+                        "nombre": "Automovilismo",
+                        "icono": "automovilismo.png"
+                    },
+                    "primerFecha": "2025-09-20 05:30:00",
+                    "cantidad_eventos": 2
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -2500,7 +2466,7 @@
             }
         }
     ],
-    "hoy": "2025-09-16",
+    "hoy": "2025-09-17",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
