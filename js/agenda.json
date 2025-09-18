@@ -420,40 +420,6 @@
                     "nombre": "Voley: Campeonato Mundial Masculino",
                     "eventos": [
                         {
-                            "id": "81248",
-                            "fecha": "2025-09-18 02:30:00",
-                            "nombre": "Egipto vs. Túnez",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
-                            "id": "81249",
-                            "fecha": "2025-09-18 03:00:00",
-                            "nombre": "Bélgica vs. Argelia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        },
-                        {
                             "id": "81250",
                             "fecha": "2025-09-18 06:30:00",
                             "nombre": "Filipinas vs. Irán",
@@ -528,7 +494,7 @@
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-18 02:30:00",
-                    "cantidad_eventos": 6
+                    "cantidad_eventos": 4
                 },
                 {
                     "id": "94",
@@ -1286,6 +1252,48 @@
                     "cantidad_eventos": 2
                 },
                 {
+                    "id": "1689",
+                    "nombre": "Futsal AFA",
+                    "eventos": [
+                        {
+                            "id": "81259",
+                            "fecha": "2025-09-19 19:00:00",
+                            "nombre": "Argentina vs. Chile",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-19 19:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "544",
                     "nombre": "Vóley: División de Honor (Femenina)",
                     "eventos": [
@@ -1355,48 +1363,6 @@
                     },
                     "primerFecha": "2025-09-19 19:00:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "1689",
-                    "nombre": "Futsal AFA",
-                    "eventos": [
-                        {
-                            "id": "81259",
-                            "fecha": "2025-09-19 19:00:00",
-                            "nombre": "Argentina vs. Chile",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-19 19:00:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "368",
