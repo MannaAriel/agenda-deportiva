@@ -119,52 +119,14 @@
                 {
                     "id": "168",
                     "nombre": "Fórmula 1",
-                    "eventos": [
-                        {
-                            "id": "79924",
-                            "fecha": "2025-09-19 09:00:00",
-                            "nombre": "GP de Azerbaiyán: Práctica 2",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-09-19 05:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "129",
@@ -365,74 +327,26 @@
                 {
                     "id": "1705",
                     "nombre": "PGA Tour - FedEx Open de France",
-                    "eventos": [
-                        {
-                            "id": "81262",
-                            "fecha": "2025-09-19 08:30:00",
-                            "nombre": "Ronda 2",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-19 08:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1701",
                     "nombre": "Skoda Tour du Luxemborgo",
-                    "eventos": [
-                        {
-                            "id": "81263",
-                            "fecha": "2025-09-19 10:00:00",
-                            "nombre": "Etapa 3",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-19 10:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1554",
@@ -526,39 +440,6 @@
                     "nombre": "Laver Cup",
                     "eventos": [
                         {
-                            "id": "81123",
-                            "fecha": "2025-09-19 08:30:00",
-                            "nombre": "Día #1",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "3",
-                                "nombre": "Tenis",
-                                "icono": "tenis.png"
-                            }
-                        },
-                        {
                             "id": "81122",
                             "fecha": "2025-09-19 16:30:00",
                             "nombre": "Día #1",
@@ -598,7 +479,49 @@
                         "icono": "tenis.png"
                     },
                     "primerFecha": "2025-09-19 08:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "1689",
+                    "nombre": "Futsal AFA",
+                    "eventos": [
+                        {
+                            "id": "81259",
+                            "fecha": "2025-09-19 19:00:00",
+                            "nombre": "Argentina vs. Chile",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-19 19:00:00",
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "544",
@@ -670,48 +593,6 @@
                     },
                     "primerFecha": "2025-09-19 19:00:00",
                     "cantidad_eventos": 2
-                },
-                {
-                    "id": "1689",
-                    "nombre": "Futsal AFA",
-                    "eventos": [
-                        {
-                            "id": "81259",
-                            "fecha": "2025-09-19 19:00:00",
-                            "nombre": "Argentina vs. Chile",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "20",
-                                    "nombre": "TYC SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 23,
-                                        "ANALOGICO": 17,
-                                        "ISDBT": 24.5,
-                                        "IPTV": 17
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-19 19:00:00",
-                    "cantidad_eventos": 1
                 },
                 {
                     "id": "368",
@@ -2266,6 +2147,334 @@
                     },
                     "primerFecha": "2025-09-22 19:00:00",
                     "cantidad_eventos": 2
+                },
+                {
+                    "id": "128",
+                    "nombre": "Serie A de Italia",
+                    "eventos": [
+                        {
+                            "id": "81330",
+                            "fecha": "2025-09-22 15:30:00",
+                            "nombre": "Napoli vs. Pisa",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-22 15:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "6",
+                    "nombre": "Primera Nacional",
+                    "eventos": [
+                        {
+                            "id": "81322",
+                            "fecha": "2025-09-22 21:05:00",
+                            "nombre": "Quilmes vs. Güemes",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81323",
+                            "fecha": "2025-09-22 21:05:00",
+                            "nombre": "All Boys vs. Deportivo Madryn",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-22 21:05:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "61",
+                    "nombre": "Primera B Metropolitana",
+                    "eventos": [
+                        {
+                            "id": "81324",
+                            "fecha": "2025-09-22 17:30:00",
+                            "nombre": "Excursionistas vs. San Martín Burzaco",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "20",
+                                    "nombre": "TYC SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 23,
+                                        "ANALOGICO": 17,
+                                        "ISDBT": 24.5,
+                                        "IPTV": 17
+                                    }
+                                },
+                                {
+                                    "id": "50",
+                                    "nombre": "TYC SPORTS PLAY"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-22 17:30:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "102",
+                    "nombre": "Mundial de Vóley",
+                    "eventos": [
+                        {
+                            "id": "81328",
+                            "fecha": "2025-09-22 04:30:00",
+                            "nombre": "Octavos: Bulgaria vs. Portugal",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "81329",
+                            "fecha": "2025-09-22 09:00:00",
+                            "nombre": "Octavos: Estados Unidos vs. Eslovenia",
+                            "horaDia": 1,
+                            "canales": [
+                                {
+                                    "id": "164",
+                                    "nombre": "DSPORTS / DGO"
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-09-22 04:30:00",
+                    "cantidad_eventos": 2
+                },
+                {
+                    "id": "1047",
+                    "nombre": "EFL Championship",
+                    "eventos": [
+                        {
+                            "id": "81325",
+                            "fecha": "2025-09-22 16:00:00",
+                            "nombre": "Milwall vs. Watford",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "171",
+                                    "nombre": "DGO"
+                                },
+                                {
+                                    "id": "7",
+                                    "nombre": "FOX SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 20,
+                                        "ANALOGICO": 14,
+                                        "ISDBT": 24.2,
+                                        "IPTV": 14
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-22 16:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
+                    "id": "368",
+                    "nombre": "MLB (Major League Baseball)",
+                    "eventos": [
+                        {
+                            "id": "81326",
+                            "fecha": "2025-09-22 21:00:00",
+                            "nombre": "Detroit Lions vs. Baltimore Ravens",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "39",
+                                    "nombre": "ESPN 2",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 26,
+                                        "ANALOGICO": 20,
+                                        "ISDBT": 25.5,
+                                        "IPTV": 20
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "81327",
+                            "fecha": "2025-09-22 22:30:00",
+                            "nombre": "Milwaukee Brewers vs. San Diego Padres",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                },
+                                {
+                                    "id": "25",
+                                    "nombre": "ESPN 3",
+                                    "plataformas": [
+                                        "HD",
+                                        "ANALOGICO",
+                                        "ISDBT",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 27,
+                                        "ANALOGICO": 21,
+                                        "ISDBT": 25.6,
+                                        "IPTV": 21
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        },
+                        {
+                            "id": "81331",
+                            "fecha": "2025-09-22 22:30:00",
+                            "nombre": "San Francisco Giants vs. St. Louis Cardinals",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-09-22 21:00:00",
+                    "cantidad_eventos": 3
                 }
             ],
             "eventos": [],
@@ -2284,10 +2493,6 @@
         {
             "id": "164",
             "nombre": "DSPORTS / DGO"
-        },
-        {
-            "id": "16",
-            "nombre": "DSPORTS 2 / DGO"
         },
         {
             "id": "8",
@@ -2439,6 +2644,10 @@
                 "ISDBT": 24.5,
                 "IPTV": 17
             }
+        },
+        {
+            "id": "50",
+            "nombre": "TYC SPORTS PLAY"
         }
     ],
     "hoy": "2025-09-19",
