@@ -146,73 +146,6 @@
                     "nombre": "Serie A de Italia",
                     "eventos": [
                         {
-                            "id": "81309",
-                            "fecha": "2025-09-21 07:30:00",
-                            "nombre": "Lazio vs. Roma",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81310",
-                            "fecha": "2025-09-21 10:00:00",
-                            "nombre": "Torino vs. Atalanta",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81311",
-                            "fecha": "2025-09-21 10:00:00",
-                            "nombre": "Cremonese vs. Parma",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "81312",
                             "fecha": "2025-09-21 13:00:00",
                             "nombre": "Fiorentina vs. Como",
@@ -269,112 +202,24 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-21 07:30:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "168",
                     "nombre": "Fórmula 1",
-                    "eventos": [
-                        {
-                            "id": "79927",
-                            "fecha": "2025-09-21 08:00:00",
-                            "nombre": "GP de Azerbaiyán: Carrera",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "5",
-                                "nombre": "Automovilismo",
-                                "icono": "automovilismo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "5",
                         "nombre": "Automovilismo",
                         "icono": "automovilismo.png"
                     },
                     "primerFecha": "2025-09-21 08:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
                     "eventos": [
-                        {
-                            "id": "81305",
-                            "fecha": "2025-09-21 09:00:00",
-                            "nombre": "Rayo Vallecano vs. Celta de Vigo",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81306",
-                            "fecha": "2025-09-21 11:15:00",
-                            "nombre": "Mallorca vs. Atlético Madrid",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "81307",
                             "fecha": "2025-09-21 13:30:00",
@@ -448,62 +293,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-21 09:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "125",
                     "nombre": "Premier League",
                     "eventos": [
-                        {
-                            "id": "81302",
-                            "fecha": "2025-09-21 10:00:00",
-                            "nombre": "Bournemouth vs. Newcastle",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81303",
-                            "fecha": "2025-09-21 10:00:00",
-                            "nombre": "Sunderland vs. Aston Villa",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "81304",
                             "fecha": "2025-09-21 12:30:00",
@@ -544,29 +339,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-21 10:00:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "127",
                     "nombre": "Ligue 1 de Francia",
                     "eventos": [
-                        {
-                            "id": "81317",
-                            "fecha": "2025-09-21 10:00:00",
-                            "nombre": "Paris FC vs. Racing de Estrasburgo",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "81318",
                             "fecha": "2025-09-21 12:15:00",
@@ -658,29 +436,12 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-21 10:00:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 4
                 },
                 {
                     "id": "129",
                     "nombre": "Bundesliga de Alemania",
                     "eventos": [
-                        {
-                            "id": "81314",
-                            "fecha": "2025-09-21 10:30:00",
-                            "nombre": "Eintracht Frankfurt vs. Union Berlín",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "81315",
                             "fecha": "2025-09-21 12:30:00",
@@ -738,7 +499,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-21 10:30:00",
-                    "cantidad_eventos": 3
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "6",
@@ -916,101 +677,26 @@
                 {
                     "id": "139",
                     "nombre": "Eredivisie de Países Bajos",
-                    "eventos": [
-                        {
-                            "id": "81379",
-                            "fecha": "2025-09-21 09:30:00",
-                            "nombre": "PSV vs. Ajax",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81380",
-                            "fecha": "2025-09-21 11:30:00",
-                            "nombre": "AZ Alkmaar vs. Feyenoord",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-21 09:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "102",
                     "nombre": "Mundial de Vóley",
-                    "eventos": [
-                        {
-                            "id": "81394",
-                            "fecha": "2025-09-21 09:00:00",
-                            "nombre": "Bélgica vs. Finlandia ",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "7",
                         "nombre": "Polideportivo",
                         "icono": "polideportivo.png"
                     },
                     "primerFecha": "2025-09-21 04:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1655",
