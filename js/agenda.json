@@ -1,276 +1,6 @@
 {
     "fechas": [
         {
-            "fecha": "2025-09-25",
-            "torneos": [
-                {
-                    "id": "3",
-                    "nombre": "Copa Conmebol Libertadores",
-                    "eventos": [
-                        {
-                            "id": "81433",
-                            "fecha": "2025-09-25 19:00:00",
-                            "nombre": "Cuartos de Final (vuelta) Sao Paulo (0) vs. Liga de Quito (2)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81438",
-                            "fecha": "2025-09-25 21:30:00",
-                            "nombre": "Cuartos de Final (vuelta) Estudiantes LP (1)  vs. Flamengo (2)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "7",
-                                    "nombre": "FOX SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 20,
-                                        "ANALOGICO": 14,
-                                        "ISDBT": 24.2,
-                                        "IPTV": 14
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-25 19:00:00",
-                    "cantidad_eventos": 2
-                },
-                {
-                    "id": "64",
-                    "nombre": "UEFA Europa League",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-25 13:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "126",
-                    "nombre": "Liga de España",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-25 14:20:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "72",
-                    "nombre": "Copa Conmebol Sudamericana",
-                    "eventos": [
-                        {
-                            "id": "81439",
-                            "fecha": "2025-09-25 21:30:00",
-                            "nombre": "Cuartos de final (vuelta) Universidad de Chile (0) vs. Alianza Lima (0)",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-25 21:30:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "559",
-                    "nombre": "Copa de Italia ",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "1",
-                        "nombre": "Fútbol",
-                        "icono": "futbol.png"
-                    },
-                    "primerFecha": "2025-09-25 13:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "13",
-                    "nombre": "Liga Nacional",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "2",
-                        "nombre": "Básquet",
-                        "icono": "basquet.png"
-                    },
-                    "primerFecha": "2025-09-25 11:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "142",
-                    "nombre": "NFL (Fútbol Americano)",
-                    "eventos": [
-                        {
-                            "id": "81436",
-                            "fecha": "2025-09-25 21:00:00",
-                            "nombre": "Arizona Cardinals vs. Seattle Seahawks",
-                            "horaDia": 3,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-25 21:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "1541",
-                    "nombre": "Voley: Campeonato Mundial Masculino",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-25 04:30:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "1601",
-                    "nombre": "Premier Padel",
-                    "eventos": [],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-25 06:00:00",
-                    "cantidad_eventos": 0
-                },
-                {
-                    "id": "368",
-                    "nombre": "MLB (Major League Baseball)",
-                    "eventos": [
-                        {
-                            "id": "81435",
-                            "fecha": "2025-09-25 19:30:00",
-                            "nombre": "Cleveland Guardians vs. Detroit",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "187",
-                                    "nombre": "ESPN 7",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                },
-                                {
-                                    "id": "27",
-                                    "nombre": "FOX SPORTS 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 22,
-                                        "ANALOGICO": 16,
-                                        "ISDBT": 24.4,
-                                        "IPTV": 16
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-25 19:30:00",
-                    "cantidad_eventos": 1
-                }
-            ],
-            "eventos": [],
-            "tieneEventos": true
-        },
-        {
             "fecha": "2025-09-26",
             "torneos": [
                 {
@@ -2187,6 +1917,76 @@
             ],
             "eventos": [],
             "tieneEventos": true
+        },
+        {
+            "fecha": "2025-09-29",
+            "torneos": [
+                {
+                    "id": "1346",
+                    "nombre": "Liga Profesional Argentina",
+                    "eventos": [
+                        {
+                            "id": "81466",
+                            "fecha": "2025-09-29 15:30:00",
+                            "nombre": "Barracas Central vs. Belgrano (C)",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "95",
+                                    "nombre": "TNT SPORTS",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 29,
+                                        "IPTV": 24
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        },
+                        {
+                            "id": "81467",
+                            "fecha": "2025-09-29 20:00:00",
+                            "nombre": "Vélez vs. Atlético Tucumán",
+                            "horaDia": 3,
+                            "canales": [
+                                {
+                                    "id": "150",
+                                    "nombre": "ESPN PREMIUM",
+                                    "plataformas": [
+                                        "HD",
+                                        "IPTV"
+                                    ],
+                                    "frecuencias": {
+                                        "HD": 30,
+                                        "IPTV": 23
+                                    }
+                                }
+                            ],
+                            "deporte": {
+                                "id": "1",
+                                "nombre": "Fútbol",
+                                "icono": "futbol.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "1",
+                        "nombre": "Fútbol",
+                        "icono": "futbol.png"
+                    },
+                    "primerFecha": "2025-09-29 15:30:00",
+                    "cantidad_eventos": 2
+                }
+            ],
+            "eventos": [],
+            "tieneEventos": true
         }
     ],
     "canales": [
@@ -2322,7 +2122,7 @@
             }
         }
     ],
-    "hoy": "2025-09-25",
+    "hoy": "2025-09-26",
     "firma": {
         "mail": "leandromanna@gmail.com // https://mannaleandro.netlify.app/",
         "nombre": "Leandro A. Manna"
