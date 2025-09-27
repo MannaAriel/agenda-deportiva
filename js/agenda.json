@@ -894,39 +894,6 @@
                     "nombre": "Rugby Championship",
                     "eventos": [
                         {
-                            "id": "81451",
-                            "fecha": "2025-09-27 02:00:00",
-                            "nombre": "Nueva Zelanda vs. Australia",
-                            "horaDia": 1,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "8",
-                                    "nombre": "ESPN",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 25,
-                                        "ANALOGICO": 19,
-                                        "ISDBT": 25.4,
-                                        "IPTV": 19
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "4",
-                                "nombre": "Rugby",
-                                "icono": "rugby.png"
-                            }
-                        },
-                        {
                             "id": "81568",
                             "fecha": "2025-09-27 12:10:00",
                             "nombre": "Sudáfrica vs. Los Pumas",
@@ -966,7 +933,7 @@
                         "icono": "rugby.png"
                     },
                     "primerFecha": "2025-09-27 02:00:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "254",
@@ -2430,6 +2397,36 @@
                     "cantidad_eventos": 1
                 },
                 {
+                    "id": "220",
+                    "nombre": "Hockey Femenino: Torneo Metropolitano",
+                    "eventos": [
+                        {
+                            "id": "81578",
+                            "fecha": "2025-09-28 13:00:00",
+                            "nombre": "River Plate vs. Ciudad",
+                            "horaDia": 2,
+                            "canales": [
+                                {
+                                    "id": "181",
+                                    "nombre": "DISNEY + PREMIUM "
+                                }
+                            ],
+                            "deporte": {
+                                "id": "7",
+                                "nombre": "Polideportivo",
+                                "icono": "polideportivo.png"
+                            }
+                        }
+                    ],
+                    "deporte": {
+                        "id": "7",
+                        "nombre": "Polideportivo",
+                        "icono": "polideportivo.png"
+                    },
+                    "primerFecha": "2025-09-28 13:00:00",
+                    "cantidad_eventos": 1
+                },
+                {
                     "id": "530",
                     "nombre": "Golf: Ryder Cup",
                     "eventos": [
@@ -2458,36 +2455,6 @@
                                         "ISDBT": 25.5,
                                         "IPTV": 20
                                     }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "7",
-                                "nombre": "Polideportivo",
-                                "icono": "polideportivo.png"
-                            }
-                        }
-                    ],
-                    "deporte": {
-                        "id": "7",
-                        "nombre": "Polideportivo",
-                        "icono": "polideportivo.png"
-                    },
-                    "primerFecha": "2025-09-28 13:00:00",
-                    "cantidad_eventos": 1
-                },
-                {
-                    "id": "220",
-                    "nombre": "Hockey Femenino: Torneo Metropolitano",
-                    "eventos": [
-                        {
-                            "id": "81578",
-                            "fecha": "2025-09-28 13:00:00",
-                            "nombre": "River Plate vs. Ciudad",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
                                 }
                             ],
                             "deporte": {
