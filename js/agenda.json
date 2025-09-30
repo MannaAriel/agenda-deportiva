@@ -8,31 +8,6 @@
                     "nombre": "Liga Profesional Argentina",
                     "eventos": [
                         {
-                            "id": "81466",
-                            "fecha": "2025-09-29 15:30:00",
-                            "nombre": "Barracas Central vs. Belgrano (C)",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "95",
-                                    "nombre": "TNT SPORTS",
-                                    "plataformas": [
-                                        "HD",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 29,
-                                        "IPTV": 24
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
                             "id": "81467",
                             "fecha": "2025-09-29 20:00:00",
                             "nombre": "Vélez vs. Atlético Tucumán",
@@ -64,191 +39,48 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 15:30:00",
-                    "cantidad_eventos": 2
+                    "cantidad_eventos": 1
                 },
                 {
                     "id": "128",
                     "nombre": "Serie A de Italia",
-                    "eventos": [
-                        {
-                            "id": "81527",
-                            "fecha": "2025-09-29 15:45:00",
-                            "nombre": "Genoa vs. Lazio ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "161",
-                                    "nombre": "ESPN 4",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 28,
-                                        "ISDBT": 26.2,
-                                        "IPTV": 22
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 15:45:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "125",
                     "nombre": "Premier League",
-                    "eventos": [
-                        {
-                            "id": "81526",
-                            "fecha": "2025-09-29 16:00:00",
-                            "nombre": "Everton vs. West Ham",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "39",
-                                    "nombre": "ESPN 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 26,
-                                        "ANALOGICO": 20,
-                                        "ISDBT": 25.5,
-                                        "IPTV": 20
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "126",
                     "nombre": "Liga de España",
-                    "eventos": [
-                        {
-                            "id": "81525",
-                            "fecha": "2025-09-29 16:00:00",
-                            "nombre": "Valencia vs. Oviedo",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "181",
-                                    "nombre": "DISNEY + PREMIUM "
-                                },
-                                {
-                                    "id": "25",
-                                    "nombre": "ESPN 3",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 27,
-                                        "ANALOGICO": 21,
-                                        "ISDBT": 25.6,
-                                        "IPTV": 21
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 16:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "61",
                     "nombre": "Primera B Metropolitana",
                     "eventos": [
-                        {
-                            "id": "81530",
-                            "fecha": "2025-09-29 15:05:00",
-                            "nombre": "Dock Sud vs. Real Pilar",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81538",
-                            "fecha": "2025-09-29 15:30:00",
-                            "nombre": "Flandria vs. Villa Dalmine",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "50",
-                                    "nombre": "TYC SPORTS PLAY"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "81539",
                             "fecha": "2025-09-29 20:00:00",
@@ -319,68 +151,19 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 15:05:00",
-                    "cantidad_eventos": 5
+                    "cantidad_eventos": 3
                 },
                 {
                     "id": "254",
                     "nombre": "Primera C",
-                    "eventos": [
-                        {
-                            "id": "81542",
-                            "fecha": "2025-09-29 15:30:00",
-                            "nombre": "Sportivo Barracas vs. JJ. Urquiza",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81543",
-                            "fecha": "2025-09-29 15:30:00",
-                            "nombre": "Leandro N. Alem vs. Argentino Rosario",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81544",
-                            "fecha": "2025-09-29 15:30:00",
-                            "nombre": "Victoriano Arenas vs. Centro Español",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81545",
-                            "fecha": "2025-09-29 15:30:00",
-                            "nombre": "Central Ballester vs. Claypole",
-                            "horaDia": 2,
-                            "canales": [],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 15:30:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "142",
@@ -464,123 +247,31 @@
                 {
                     "id": "1659",
                     "nombre": "Segunda división de España",
-                    "eventos": [
-                        {
-                            "id": "81529",
-                            "fecha": "2025-09-29 15:30:00",
-                            "nombre": "Leganés vs. Castellón",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "164",
-                                    "nombre": "DSPORTS / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 15:30:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1554",
                     "nombre": "Superliga de Turquía",
-                    "eventos": [
-                        {
-                            "id": "81528",
-                            "fecha": "2025-09-29 14:00:00",
-                            "nombre": "Besiktas vs. Kocaelispor ",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "171",
-                                    "nombre": "DGO"
-                                },
-                                {
-                                    "id": "15",
-                                    "nombre": "FOX SPORTS 2",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ],
-                                    "frecuencias": {
-                                        "HD": 21,
-                                        "ANALOGICO": 15,
-                                        "ISDBT": 24.3,
-                                        "IPTV": 15
-                                    }
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        }
-                    ],
+                    "eventos": [],
                     "deporte": {
                         "id": "1",
                         "nombre": "Fútbol",
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 14:00:00",
-                    "cantidad_eventos": 1
+                    "cantidad_eventos": 0
                 },
                 {
                     "id": "1595",
                     "nombre": "Mundial Sub 20",
                     "eventos": [
-                        {
-                            "id": "81524",
-                            "fecha": "2025-09-29 17:00:00",
-                            "nombre": "Noruega vs. Nigeria",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "16",
-                                    "nombre": "DSPORTS 2 / DGO"
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
-                        {
-                            "id": "81532",
-                            "fecha": "2025-09-29 17:00:00",
-                            "nombre": "Francia vs. Sudáfrica",
-                            "horaDia": 2,
-                            "canales": [
-                                {
-                                    "id": "185",
-                                    "nombre": "DSPORTS + / DGO",
-                                    "plataformas": [
-                                        "HD",
-                                        "ANALOGICO",
-                                        "ISDBT",
-                                        "IPTV"
-                                    ]
-                                }
-                            ],
-                            "deporte": {
-                                "id": "1",
-                                "nombre": "Fútbol",
-                                "icono": "futbol.png"
-                            }
-                        },
                         {
                             "id": "81533",
                             "fecha": "2025-09-29 20:00:00",
@@ -628,7 +319,7 @@
                         "icono": "futbol.png"
                     },
                     "primerFecha": "2025-09-29 17:00:00",
-                    "cantidad_eventos": 4
+                    "cantidad_eventos": 2
                 },
                 {
                     "id": "368",
